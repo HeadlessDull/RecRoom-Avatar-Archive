@@ -48,7 +48,7 @@ Each User has a link and/or discord profile for you to acess
     <tr>
     <td><img width="100" height="100" alt="2e0ea9d331f1c3e3af932048330877ff" src="https://github.com/user-attachments/assets/ea0e2b3e-9412-4d08-bcd5-3b146002c451" /></td>
     <td valign="middle">
-      <strong><a href="https://gobleno.co.uk//">Gobleno</a></strong>: Asset Exporting<br/>
+      <strong><a href="https://gobleno.co.uk//">Gobleno</a></strong>: Visual Design<br/>
       <sub>Discord: goblenoo</sub>
     </td>
   </tr>
