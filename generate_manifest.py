@@ -1,5 +1,5 @@
 ASSETS_FOLDER = "assets"
-RAW_BASE = "https://raw.githubusercontent.com/USERNAME/REPO/main/assets"
+RAW_BASE = "https://raw.githubusercontent.com/HeadlessDull/RecRoom-Avatar-Archive/main/assets"
 
 def generate_manifest():
     assets = []
