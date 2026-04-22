@@ -1,1 +1,11 @@
-
+{
+  "assets": [
+    {
+      "category": "Cube",
+      "name": "Cube",
+      "preview": "https://raw.githubusercontent.com/HeadlessDull/RecRoom-Avatar-Archive/main/Assets/Cube/Cube/Screenshot 2026-04-22 at 11.14.42.png",
+      "blend": "https://raw.githubusercontent.com/HeadlessDull/RecRoom-Avatar-Archive/main/Assets/Cube/Cube/Cube.blend",
+      "collection": "Cube"
+    }
+  ]
+}
