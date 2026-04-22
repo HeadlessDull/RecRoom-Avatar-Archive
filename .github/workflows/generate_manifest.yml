@@ -5,7 +5,10 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'manifest.json'    # Don't re-trigger when manifest itself is updated
+      - 'manifest.json'
+
+permissions:
+  contents: write        # ← This is the key addition
 
 jobs:
   generate:
@@ -13,10 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4      # ← Updated to v4 (fixes the Node.js warning too)
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # ← Updated to v5
         with:
           python-version: '3.x'
 
