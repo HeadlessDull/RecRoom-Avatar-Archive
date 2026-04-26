@@ -7,7 +7,7 @@ Massive collection of blender ready RecRoom Avatar Assets!
 
 # The Archive
 A large dump of images/textures/and fbx's of most if not all Avatar items used in game.
-> without UGC items from the community ⚠️
+> without UGC items from the community AND without known collab items ⚠️
 > > We could aceppt **PERSONALLY** include given UGC assets *later* on.
 
 >  Not *"yet"* blender ready out of the box ⚠️
