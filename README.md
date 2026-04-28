@@ -43,15 +43,6 @@ Each User has a link and/or discord profile for you to acess
       <strong><a href="https://www.instagram.com/creativejamieyt/">Creative Jamie</a></strong>: Asset Exporting<br/>
       <sub>Discord: creativejamie</sub>
     </td>
-  </tr>
-    </tr>
-    <tr>
-    <td><img width="100" height="100" alt="2e0ea9d331f1c3e3af932048330877ff" src="https://github.com/user-attachments/assets/ea0e2b3e-9412-4d08-bcd5-3b146002c451" /></td>
-    <td valign="middle">
-      <strong><a href="https://gobleno.co.uk//">Gobleno</a></strong>: Visual Design<br/>
-      <sub>Discord: goblenoo</sub>
-    </td>
-  </tr>
   <tr>
     <td><img width="100" height="100" alt="9cfbe7df30e3495c87a189be7cf66533" src="https://github.com/user-attachments/assets/c1036f31-d76d-47c9-9594-619cc3a65b07" /></td>
     <td valign="middle">
