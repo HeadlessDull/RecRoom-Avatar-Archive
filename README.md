@@ -43,6 +43,13 @@ Each User has a link and/or discord profile for you to acess
       <strong><a href="https://www.instagram.com/creativejamieyt/">Creative Jamie</a></strong>: Asset Exporting<br/>
       <sub>Discord: creativejamie</sub>
     </td>
+  </tr>
+    <tr>
+    <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
+    <td valign="middle">
+      <strong>Konman</strong>: Specailty Asset Exporting | Asset Exporting<br/>
+      <sub></sub>
+    </td>
   <tr>
     <td><img width="100" height="100" alt="9cfbe7df30e3495c87a189be7cf66533" src="https://github.com/user-attachments/assets/c1036f31-d76d-47c9-9594-619cc3a65b07" /></td>
     <td valign="middle">
