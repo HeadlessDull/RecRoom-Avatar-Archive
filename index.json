@@ -1,0 +1,54 @@
+{
+  "Belt": [],
+  "Ear": [],
+  "Eye": [
+    {
+      "label": "Acetate Glasses",
+      "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Acetate Glasses (Amber)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
+          "children": []
+        },
+        {
+          "label": "Acetate Glasses (Custom)",
+          "preview": "",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Custom)/Acetate Glasses (Custom).blend",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "Face": [],
+  "Hair": [],
+  "Hat": [],
+  "Legs": [],
+  "Neck": [],
+  "Shirt": [
+    {
+      "label": "Rec Room Hoodie",
+      "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Rec Room Hoodie (Custom)",
+          "preview": "",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Custom)/Rec Room Hoodie (Custom).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Orange)",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "Shoes": [],
+  "Shoulder": [],
+  "Wrist": []
+}
