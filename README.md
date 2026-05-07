@@ -1,9 +1,7 @@
 # RecRoom-Avatar-Archive
 Massive collection of blender ready RecRoom Avatar Assets!
 
-<div align="center">
-  <img width="960" height="540" alt="archivebox" src="https://github.com/user-attachments/assets/f5243a4e-7860-45cf-87d5-218c9260cfb0" />
-</div>
+<img width="960" height="540" alt="archivebox" src="https://github.com/user-attachments/assets/f5243a4e-7860-45cf-87d5-218c9260cfb0" />
 
 
 # This is still W.I.P
