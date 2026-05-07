@@ -1,15 +1,5 @@
 #!/usr/bin/env python3
 """
-build_index.py
---------------
-Run this script from the ROOT of the repo whenever you add or remove items:
-
-    python build_index.py
-
-It walks the Items/ folder and writes index.json to the repo root.
-Commit both files. The addon fetches index.json once at load time — no
-repo tree API calls needed during normal use.
-
 Structure understood:
 
     Items/
@@ -25,29 +15,7 @@ Structure understood:
                 Variant B/
                     Variant B.blend
 
-Output (index.json):
-    {
-        "Eye": [
-            {
-                "label": "Acetate Glasses",
-                "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber).png",
-                "blend": "",
-                "children": [
-                    {
-                        "label": "Acetate Glasses (Amber)",
-                        "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
-                        "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
-                        "children": []
-                    },
-                    ...
-                ]
-            }
-        ],
-        ...
-    }
-
-All paths in index.json are relative to the repo root and use forward slashes
-so they work as GitHub raw URL path components on any OS.
+All paths in index.json are relative to the repo root
 """
 
 import os
