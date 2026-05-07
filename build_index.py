@@ -1,25 +1,31 @@
 #!/usr/bin/env python3
 """
-Structure understood:
+build_index.py
+--------------
 
-    Items/
-        <Category>/
-            <ItemName>/                    ← DIRECT: has a .blend at top level
-                ItemName.blend
-                ItemName.png               ← optional preview
-            <ItemName>/                    ← VARIANT GROUP: has sub-folders
-                ItemName.png               ← optional group preview
-                Variant A/
-                    Variant A.blend
-                    Variant A.png
-                Variant B/
-                    Variant B.blend
+Folder layouts supported:
 
-All paths in index.json are relative to the repo root
+    DIRECT — .blend at top level:
+        ItemName/
+            ItemName.blend
+            ItemName.png        (optional preview)
+
+    VARIANT GROUP — sub-folders are variants:
+        ItemName/
+            ItemName.png        (optional group preview)
+            Variant A/
+                Variant A.blend
+                Variant A.png
+            Variant B/
+                Variant B.blend
+            ...                 (unlimited variants)
+
+    MIXED — has BOTH a .blend AND sub-folders:
+        Treated as VARIANT GROUP. The top-level .blend is ignored so that
+        adding variants to an existing direct item always works correctly.
 """
 
-import os
-import json
+import os, json, hashlib
 
 ITEMS_DIR  = "Items"
 OUTPUT     = "index.json"
@@ -30,58 +36,47 @@ CATEGORIES = [
     "Shoulder", "Wrist",
 ]
 
-def _is_hidden(name: str) -> bool:
+def _is_hidden(name):
     return name.startswith(".") or name.startswith("__")
 
-def _rel(path: str) -> str:
-    """Convert an OS path to a forward-slash repo-relative path."""
+def _rel(path):
     return path.replace(os.sep, "/")
 
-def _scan_leaf(path: str, label: str) -> dict:
+def _scan_leaf(path, label):
+    """A variant sub-folder: find its .blend and optional .png."""
     entries = [e for e in os.listdir(path) if not _is_hidden(e)]
-    blend = next((_rel(os.path.join(path, e)) for e in entries
-                  if e.lower().endswith(".blend")), "")
-    png   = next((_rel(os.path.join(path, e)) for e in entries
-                  if e.lower().endswith(".png")), "")
+    blend = next((_rel(os.path.join(path, e)) for e in entries if e.lower().endswith(".blend")), "")
+    png   = next((_rel(os.path.join(path, e)) for e in entries if e.lower().endswith(".png")),   "")
     return {"label": label, "preview": png, "blend": blend, "children": []}
 
-def _scan_item(path: str, label: str) -> dict:
+def _scan_item(path, label):
     entries = [e for e in os.listdir(path) if not _is_hidden(e)]
+    subdirs = [e for e in entries if os.path.isdir(os.path.join(path, e))]
     blends  = [e for e in entries if e.lower().endswith(".blend")]
     pngs    = [e for e in entries if e.lower().endswith(".png")]
-    subdirs = [e for e in entries if os.path.isdir(os.path.join(path, e))]
-
     preview = _rel(os.path.join(path, pngs[0])) if pngs else ""
 
-    if blends:
-        return {
-            "label":    label,
-            "preview":  preview,
-            "blend":    _rel(os.path.join(path, blends[0])),
-            "children": [],
-        }
-    elif subdirs:
+    # VARIANT GROUP wins if ANY sub-folders exist, even if a .blend is also present
+    if subdirs:
         children = [_scan_leaf(os.path.join(path, s), s) for s in sorted(subdirs)]
-        return {
-            "label":    label,
-            "preview":  preview,
-            "blend":    "",
-            "children": children,
-        }
-    else:
-        return {"label": label, "preview": preview, "blend": "", "children": []}
+        return {"label": label, "preview": preview, "blend": "", "children": children}
 
-def build_index() -> dict:
+    # DIRECT — no sub-folders
+    if blends:
+        return {"label": label, "preview": preview,
+                "blend": _rel(os.path.join(path, blends[0])), "children": []}
+
+    return {"label": label, "preview": preview, "blend": "", "children": []}
+
+def build_index():
     index = {}
     for cat in CATEGORIES:
         cat_dir = os.path.join(ITEMS_DIR, cat)
         if not os.path.isdir(cat_dir):
-            index[cat] = []
-            continue
+            index[cat] = []; continue
         items = []
         for name in sorted(os.listdir(cat_dir)):
-            if _is_hidden(name):
-                continue
+            if _is_hidden(name): continue
             full = os.path.join(cat_dir, name)
             if os.path.isdir(full):
                 items.append(_scan_item(full, name))
@@ -89,23 +84,20 @@ def build_index() -> dict:
     return index
 
 if __name__ == "__main__":
-    # Must be run from repo root
     if not os.path.isdir(ITEMS_DIR):
-        print(f"ERROR: '{ITEMS_DIR}' folder not found. Run this from the repo root.")
+        print(f"ERROR: '{ITEMS_DIR}' not found. Run from repo root.")
         raise SystemExit(1)
 
     index = build_index()
-
-    total = sum(
-        1 + len(item["children"])
-        for cat_items in index.values()
-        for item in cat_items
-    )
+    total_variants = sum(len(item["children"]) for cat in index.values() for item in cat)
+    total_direct   = sum(1 for cat in index.values() for item in cat if item["blend"])
 
     with open(OUTPUT, "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2, ensure_ascii=False)
 
-    print(f"✓ Written {OUTPUT}  ({total} items across {len(CATEGORIES)} categories)")
+    print(f"✓ {OUTPUT} written")
     for cat, items in index.items():
         if items:
-            print(f"  {cat}: {len(items)} item(s)")
+            for item in items:
+                variant_info = f" ({len(item['children'])} variants)" if item["children"] else ""
+                print(f"  {cat} / {item['label']}{variant_info}")
