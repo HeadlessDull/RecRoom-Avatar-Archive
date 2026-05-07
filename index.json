@@ -1,5 +1,12 @@
 {
-  "Belt": [],
+  "Belt": [
+    {
+      "label": "Artist Belt",
+      "preview": "Items/Belt/Artist Belt/Artist's Belt.png",
+      "blend": "Items/Belt/Artist Belt/Artist Belt.blend",
+      "children": []
+    }
+  ],
   "Ear": [],
   "Eye": [
     {
