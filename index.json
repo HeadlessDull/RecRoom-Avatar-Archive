@@ -36,20 +36,32 @@
   "Neck": [],
   "Shirt": [
     {
-      "label": "Rec Room Hoodie",
-      "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange).png",
+      "label": "Rec Room Hoodie (Solid)",
+      "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
       "blend": "",
       "children": [
         {
+          "label": "Rec Room Hoodie (Black)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Blue)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).blend",
+          "children": []
+        },
+        {
           "label": "Rec Room Hoodie (Custom)",
           "preview": "",
-          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Custom)/Rec Room Hoodie (Custom).blend",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Custom)/Rec Room Hoodie (Custom).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Orange)",
-          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
-          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
           "children": []
         }
       ]
