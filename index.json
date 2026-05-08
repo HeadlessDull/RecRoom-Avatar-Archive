@@ -19,22 +19,50 @@
           "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
           "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
           "children": []
-        },
-        {
-          "label": "Acetate Glasses (Custom)",
-          "preview": "",
-          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Custom)/Acetate Glasses (Custom).blend",
-          "children": []
         }
       ]
     }
   ],
   "Face": [],
-  "Hair": [],
-  "Hat": [],
-  "Legs": [],
+  "Hair": [
+    {
+      "label": "Emo Hair",
+      "preview": "Items/Hair/Emo Hair/Emo Hair.png",
+      "blend": "Items/Hair/Emo Hair/Emo Hair.blend",
+      "children": []
+    }
+  ],
+  "Hat": [
+    {
+      "label": "8 Ball Headphones",
+      "preview": "Items/Hat/8 Ball Headphones/8 Ball Headphones.png",
+      "blend": "Items/Hat/8 Ball Headphones/8 Ball Headphones.blend",
+      "children": []
+    }
+  ],
+  "Legs": [
+    {
+      "label": "Basic Pants",
+      "preview": "Items/Legs/Basic Pants/Navy Blue Basic Pants [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Navy Blue Basics Pants",
+          "preview": "Items/Legs/Basic Pants/Navy Blue Basics Pants/Navy Blue Basic Pants [Full Body].png",
+          "blend": "Items/Legs/Basic Pants/Navy Blue Basics Pants/Navy Blue Basics Pants.blend",
+          "children": []
+        }
+      ]
+    }
+  ],
   "Neck": [],
   "Shirt": [
+    {
+      "label": "1988 Jacket",
+      "preview": "Items/Shirt/1988 Jacket/1988 Jacket (Promo Room Drop).png",
+      "blend": "Items/Shirt/1988 Jacket/1988 Jacket.blend",
+      "children": []
+    },
     {
       "label": "Rec Room Hoodie (Solid)",
       "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
@@ -53,9 +81,9 @@
           "children": []
         },
         {
-          "label": "Rec Room Hoodie (Custom)",
-          "preview": "",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Custom)/Rec Room Hoodie (Custom).blend",
+          "label": "Rec Room Hoodie (Gray)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Gray)/Rec Room Hoodie (Grey).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Gray)/Rec Room Hoodie (Gray).blend",
           "children": []
         },
         {
@@ -69,11 +97,62 @@
           "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
           "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
           "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Pink)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Purple)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Red)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (White)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (White)/Rec Room Hoodie (White - Starter Pack).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (White)/Rec Room Hoodie (White).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Yellow)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).blend",
+          "children": []
         }
       ]
     }
   ],
-  "Shoes": [],
+  "Shoes": [
+    {
+      "label": "Boots",
+      "preview": "Items/Shoes/Boots/Boots [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Boots (Defualt)",
+          "preview": "Items/Shoes/Boots/Boots (Defualt)/Boots [Full Body].png",
+          "blend": "Items/Shoes/Boots/Boots (Defualt)/Rec Room Item Creator.blend",
+          "children": []
+        }
+      ]
+    }
+  ],
   "Shoulder": [],
-  "Wrist": []
+  "Wrist": [
+    {
+      "label": "Werewolf Wrist",
+      "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
+      "blend": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.blend",
+      "children": []
+    }
+  ]
 }
