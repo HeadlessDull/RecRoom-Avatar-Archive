@@ -138,9 +138,9 @@
       "blend": "",
       "children": [
         {
-          "label": "Boots (default)",
-          "preview": "Items/Shoes/Boots/Boots (default)/Boots [Full Body].png",
-          "blend": "Items/Shoes/Boots/Boots (default)/Rec Room Item Creator.blend",
+          "label": "Boots [Default]",
+          "preview": "Items/Shoes/Boots/Boots [Default]/Boots [Full Body].png",
+          "blend": "Items/Shoes/Boots/Boots [Default]/Rec Room Item Creator.blend",
           "children": []
         }
       ]
