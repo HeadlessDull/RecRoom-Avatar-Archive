@@ -51,6 +51,7 @@ Each User has a link and/or discord profile for you to acess
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
     <td valign="middle">
       <strong>Konman</strong>: Specailty Asset Exporting | Asset Exporting<br/>
+      <sub>Discord: konmanvr</sub>
       <sub></sub>
     </td>
   <tr>
