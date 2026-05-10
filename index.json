@@ -7,7 +7,14 @@
       "children": []
     }
   ],
-  "Ear": [],
+  "Ear": [
+    {
+      "label": "Alien Head Earrings",
+      "preview": "Items/Ear/Alien Head Earrings/Alien Head Earrings.png",
+      "blend": "Items/Ear/Alien Head Earrings/Alien Head Earrings.blend",
+      "children": []
+    }
+  ],
   "Eye": [
     {
       "label": "Acetate Glasses",
@@ -23,7 +30,14 @@
       ]
     }
   ],
-  "Face": [],
+  "Face": [
+    {
+      "label": "Beard (Close)",
+      "preview": "Items/Face/Beard (Close)/Beard (Close).png",
+      "blend": "Items/Face/Beard (Close)/BeardClose.blend",
+      "children": []
+    }
+  ],
   "Hair": [
     {
       "label": "Emo Hair",
@@ -37,6 +51,12 @@
       "label": "8 Ball Headphones",
       "preview": "Items/Hat/8 Ball Headphones/8 Ball Headphones.png",
       "blend": "Items/Hat/8 Ball Headphones/8 Ball Headphones.blend",
+      "children": []
+    },
+    {
+      "label": "Bee Antenna",
+      "preview": "Items/Hat/Bee Antenna/Bee Antenna.png",
+      "blend": "Items/Hat/Bee Antenna/bee antenna.blend",
       "children": []
     }
   ],
@@ -57,9 +77,9 @@
   ],
   "Neck": [
     {
-      "label": "Layred Necklace",
-      "preview": "Items/Neck/Layred Necklace/(LayeredNecklace_Neck).png",
-      "blend": "Items/Neck/Layred Necklace/layerednecklace.blend",
+      "label": "Layered Necklace",
+      "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
+      "blend": "Items/Neck/Layered Necklace/layerednecklace.blend",
       "children": []
     }
   ],
@@ -68,6 +88,12 @@
       "label": "1988 Jacket",
       "preview": "Items/Shirt/1988 Jacket/1988 Jacket (Promo Room Drop).png",
       "blend": "Items/Shirt/1988 Jacket/1988 Jacket.blend",
+      "children": []
+    },
+    {
+      "label": "Bee Body",
+      "preview": "Items/Shirt/Bee Body/Bee Body.png",
+      "blend": "Items/Shirt/Bee Body/bee body.blend",
       "children": []
     },
     {
@@ -153,7 +179,14 @@
       ]
     }
   ],
-  "Shoulder": [],
+  "Shoulder": [
+    {
+      "label": "Bee Wings",
+      "preview": "Items/Shoulder/Bee Wings/Bee Wings.png",
+      "blend": "Items/Shoulder/Bee Wings/Bee Wings.blend",
+      "children": []
+    }
+  ],
   "Wrist": [
     {
       "label": "Werewolf Wrist",
