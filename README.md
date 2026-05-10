@@ -1,3 +1,9 @@
+![release](https://img.shields.io/github/v/release/HeadlessDull/RecRoom-Avatar-Archive)
+![stars](https://img.shields.io/github/stars/HeadlessDull/RecRoom-Avatar-Archive)
+![status](https://img.shields.io/badge/status-WIP-orange)
+![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
+
 # RecRoom Avatar Archive
 
 A Blender addon made to help with recreating your Rec Room Avatar!
@@ -80,7 +86,7 @@ This will also convert textures to be Unity-compatible without special shaders (
 
 
 
-## The Archive itself
+# The Archive itself
 
 A large collection of images, textures, and FBX files covering most avatar items used in-game.
 
@@ -93,6 +99,16 @@ A large collection of images, textures, and FBX files covering most avatar items
 Can't find the item you're looking for in the addon? Browse the full raw file list here:
 
 📄 [RRO Item List (Google Sheets)](https://docs.google.com/spreadsheets/d/1QyqQu747pG7JVD1dUIFo_XpPXL-EfzXkJfWW1JXGw5w/edit?usp=sharing)
+
+# Community
+
+Have questions, want to help the project, or just want to follow the project's progress? Join the Discord!
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
+
+</div>
 
 # Credits
 Each User has a link and/or discord profile for you to acess
