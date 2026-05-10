@@ -55,7 +55,14 @@
       ]
     }
   ],
-  "Neck": [],
+  "Neck": [
+    {
+      "label": "Layred Necklace",
+      "preview": "Items/Neck/Layred Necklace/(LayeredNecklace_Neck).png",
+      "blend": "Items/Neck/Layred Necklace/layerednecklace.blend",
+      "children": []
+    }
+  ],
   "Shirt": [
     {
       "label": "1988 Jacket",
