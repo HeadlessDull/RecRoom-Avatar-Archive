@@ -17,6 +17,12 @@
   ],
   "Eye": [
     {
+      "label": "2020 Glasses",
+      "preview": "Items/Eye/2020 Glasses/2020 Glasses.png",
+      "blend": "Items/Eye/2020 Glasses/2020glasses.blend",
+      "children": []
+    },
+    {
       "label": "Acetate Glasses",
       "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber).png",
       "blend": "",
