@@ -32,6 +32,36 @@
           "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
           "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
           "children": []
+        },
+        {
+          "label": "Acetate Glasses(Black)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses(Black)/Acetate Glasses (Black).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses(Black)/Acetate Glasses (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Acetate Glasses(Bubble Gum)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses(Bubble Gum)/Acetate Glasses (Bubble Gum).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses(Bubble Gum)/Acetate Glasses (Bubble Gum).blend",
+          "children": []
+        },
+        {
+          "label": "Acetate Glasses(Charcoal)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses(Charcoal)/Acetate Glasses (Charcoal).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses(Charcoal)/Acetate Glasses (Charcoal).blend",
+          "children": []
+        },
+        {
+          "label": "Acetate Glasses(Seafoam)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses(Seafoam)/Acetate Glasses (Seafoam).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses(Seafoam)/Acetate Glasses (Seafoam).blend",
+          "children": []
+        },
+        {
+          "label": "Acetate Glasses(Sunrise)",
+          "preview": "Items/Eye/Acetate Glasses/Acetate Glasses(Sunrise)/Acetate Glasses (Sunrise).png",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses(Sunrise)/Acetate Glasses (Sunrise).blend",
+          "children": []
         }
       ]
     }
@@ -46,6 +76,24 @@
   ],
   "Hair": [
     {
+      "label": "Action Hair",
+      "preview": "Items/Hair/Action Hair/Action Hair.png",
+      "blend": "Items/Hair/Action Hair/Action Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Afro Hair",
+      "preview": "Items/Hair/Afro Hair/Afro Hair.png",
+      "blend": "Items/Hair/Afro Hair/Afro Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Afro Puffs Hair",
+      "preview": "Items/Hair/Afro Puffs Hair/Afro Puffs Hair.png",
+      "blend": "Items/Hair/Afro Puffs Hair/Afro Puffs Hair.blend",
+      "children": []
+    },
+    {
       "label": "Emo Hair",
       "preview": "Items/Hair/Emo Hair/Emo Hair.png",
       "blend": "Items/Hair/Emo Hair/Emo Hair.blend",
@@ -57,6 +105,12 @@
       "label": "8 Ball Headphones",
       "preview": "Items/Hat/8 Ball Headphones/8 Ball Headphones.png",
       "blend": "Items/Hat/8 Ball Headphones/8 Ball Headphones.blend",
+      "children": []
+    },
+    {
+      "label": "Angel Halo",
+      "preview": "Items/Hat/Angel Halo/Angel Halo.png",
+      "blend": "Items/Hat/Angel Halo/Angel Halo.blend",
       "children": []
     },
     {
@@ -97,10 +151,60 @@
       "children": []
     },
     {
+      "label": "Alloy Armor",
+      "preview": "Items/Shirt/Alloy Armor/Alloy Armor (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Alloy Armor (Black)",
+          "preview": "Items/Shirt/Alloy Armor/Alloy Armor (Black)/Alloy Armor (Black).png",
+          "blend": "Items/Shirt/Alloy Armor/Alloy Armor (Black)/Alloy Armor (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Alloy Armor (Red)",
+          "preview": "Items/Shirt/Alloy Armor/Alloy Armor (Red)/Alloy Armor (Red).png",
+          "blend": "Items/Shirt/Alloy Armor/Alloy Armor (Red)/Alloy Armor (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Body",
       "preview": "Items/Shirt/Bee Body/Bee Body.png",
       "blend": "Items/Shirt/Bee Body/bee body.blend",
       "children": []
+    },
+    {
+      "label": "Formal Vest",
+      "preview": "Items/Shirt/Formal Vest/Formal Vest (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Formal Vest (Black)",
+          "preview": "Items/Shirt/Formal Vest/Formal Vest (Black)/Formal Vest (Black).png",
+          "blend": "Items/Shirt/Formal Vest/Formal Vest (Black)/Formal Vest (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Formal Vest (Green)",
+          "preview": "Items/Shirt/Formal Vest/Formal Vest (Green)/Formal Vest (Green).png",
+          "blend": "Items/Shirt/Formal Vest/Formal Vest (Green)/Formal Vest (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Formal Vest (Premium)",
+          "preview": "Items/Shirt/Formal Vest/Formal Vest (Premium)/Formal Vest (Premium).png",
+          "blend": "Items/Shirt/Formal Vest/Formal Vest (Premium)/Formal Vest (Premium).blend",
+          "children": []
+        },
+        {
+          "label": "Formal Vest (Red)",
+          "preview": "Items/Shirt/Formal Vest/Formal Vest (Red)/Formal Vest (Red).png",
+          "blend": "Items/Shirt/Formal Vest/Formal Vest (Red)/Formal Vest (Red).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Rec Room Hoodie (Solid)",
@@ -187,6 +291,43 @@
   ],
   "Shoulder": [
     {
+      "label": "Acoustic Guitar",
+      "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Acoustic Guitar",
+          "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar/Acoustic Guitar.png",
+          "blend": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar/Acoustic Guitar.blend",
+          "children": []
+        },
+        {
+          "label": "Acoustic Guitar(Black)",
+          "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Black)/Acoustic Guitar (Black).png",
+          "blend": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Black)/Acoustic Guitar(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Acoustic Guitar(Cherry)",
+          "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Cherry)/Acoustic Guitar (Cherry).png",
+          "blend": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Cherry)/Acoustic Guitar(Cherry).blend",
+          "children": []
+        },
+        {
+          "label": "Acoustic Guitar(Dark Oak)",
+          "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Dark Oak)/Acoustic Guitar (Dark Oak).png",
+          "blend": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Dark Oak)/Acoustic Guitar(DarkOak).blend",
+          "children": []
+        },
+        {
+          "label": "Acoustic Guitar(Wood)",
+          "preview": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Wood)/Acoustic Guitar (Wood).png",
+          "blend": "Items/Shoulder/Acoustic Guitar/Acoustic Guitar(Wood)/Acoustic Guitar(Wood).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Wings",
       "preview": "Items/Shoulder/Bee Wings/Bee Wings.png",
       "blend": "Items/Shoulder/Bee Wings/Bee Wings.blend",
@@ -194,6 +335,25 @@
     }
   ],
   "Wrist": [
+    {
+      "label": "Alloy Power Gloves",
+      "preview": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Alloy Power Gloves (Black)",
+          "preview": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Black)/Alloy Power Gloves (Black).png",
+          "blend": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Black)/Alloy Power Gloves (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Alloy Power Gloves (Red)",
+          "preview": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Red)/Alloy Power Gloves (Red).png",
+          "blend": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Red)/Alloy Power Gloves (Red).blend",
+          "children": []
+        }
+      ]
+    },
     {
       "label": "Werewolf Wrist",
       "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
