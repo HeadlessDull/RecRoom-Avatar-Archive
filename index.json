@@ -64,6 +64,37 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Aviator Goggles",
+      "preview": "Items/Eye/Aviator Goggles/Aviator Goggles (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aviator Goggles (Black)",
+          "preview": "Items/Eye/Aviator Goggles/Aviator Goggles (Black)/Aviator Goggles (Black).png",
+          "blend": "Items/Eye/Aviator Goggles/Aviator Goggles (Black)/Aviator Goggles (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Goggles (Brown)",
+          "preview": "Items/Eye/Aviator Goggles/Aviator Goggles (Brown)/Aviator Goggles (Brown).png",
+          "blend": "Items/Eye/Aviator Goggles/Aviator Goggles (Brown)/Aviator Goggles (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Goggles (Red)",
+          "preview": "Items/Eye/Aviator Goggles/Aviator Goggles (Red)/Aviator Goggles (Red).png",
+          "blend": "Items/Eye/Aviator Goggles/Aviator Goggles (Red)/Aviator Goggles (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Goggles (Tan)",
+          "preview": "Items/Eye/Aviator Goggles/Aviator Goggles (Tan)/Aviator Goggles (Tan).png",
+          "blend": "Items/Eye/Aviator Goggles/Aviator Goggles (Tan)/Aviator Goggles (Tan).blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Face": [
