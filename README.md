@@ -116,14 +116,14 @@ Each User has a link and/or discord profile for you to acess
   <tr>
     <td><img width="100" height="100" alt="headlessdull" src="https://github.com/user-attachments/assets/70455824-3da6-474f-9c3c-5bdf49c4de96" /></td>
     <td valign="middle">
-      <strong><a href="https://x.com/HeadlessDull">HeadlessDull</a></strong>: Manager | Asset Exporting | Blender Tools<br/>
+      <strong><a href="https://x.com/HeadlessDull">HeadlessDull</a></strong>: Manager | Asset Exporting/Setup | Blender Addon<br/>
       <sub>Discord: headlessdull</sub>
     </td>
   </tr>
     <tr>
     <td><img width="100" height="100" alt="ab971ec97fbeeab25f6729ca69cfe87f" src="https://github.com/user-attachments/assets/ee054fb1-b8a1-4d41-a79e-c55877163338" /></td>
     <td valign="middle">
-      <strong>Anna</strong>: Co-Manager | Asset Exporting | Blender Shaders Help<br/>
+      <strong>Anna</strong>: Co-Manager | Asset Exporting/Setup | Blender Shaders Help<br/>
       <sub>Discord: thefinalcore</sub>
     </td>
   </tr>
@@ -137,7 +137,7 @@ Each User has a link and/or discord profile for you to acess
     <tr>
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
     <td valign="middle">
-      <strong>Konman</strong>: Specailty Asset Exporting | Asset Exporting<br/>
+      <strong>Konman</strong>: Specailty Asset Exporting<br/>
       <sub>Discord: konmanvr</sub>
       <sub></sub>
     </td>
