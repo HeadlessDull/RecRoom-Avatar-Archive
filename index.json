@@ -610,12 +610,6 @@
           "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).png",
           "blend": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).blend",
           "children": []
-        },
-        {
-          "label": "Rec Room Shirt (V-Neck, White)",
-          "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (V-Neck, White)/Rec Room Shirt (V-Neck, White).png",
-          "blend": "",
-          "children": []
         }
       ]
     }
