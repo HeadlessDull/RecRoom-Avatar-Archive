@@ -125,6 +125,18 @@
       "children": []
     },
     {
+      "label": "Angled Bob Hair",
+      "preview": "Items/Hair/Angled Bob Hair/Angled Bob Hair.png",
+      "blend": "Items/Hair/Angled Bob Hair/Angled Bob Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Box Braid Hair",
+      "preview": "Items/Hair/Box Braid Hair/Box Braid Hair.png",
+      "blend": "Items/Hair/Box Braid Hair/Box Braid Hair.blend",
+      "children": []
+    },
+    {
       "label": "Emo Hair",
       "preview": "Items/Hair/Emo Hair/Emo Hair.png",
       "blend": "Items/Hair/Emo Hair/Emo Hair.blend",
@@ -139,15 +151,126 @@
       "children": []
     },
     {
+      "label": "Alley Cat Ears",
+      "preview": "Items/Hat/Alley Cat Ears/Alley Cat Ears (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Alley Cat Ears",
+          "preview": "Items/Hat/Alley Cat Ears/Alley Cat Ears/Alley Cat Ears.png",
+          "blend": "Items/Hat/Alley Cat Ears/Alley Cat Ears/Alley Cat Ears.blend",
+          "children": []
+        },
+        {
+          "label": "Alley Cat Ears (Grey)",
+          "preview": "Items/Hat/Alley Cat Ears/Alley Cat Ears (Grey)/Alley Cat Ears (Grey).png",
+          "blend": "Items/Hat/Alley Cat Ears/Alley Cat Ears (Grey)/Alley Cat Ears (Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Alley Cat Ears (Orange)",
+          "preview": "Items/Hat/Alley Cat Ears/Alley Cat Ears (Orange)/Alley Cat Ears (Orange).png",
+          "blend": "Items/Hat/Alley Cat Ears/Alley Cat Ears (Orange)/Alley Cat Ears (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Alley Cat Ears (White)",
+          "preview": "Items/Hat/Alley Cat Ears/Alley Cat Ears (White)/Alley Cat Ears (White).png",
+          "blend": "Items/Hat/Alley Cat Ears/Alley Cat Ears (White)/Alley Cat Ears (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Angel Halo",
       "preview": "Items/Hat/Angel Halo/Angel Halo.png",
       "blend": "Items/Hat/Angel Halo/Angel Halo.blend",
       "children": []
     },
     {
+      "label": "Angler Hat",
+      "preview": "Items/Hat/Angler Hat/Angler Hat (Gray).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Angler Hat (Blue)",
+          "preview": "Items/Hat/Angler Hat/Angler Hat (Blue)/Angler Hat (Blue).png",
+          "blend": "Items/Hat/Angler Hat/Angler Hat (Blue)/Angler Hat (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Hat (Brown)",
+          "preview": "Items/Hat/Angler Hat/Angler Hat (Brown)/Angler Hat (Brown).png",
+          "blend": "Items/Hat/Angler Hat/Angler Hat (Brown)/Angler Hat (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Hat (Gray)",
+          "preview": "Items/Hat/Angler Hat/Angler Hat (Gray)/Angler Hat (Gray).png",
+          "blend": "Items/Hat/Angler Hat/Angler Hat (Gray)/Angler Hat (Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Hat (Red)",
+          "preview": "Items/Hat/Angler Hat/Angler Hat (Red)/Angler Hat (Red).png",
+          "blend": "Items/Hat/Angler Hat/Angler Hat (Red)/Angler Hat (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Hat (Tan)",
+          "preview": "Items/Hat/Angler Hat/Angler Hat (Tan)/Angler Hat (Tan).png",
+          "blend": "Items/Hat/Angler Hat/Angler Hat (Tan)/Angler Hat (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Anglerfish Beanie",
+      "preview": "Items/Hat/Anglerfish Beanie/Anglerfish Beanie.png",
+      "blend": "Items/Hat/Anglerfish Beanie/Anglerfish Beanie.blend",
+      "children": []
+    },
+    {
       "label": "Bee Antenna",
       "preview": "Items/Hat/Bee Antenna/Bee Antenna.png",
       "blend": "Items/Hat/Bee Antenna/bee antenna.blend",
+      "children": []
+    },
+    {
+      "label": "Beekeeper Veil",
+      "preview": "Items/Hat/Beekeeper Veil/Beekeeper Veil (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Beekeeper Veil",
+          "preview": "Items/Hat/Beekeeper Veil/Beekeeper Veil/Beekeeper Veil (White).png",
+          "blend": "Items/Hat/Beekeeper Veil/Beekeeper Veil/Beekeeper Veil.blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Veil (Gold)",
+          "preview": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Gold)/Beekeeper Veil (Gold).png",
+          "blend": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Gold)/Beekeeper Veil (Gold).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Veil (Purple)",
+          "preview": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Purple)/Beekeeper Veil (Purple).png",
+          "blend": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Purple)/Beekeeper Veil (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Veil (Teal)",
+          "preview": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Teal)/Beekeeper Veil (Teal).png",
+          "blend": "Items/Hat/Beekeeper Veil/Beekeeper Veil (Teal)/Beekeeper Veil (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Carnival Clown Hat",
+      "preview": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.png",
+      "blend": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.blend",
       "children": []
     }
   ],
@@ -164,9 +287,34 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Carnival Clown Pants",
+      "preview": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.png",
+      "blend": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.blend",
+      "children": []
     }
   ],
   "Neck": [
+    {
+      "label": "Amulet of Elseware",
+      "preview": "Items/Neck/Amulet of Elseware/Amulet of Elseware_ (Cursed).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Amulet of Elseware",
+          "preview": "Items/Neck/Amulet of Elseware/Amulet of Elseware/Amulet of Elseware_ (Cursed).png",
+          "blend": "Items/Neck/Amulet of Elseware/Amulet of Elseware/aMULET OF ELSEWARE.blend",
+          "children": []
+        },
+        {
+          "label": "Amulet of Elseware (Cleansed)",
+          "preview": "Items/Neck/Amulet of Elseware/Amulet of Elseware (Cleansed)/Amulet of Elseware (Cleansed)_.png",
+          "blend": "Items/Neck/Amulet of Elseware/Amulet of Elseware (Cleansed)/aMULET OF ELSEWARE(Cleansed).blend",
+          "children": []
+        }
+      ]
+    },
     {
       "label": "Layered Necklace",
       "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
@@ -201,9 +349,108 @@
       ]
     },
     {
+      "label": "Alpaca Lights Sweater",
+      "preview": "Items/Shirt/Alpaca Lights Sweater/Alpaca Lights Sweater.png",
+      "blend": "Items/Shirt/Alpaca Lights Sweater/Alpaca Lights Sweater.blend",
+      "children": []
+    },
+    {
+      "label": "Angler Shirt",
+      "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Angler Shirt (Blue)",
+          "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Blue)/Angler Shirt (Blue).png",
+          "blend": "Items/Shirt/Angler Shirt/Angler Shirt (Blue)/Angler Shirt (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Shirt (Brown)",
+          "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Brown)/Angler Shirt (Brown).png",
+          "blend": "Items/Shirt/Angler Shirt/Angler Shirt (Brown)/Angler Shirt (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Shirt (Gray)",
+          "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Gray)/Angler Shirt (Gray).png",
+          "blend": "Items/Shirt/Angler Shirt/Angler Shirt (Gray)/Angler Shirt (Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Shirt (Red)",
+          "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Red)/Angler Shirt (Red).png",
+          "blend": "Items/Shirt/Angler Shirt/Angler Shirt (Red)/Angler Shirt (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Angler Shirt (Tan)",
+          "preview": "Items/Shirt/Angler Shirt/Angler Shirt (Tan)/Angler Shirt (Tan).png",
+          "blend": "Items/Shirt/Angler Shirt/Angler Shirt (Tan)/Angler Shirt (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Bards Vest",
+      "preview": "Items/Shirt/Bards Vest/Bards Vest.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bards Vest",
+          "preview": "Items/Shirt/Bards Vest/Bards Vest/Bards Vest.png",
+          "blend": "Items/Shirt/Bards Vest/Bards Vest/BardsVest.blend",
+          "children": []
+        },
+        {
+          "label": "Bards Vest (Sunset)",
+          "preview": "",
+          "blend": "Items/Shirt/Bards Vest/Bards Vest (Sunset)/BardsVessunsett.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Body",
       "preview": "Items/Shirt/Bee Body/Bee Body.png",
       "blend": "Items/Shirt/Bee Body/bee body.blend",
+      "children": []
+    },
+    {
+      "label": "Beekeeper Suit",
+      "preview": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Beekeeper Suit",
+          "preview": "Items/Shirt/Beekeeper Suit/Beekeeper Suit/Beekeeper Suit (White).png",
+          "blend": "Items/Shirt/Beekeeper Suit/Beekeeper Suit/Beekeeper Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Suit (Gold)",
+          "preview": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Gold)/Beekeeper Suit (Gold).png",
+          "blend": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Gold)/Beekeeper Suit (Gold).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Suit (Purple)",
+          "preview": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Purple)/Beekeeper Suit (Purple).png",
+          "blend": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Purple)/Beekeeper Suit (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Suit (Teal)",
+          "preview": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Teal)/Beekeeper Suit (Teal).png",
+          "blend": "Items/Shirt/Beekeeper Suit/Beekeeper Suit (Teal)/Beekeeper Suit (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Carnival Clown Suit",
+      "preview": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.png",
+      "blend": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.blend",
       "children": []
     },
     {
@@ -318,6 +565,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Carnival Clown Shoes",
+      "preview": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.png",
+      "blend": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.blend",
+      "children": []
     }
   ],
   "Shoulder": [
@@ -359,6 +612,31 @@
       ]
     },
     {
+      "label": "Banjo",
+      "preview": "Items/Shoulder/Banjo/Banjo (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Banjo",
+          "preview": "Items/Shoulder/Banjo/Banjo/Banjo.png",
+          "blend": "Items/Shoulder/Banjo/Banjo/Banjo.blend",
+          "children": []
+        },
+        {
+          "label": "Banjo (Black)",
+          "preview": "Items/Shoulder/Banjo/Banjo (Black)/Banjo (Black).png",
+          "blend": "Items/Shoulder/Banjo/Banjo (Black)/Banjo (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Banjo (Red)",
+          "preview": "Items/Shoulder/Banjo/Banjo (Red)/Banjo (Red).png",
+          "blend": "Items/Shoulder/Banjo/Banjo (Red)/Banjo (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Wings",
       "preview": "Items/Shoulder/Bee Wings/Bee Wings.png",
       "blend": "Items/Shoulder/Bee Wings/Bee Wings.blend",
@@ -381,6 +659,37 @@
           "label": "Alloy Power Gloves (Red)",
           "preview": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Red)/Alloy Power Gloves (Red).png",
           "blend": "Items/Wrist/Alloy Power Gloves/Alloy Power Gloves (Red)/Alloy Power Gloves (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Beekeeper Gloves",
+      "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Beekeeper Gloves",
+          "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves/Beekeeper Gloves (White).png",
+          "blend": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves/Beekeeper Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Gloves (Gold)",
+          "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Gold)/Beekeeper Gloves (Gold).png",
+          "blend": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Gold)/Beekeeper Gloves (Gold).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Gloves (Purple)",
+          "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Purple)/Beekeeper Gloves (Purple).png",
+          "blend": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Purple)/Beekeeper Gloves (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Beekeeper Gloves (Teal)",
+          "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Teal)/Beekeeper Gloves (Teal).png",
+          "blend": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (Teal)/Beekeeper Gloves (Teal).blend",
           "children": []
         }
       ]
