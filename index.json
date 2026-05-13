@@ -757,6 +757,25 @@
       ]
     },
     {
+      "label": "Retro Gamer Gloves",
+      "preview": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Dark Retro Gamer Gloves",
+          "preview": "Items/Wrist/Retro Gamer Gloves/Dark Retro Gamer Gloves/Dark Retro Gamer Gloves.png",
+          "blend": "Items/Wrist/Retro Gamer Gloves/Dark Retro Gamer Gloves/DarkRetroGamerGloves.blend",
+          "children": []
+        },
+        {
+          "label": "Retro Gamer Gloves",
+          "preview": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves/Retro Gamer Gloves.png",
+          "blend": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves/RetroGamerGloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Werewolf Wrist",
       "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
       "blend": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.blend",
