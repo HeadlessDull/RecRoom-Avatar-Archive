@@ -231,6 +231,55 @@
       "children": []
     },
     {
+      "label": "Archer Hat",
+      "preview": "Items/Hat/Archer Hat/Archer Hat (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Archer Hat (Black)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Black)/Archer Hat (Black).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Black)/Archer Hat(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Blue)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Blue)/Archer Hat (Blue).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Blue)/Archer Hat(Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Green)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Green)/Archer Hat (Green).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Green)/Archer Hat(Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Grey)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Grey)/Archer Hat (Grey).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Grey)/Archer Hat(Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Red)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Red)/Archer Hat (Red).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Red)/Archer Hat(Red).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Tan)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Tan)/Archer Hat (Tan).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Tan)/Archer Hat(Tan).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Hat (Yellow)",
+          "preview": "Items/Hat/Archer Hat/Archer Hat (Yellow)/Archer Hat (Yellow).png",
+          "blend": "Items/Hat/Archer Hat/Archer Hat (Yellow)/Archer Hat(Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Antenna",
       "preview": "Items/Hat/Bee Antenna/Bee Antenna.png",
       "blend": "Items/Hat/Bee Antenna/bee antenna.blend",
@@ -547,6 +596,25 @@
           "label": "Rec Room Hoodie (Yellow)",
           "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).png",
           "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Rec Room Shirt",
+      "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Rec Room Shirt (Crew Neck, White)",
+          "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).png",
+          "blend": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Shirt (V-Neck, White)",
+          "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (V-Neck, White)/Rec Room Shirt (V-Neck, White).png",
+          "blend": "",
           "children": []
         }
       ]
