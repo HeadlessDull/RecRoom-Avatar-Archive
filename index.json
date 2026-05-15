@@ -459,6 +459,55 @@
       "children": []
     },
     {
+      "label": "Archer Tunic",
+      "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Archer Tunic (Black)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Black)/Archer Tunic (Black).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Black)/Archer Tunic (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Blue)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Blue)/Archer Tunic (Blue).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Blue)/Archer Tunic (BLue).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Green)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Green)/Archer Tunic (Green).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Green)/Archer Tunic (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Grey)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Grey)/Archer Tunic (Grey).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Grey)/Archer Tunic (Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Red)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Red)/Archer Tunic (Red).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Red)/Archer Tunic (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Tan)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Tan)/Archer Tunic (Tan).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Tan)/Archer Tunic (Tan).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Tunic (Yellow)",
+          "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Yellow)/Archer Tunic (Yellow).png",
+          "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Yellow)/Archer Tunic (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bards Vest",
       "preview": "Items/Shirt/Bards Vest/Bards Vest.png",
       "blend": "",
@@ -698,6 +747,55 @@
       ]
     },
     {
+      "label": "Archer Quiver",
+      "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Archer Quiver (Black)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Black)/Archer Quiver (Black).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Black)/ArcherQuiver(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Blue)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Blue)/Archer Quiver (Blue).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Blue)/ArcherQuiver(Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Gray)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Gray)/Archer Quiver (Grey).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Gray)/ArcherQuiver(Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Green)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Green)/Archer Quiver (Green).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Green)/ArcherQuiver(Green).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Red)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Red)/Archer Quiver (Red).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Red)/ArcherQuiver(Red).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Tan)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Tan)/Archer Quiver (Tan).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Tan)/ArcherQuiver(Tan).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Quiver (Yellow)",
+          "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Yellow)/Archer Quiver (Yellow).png",
+          "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Yellow)/ArcherQuiver(Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Banjo",
       "preview": "Items/Shoulder/Banjo/Banjo (Black).png",
       "blend": "",
@@ -754,6 +852,55 @@
       "preview": "Items/Wrist/Apocalypse Gloves/Apocalypse Gloves.png",
       "blend": "Items/Wrist/Apocalypse Gloves/ApocalypseGloves.blend",
       "children": []
+    },
+    {
+      "label": "Archer Gloves",
+      "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Green).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Archer Gloves (Black)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Black)/Archer Gloves (Black).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Black)/ArcherGloves(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Blue)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Blue)/Archer Gloves (Blue).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Blue)/ArcherGloves(Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Green)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Green)/Archer Gloves (Green).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Green)/ArcherGloves(Green).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Grey)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Grey)/Archer Gloves (Grey).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Grey)/ArcherGloves(Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Red)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Red)/Archer Gloves (Red).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Red)/ArcherGloves(Red).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Tan)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Tan)/Archer Gloves (Tan).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Tan)/ArcherGloves(Tan).blend",
+          "children": []
+        },
+        {
+          "label": "Archer Gloves (Yellow)",
+          "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Yellow)/Archer Gloves (Yellow).png",
+          "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Yellow)/ArcherGloves(Yellow).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Beekeeper Gloves",
