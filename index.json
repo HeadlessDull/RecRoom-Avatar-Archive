@@ -534,6 +534,12 @@
       ]
     },
     {
+      "label": "Midnight Gala Tuxedo Dress",
+      "preview": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.png",
+      "blend": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.blend",
+      "children": []
+    },
+    {
       "label": "Rec Room Hoodie (Solid)",
       "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
       "blend": "",
