@@ -1,7 +1,7 @@
-![release](https://img.shields.io/github/v/release/HeadlessDull/RecRoom-Avatar-Archive)
-![stars](https://img.shields.io/github/stars/HeadlessDull/RecRoom-Avatar-Archive)
-![status](https://img.shields.io/badge/status-WIP-orange)
-![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)
+[![release](https://img.shields.io/github/v/release/HeadlessDull/RecRoom-Avatar-Archive)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/releases)
+[![stars](https://img.shields.io/github/stars/HeadlessDull/RecRoom-Avatar-Archive)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/stargazers)
+[![status](https://img.shields.io/badge/status-WIP-orange)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive)
+[![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/download/lts/4-5/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
 
 # RecRoom Avatar Archive
