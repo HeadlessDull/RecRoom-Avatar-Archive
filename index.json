@@ -231,6 +231,12 @@
       "children": []
     },
     {
+      "label": "Apocalypse Helmet",
+      "preview": "Items/Hat/Apocalypse Helmet/Apocalypse Helmet.png",
+      "blend": "Items/Hat/Apocalypse Helmet/Apocalypse Helmet.blend",
+      "children": []
+    },
+    {
       "label": "Archer Hat",
       "preview": "Items/Hat/Archer Hat/Archer Hat (Black).png",
       "blend": "",
@@ -365,6 +371,12 @@
       ]
     },
     {
+      "label": "Apocalypse Scarf",
+      "preview": "Items/Neck/Apocalypse Scarf/Apocalypse Scarf.png",
+      "blend": "Items/Neck/Apocalypse Scarf/Apocalypse Scarf.blend",
+      "children": []
+    },
+    {
       "label": "Layered Necklace",
       "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
       "blend": "Items/Neck/Layered Necklace/layerednecklace.blend",
@@ -439,6 +451,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Apocalypse Jacket",
+      "preview": "Items/Shirt/Apocalypse Jacket/Apocalypse Jacket.png",
+      "blend": "Items/Shirt/Apocalypse Jacket/Apocalypse Jacket.blend",
+      "children": []
     },
     {
       "label": "Bards Vest",
@@ -730,6 +748,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Apocalypse Gloves",
+      "preview": "Items/Wrist/Apocalypse Gloves/Apocalypse Gloves.png",
+      "blend": "Items/Wrist/Apocalypse Gloves/ApocalypseGloves.blend",
+      "children": []
     },
     {
       "label": "Beekeeper Gloves",
