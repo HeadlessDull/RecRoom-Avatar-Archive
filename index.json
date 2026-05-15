@@ -141,6 +141,18 @@
       "preview": "Items/Hair/Emo Hair/Emo Hair.png",
       "blend": "Items/Hair/Emo Hair/Emo Hair.blend",
       "children": []
+    },
+    {
+      "label": "Long Bangs Hair",
+      "preview": "Items/Hair/Long Bangs Hair/Long Bangs Hair.png",
+      "blend": "Items/Hair/Long Bangs Hair/Long Bangs Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Undercut Long Hair",
+      "preview": "Items/Hair/Undercut Long Hair/Undercut Long Hair.png",
+      "blend": "Items/Hair/Undercut Long Hair/Undercutlonghair.blend",
+      "children": []
     }
   ],
   "Hat": [
@@ -327,9 +339,95 @@
       "preview": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.png",
       "blend": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.blend",
       "children": []
+    },
+    {
+      "label": "Fox Ears",
+      "preview": "Items/Hat/Fox Ears/Fox Ears.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Black FoxEars",
+          "preview": "Items/Hat/Fox Ears/Black FoxEars/Fox Ears (Black).png",
+          "blend": "Items/Hat/Fox Ears/Black FoxEars/FoxEars(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Brown FoxEars",
+          "preview": "Items/Hat/Fox Ears/Brown FoxEars/Fox Ears (Brown).png",
+          "blend": "Items/Hat/Fox Ears/Brown FoxEars/FoxEars(Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Fox Ears",
+          "preview": "Items/Hat/Fox Ears/Fox Ears/Fox Ears.png",
+          "blend": "Items/Hat/Fox Ears/Fox Ears/FoxEars.blend",
+          "children": []
+        },
+        {
+          "label": "White FoxEars",
+          "preview": "Items/Hat/Fox Ears/White FoxEars/Fox Ears (White).png",
+          "blend": "Items/Hat/Fox Ears/White FoxEars/FoxEars(White).blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Legs": [
+    {
+      "label": "Basic Leggings",
+      "preview": "Items/Legs/Basic Leggings/Green Leggings [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Black Leggings",
+          "preview": "Items/Legs/Basic Leggings/Black Leggings/Black Leggings - Free.png",
+          "blend": "Items/Legs/Basic Leggings/Black Leggings/Leggings (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Green Leggings",
+          "preview": "Items/Legs/Basic Leggings/Green Leggings/Green Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Green Leggings/Leggings (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Leggings",
+          "preview": "Items/Legs/Basic Leggings/Leggings/Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Leggings/Leggings.blend",
+          "children": []
+        },
+        {
+          "label": "Orange leggings",
+          "preview": "Items/Legs/Basic Leggings/Orange leggings/Orange Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Orange leggings/Leggings (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Purple leggings",
+          "preview": "Items/Legs/Basic Leggings/Purple leggings/Purple Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Purple leggings/Leggings (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Red leggings",
+          "preview": "Items/Legs/Basic Leggings/Red leggings/Red Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Red leggings/Leggings (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Teal leggings",
+          "preview": "Items/Legs/Basic Leggings/Teal leggings/Teal Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Teal leggings/Leggings (Teal).blend",
+          "children": []
+        },
+        {
+          "label": "Yellow leggings",
+          "preview": "Items/Legs/Basic Leggings/Yellow leggings/Yellow Leggings [Full Body].png",
+          "blend": "Items/Legs/Basic Leggings/Yellow leggings/Leggings (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
     {
       "label": "Basic Pants",
       "preview": "Items/Legs/Basic Pants/Navy Blue Basic Pants [Full Body].png",
@@ -689,14 +787,75 @@
   ],
   "Shoes": [
     {
-      "label": "Boots",
-      "preview": "Items/Shoes/Boots/Boots [Full Body].png",
+      "label": "Basic Boots",
+      "preview": "Items/Shoes/Basic Boots/Boots [Full Body].png",
       "blend": "",
       "children": [
         {
           "label": "Boots [Default]",
-          "preview": "Items/Shoes/Boots/Boots [Default]/Boots [Full Body].png",
-          "blend": "Items/Shoes/Boots/Boots [Default]/Rec Room Item Creator.blend",
+          "preview": "Items/Shoes/Basic Boots/Boots [Default]/Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Boots [Default]/Rec Room Item Creator.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Basic Sneakers",
+      "preview": "Items/Shoes/Basic Sneakers/Blue Sneakers [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Black Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Black Sneakers/blacksneakers.png",
+          "blend": "Items/Shoes/Basic Sneakers/Black Sneakers/Sneakers(Black).blend",
+          "children": []
+        },
+        {
+          "label": "Blue Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Blue Sneakers/Blue Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Blue Sneakers/Sneakers(Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Green Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Green Sneakers/Green Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Green Sneakers/Sneakers(Green).blend",
+          "children": []
+        },
+        {
+          "label": "Orange Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Orange Sneakers/Orange Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Orange Sneakers/Sneakers(Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Pink Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Pink Sneakers/Pink Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Pink Sneakers/Sneakers(Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Purple Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Purple Sneakers/Purple Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Purple Sneakers/Sneakers(Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Red Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Red Sneakers/Red Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Red Sneakers/Sneakers(Red).blend",
+          "children": []
+        },
+        {
+          "label": "White Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/White Sneakers/White Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/White Sneakers/Sneakers(White).blend",
+          "children": []
+        },
+        {
+          "label": "Yellow Sneakers",
+          "preview": "Items/Shoes/Basic Sneakers/Yellow Sneakers/Yellow Sneakers [Full Body].png",
+          "blend": "Items/Shoes/Basic Sneakers/Yellow Sneakers/Sneakers(Yellow).blend",
           "children": []
         }
       ]
