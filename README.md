@@ -128,13 +128,6 @@ Each User has a link and/or discord profile for you to acess
     </td>
   </tr>
     <tr>
-    <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/10c883ff-8392-4df7-b406-fe86b1079619" /></td>
-    <td valign="middle">
-      <strong><a href="https://www.instagram.com/creativejamieyt/">Creative Jamie</a></strong>: Asset Exporting<br/>
-      <sub>Discord: creativejamie</sub>
-    </td>
-  </tr>
-    <tr>
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
     <td valign="middle">
       <strong>Konman</strong>: Specailty Asset Exporting<br/>
