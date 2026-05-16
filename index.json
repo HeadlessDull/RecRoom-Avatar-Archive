@@ -5,6 +5,61 @@
       "preview": "Items/Belt/Artist Belt/Artist's Belt.png",
       "blend": "Items/Belt/Artist Belt/Artist Belt.blend",
       "children": []
+    },
+    {
+      "label": "Cardigan Belt",
+      "preview": "Items/Belt/Cardigan Belt/Black Cardigan Belt.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cardigan Belt Black",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Black/Black Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Black/Black Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Blue",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Blue/Blue Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Blue/Blue Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Green",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Green/Green Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Green/Green Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Orange",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Orange/Orange Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Orange/Orange Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Pink",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Pink/Pink Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Pink/Pink Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Purple",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Purple/Purple Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Purple/Purple Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt White",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt White/White Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt White/White Cardigan Belt.blend",
+          "children": []
+        },
+        {
+          "label": "Cardigan Belt Yellow",
+          "preview": "Items/Belt/Cardigan Belt/Cardigan Belt Yellow/Yellow Cardigan Belt.png",
+          "blend": "Items/Belt/Cardigan Belt/Cardigan Belt Yellow/Yellow Cardigan Belt.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Ear": [
@@ -95,6 +150,37 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Round Glasses",
+      "preview": "Items/Eye/Round Glasses/Round Glasses (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Round Glasses",
+          "preview": "Items/Eye/Round Glasses/Round Glasses/Round Glasses.png",
+          "blend": "Items/Eye/Round Glasses/Round Glasses/RoundGlasses.blend",
+          "children": []
+        },
+        {
+          "label": "Round Glasses (Black)",
+          "preview": "Items/Eye/Round Glasses/Round Glasses (Black)/Round Glasses (Black).png",
+          "blend": "Items/Eye/Round Glasses/Round Glasses (Black)/RoundGlasses (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Round Glasses (Tortoiseshell)",
+          "preview": "Items/Eye/Round Glasses/Round Glasses (Tortoiseshell)/Round Glasses (Tortoiseshell).png",
+          "blend": "Items/Eye/Round Glasses/Round Glasses (Tortoiseshell)/RoundGlasses (Tortoseshell).blend",
+          "children": []
+        },
+        {
+          "label": "Round Glasses (White)",
+          "preview": "Items/Eye/Round Glasses/Round Glasses (White)/Round Glasses (White).png",
+          "blend": "Items/Eye/Round Glasses/Round Glasses (White)/RoundGlasses (White).blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Face": [
@@ -152,6 +238,12 @@
       "label": "Undercut Long Hair",
       "preview": "Items/Hair/Undercut Long Hair/Undercut Long Hair.png",
       "blend": "Items/Hair/Undercut Long Hair/Undercutlonghair.blend",
+      "children": []
+    },
+    {
+      "label": "Wolf Cut Hair",
+      "preview": "Items/Hair/Wolf Cut Hair/Wolf Cut Hair).png",
+      "blend": "Items/Hair/Wolf Cut Hair/WolfCutHair.blend",
       "children": []
     }
   ],
@@ -341,6 +433,37 @@
       "children": []
     },
     {
+      "label": "Fae Horns",
+      "preview": "Items/Hat/Fae Horns/Fae Horns (Fall).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Fae Horns (Fall)",
+          "preview": "Items/Hat/Fae Horns/Fae Horns (Fall)/Fae Horns (Fall).png",
+          "blend": "Items/Hat/Fae Horns/Fae Horns (Fall)/FaeHorns(Fall).blend",
+          "children": []
+        },
+        {
+          "label": "Fae Horns (Spring)",
+          "preview": "Items/Hat/Fae Horns/Fae Horns (Spring)/Fae Horns (Spring).png",
+          "blend": "Items/Hat/Fae Horns/Fae Horns (Spring)/FaeHorns(Spring).blend",
+          "children": []
+        },
+        {
+          "label": "Fae Horns (Summer)",
+          "preview": "Items/Hat/Fae Horns/Fae Horns (Summer)/Fae Horns (Summer).png",
+          "blend": "Items/Hat/Fae Horns/Fae Horns (Summer)/FaeHorns(Summer).blend",
+          "children": []
+        },
+        {
+          "label": "Fae Horns (Winter)",
+          "preview": "Items/Hat/Fae Horns/Fae Horns (Winter)/Fae Horns (Winter).png",
+          "blend": "Items/Hat/Fae Horns/Fae Horns (Winter)/FaeHorns(Winter).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Fox Ears",
       "preview": "Items/Hat/Fox Ears/Fox Ears.png",
       "blend": "",
@@ -370,6 +493,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Zombie Head",
+      "preview": "Items/Hat/Zombie Head/Zombie Head.png",
+      "blend": "Items/Hat/Zombie Head/Zombie Head.blend",
+      "children": []
     }
   ],
   "Legs": [
@@ -478,6 +607,12 @@
       "label": "Layered Necklace",
       "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
       "blend": "Items/Neck/Layered Necklace/layerednecklace.blend",
+      "children": []
+    },
+    {
+      "label": "Powerlifter Necklace",
+      "preview": "Items/Neck/Powerlifter Necklace/Powerlifter Necklace.png",
+      "blend": "Items/Neck/Powerlifter Necklace/PowerlifterNecklace.blend",
       "children": []
     }
   ],
@@ -783,6 +918,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Zombie Vest",
+      "preview": "Items/Shirt/Zombie Vest/Zombie Vest.png",
+      "blend": "Items/Shirt/Zombie Vest/Zombie Vest.blend",
+      "children": []
     }
   ],
   "Shoes": [
@@ -1093,6 +1234,12 @@
       ]
     },
     {
+      "label": "Midnight Gala Hand Jewelry",
+      "preview": "Items/Wrist/Midnight Gala Hand Jewelry/midnightgalahandjewelry.png",
+      "blend": "Items/Wrist/Midnight Gala Hand Jewelry/Midnightgalahandjewelry.blend",
+      "children": []
+    },
+    {
       "label": "Retro Gamer Gloves",
       "preview": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves.png",
       "blend": "",
@@ -1115,6 +1262,12 @@
       "label": "Werewolf Wrist",
       "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
       "blend": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.blend",
+      "children": []
+    },
+    {
+      "label": "Zombie Hands",
+      "preview": "Items/Wrist/Zombie Hands/Zombie Hands.png",
+      "blend": "Items/Wrist/Zombie Hands/Zombie Hands.blend",
       "children": []
     }
   ]
