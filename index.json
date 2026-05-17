@@ -244,6 +244,54 @@
       "preview": "Items/Face/Beard (Close)/Beard (Close).png",
       "blend": "Items/Face/Beard (Close)/BeardClose.blend",
       "children": []
+    },
+    {
+      "label": "Beard (Thick)",
+      "preview": "Items/Face/Beard (Thick)/Beard (Thick).png",
+      "blend": "Items/Face/Beard (Thick)/Beard (Thick).blend",
+      "children": []
+    },
+    {
+      "label": "Braided Beard",
+      "preview": "Items/Face/Braided Beard/Braided Beard.png",
+      "blend": "Items/Face/Braided Beard/Braided Beard.blend",
+      "children": []
+    },
+    {
+      "label": "Cowboy Stache",
+      "preview": "Items/Face/Cowboy Stache/Cowboy Stache.png",
+      "blend": "Items/Face/Cowboy Stache/Cowboy Stache.blend",
+      "children": []
+    },
+    {
+      "label": "Lumberjack Beard",
+      "preview": "Items/Face/Lumberjack Beard/Lumberjack Beard.png",
+      "blend": "Items/Face/Lumberjack Beard/Lumberjack Beard.blend",
+      "children": []
+    },
+    {
+      "label": "Ranger Stache",
+      "preview": "Items/Face/Ranger Stache/Ranger Stache.png",
+      "blend": "Items/Face/Ranger Stache/Ranger Stache.blend",
+      "children": []
+    },
+    {
+      "label": "Sea Captain Beard",
+      "preview": "Items/Face/Sea Captain Beard/Sea Captain Beard.png",
+      "blend": "Items/Face/Sea Captain Beard/Sea Captain Beard.blend",
+      "children": []
+    },
+    {
+      "label": "Van Dyke Beard",
+      "preview": "Items/Face/Van Dyke Beard/Van Dyke Beard.png",
+      "blend": "Items/Face/Van Dyke Beard/Van Dyke Beard.blend",
+      "children": []
+    },
+    {
+      "label": "Wizard Beard",
+      "preview": "Items/Face/Wizard Beard/Wizard Beard.png",
+      "blend": "Items/Face/Wizard Beard/Wizard Beard.blend",
+      "children": []
     }
   ],
   "Hair": [
@@ -296,15 +344,105 @@
       "children": []
     },
     {
+      "label": "Fonzie Hair",
+      "preview": "Items/Hair/Fonzie Hair/Fonzie Hair.png",
+      "blend": "Items/Hair/Fonzie Hair/Fonzie Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Helmet Hair",
+      "preview": "",
+      "blend": "Items/Hair/Helmet Hair/Helmet Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Large Afro Hair",
+      "preview": "Items/Hair/Large Afro Hair/Large Afro Hair.png",
+      "blend": "Items/Hair/Large Afro Hair/Large Afro Hair.blend",
+      "children": []
+    },
+    {
       "label": "Long Bangs Hair",
       "preview": "Items/Hair/Long Bangs Hair/Long Bangs Hair.png",
       "blend": "Items/Hair/Long Bangs Hair/Long Bangs Hair.blend",
       "children": []
     },
     {
+      "label": "Long Wavy Hair",
+      "preview": "Items/Hair/Long Wavy Hair/Long Wavy Hair.png",
+      "blend": "Items/Hair/Long Wavy Hair/Long Wavy Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Lori Hair",
+      "preview": "Items/Hair/Lori Hair/Lori Hair.png",
+      "blend": "Items/Hair/Lori Hair/Lori Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Mohawk Hair",
+      "preview": "Items/Hair/Mohawk Hair/Mohawk Hair.png",
+      "blend": "Items/Hair/Mohawk Hair/Mohawk Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Pencil Bun Hair",
+      "preview": "Items/Hair/Pencil Bun Hair/Pencil Bun Hair.png",
+      "blend": "Items/Hair/Pencil Bun Hair/Pencil Bun Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Pig Tails Hair",
+      "preview": "Items/Hair/Pig Tails Hair/Pig Tails Hair.png",
+      "blend": "Items/Hair/Pig Tails Hair/Pig Tails Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Pompadour Hair",
+      "preview": "Items/Hair/Pompadour Hair/Pompadour Hair.png",
+      "blend": "Items/Hair/Pompadour Hair/Pompadour Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Receding Hair",
+      "preview": "Items/Hair/Receding Hair/Receding Hair.png",
+      "blend": "Items/Hair/Receding Hair/Receding Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Shagg Hair",
+      "preview": "Items/Hair/Shagg Hair/Shagg Hair.png",
+      "blend": "Items/Hair/Shagg Hair/Shagg Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Short Wavy Hair",
+      "preview": "Items/Hair/Short Wavy Hair/Short Wavy Hair.png",
+      "blend": "Items/Hair/Short Wavy Hair/Short Wavy Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Top Bun Hair",
+      "preview": "Items/Hair/Top Bun Hair/Top Bun Hair.png",
+      "blend": "Items/Hair/Top Bun Hair/Top Bun Hair.blend",
+      "children": []
+    },
+    {
       "label": "Undercut Long Hair",
       "preview": "Items/Hair/Undercut Long Hair/Undercut Long Hair.png",
       "blend": "Items/Hair/Undercut Long Hair/Undercutlonghair.blend",
+      "children": []
+    },
+    {
+      "label": "Undercut Short Hair",
+      "preview": "Items/Hair/Undercut Short Hair/Undercut Short Hair.png",
+      "blend": "Items/Hair/Undercut Short Hair/Undercut Short Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Wavy Middle Part Hair",
+      "preview": "Items/Hair/Wavy Middle Part Hair/Wavy Middle Part Hair.png",
+      "blend": "Items/Hair/Wavy Middle Part Hair/Wavy Middle Part Hair.blend",
       "children": []
     },
     {
@@ -587,6 +725,43 @@
       ]
     },
     {
+      "label": "Aviator Hat",
+      "preview": "Items/Hat/Aviator Hat/Aviator Hat (Tan).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aviator Hat (Black)",
+          "preview": "Items/Hat/Aviator Hat/Aviator Hat (Black)/Aviator Hat (Black).png",
+          "blend": "Items/Hat/Aviator Hat/Aviator Hat (Black)/Aviator Hat (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Hat (Brown)",
+          "preview": "Items/Hat/Aviator Hat/Aviator Hat (Brown)/Aviator Hat (Brown).png",
+          "blend": "Items/Hat/Aviator Hat/Aviator Hat (Brown)/Aviator Hat (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Hat (Red)",
+          "preview": "Items/Hat/Aviator Hat/Aviator Hat (Red)/Aviator Hat (Red).png",
+          "blend": "Items/Hat/Aviator Hat/Aviator Hat (Red)/Aviator Hat (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Hat (Tan)",
+          "preview": "Items/Hat/Aviator Hat/Aviator Hat (Tan)/Aviator Hat (Tan).png",
+          "blend": "Items/Hat/Aviator Hat/Aviator Hat (Tan)/Aviator Hat (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Barista Visor",
+      "preview": "Items/Hat/Barista Visor/Barista Visor.png",
+      "blend": "Items/Hat/Barista Visor/Barista Visor.blend",
+      "children": []
+    },
+    {
       "label": "Bee Antenna",
       "preview": "Items/Hat/Bee Antenna/Bee Antenna.png",
       "blend": "Items/Hat/Bee Antenna/bee antenna.blend",
@@ -736,6 +911,12 @@
       ]
     },
     {
+      "label": "Race Car Driver Hat",
+      "preview": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.png",
+      "blend": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.blend",
+      "children": []
+    },
+    {
       "label": "Tech Camper Hat",
       "preview": "Items/Hat/Tech Camper Hat/Tech Camper Hat.png",
       "blend": "Items/Hat/Tech Camper Hat/TechCamperHat.blend",
@@ -761,6 +942,12 @@
     }
   ],
   "Legs": [
+    {
+      "label": "Barista Pants",
+      "preview": "Items/Legs/Barista Pants/Barista Pants.png",
+      "blend": "Items/Legs/Barista Pants/Barista Pants.blend",
+      "children": []
+    },
     {
       "label": "Basic Leggings",
       "preview": "Items/Legs/Basic Leggings/Green Leggings [Full Body].png",
@@ -1298,6 +1485,37 @@
       ]
     },
     {
+      "label": "Aviator Coat",
+      "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Tan).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aviator Coat (Black)",
+          "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Black)/Aviator Coat (Black).png",
+          "blend": "Items/Shirt/Aviator Coat/Aviator Coat (Black)/Aviator Coat (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Coat (Brown)",
+          "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Brown)/Aviator Coat (Brown).png",
+          "blend": "Items/Shirt/Aviator Coat/Aviator Coat (Brown)/Aviator Coat (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Coat (Red)",
+          "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Red)/Aviator Coat (Red).png",
+          "blend": "Items/Shirt/Aviator Coat/Aviator Coat (Red)/Aviator Coat (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Coat (Tan)",
+          "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Tan)/Aviator Coat (Tan).png",
+          "blend": "Items/Shirt/Aviator Coat/Aviator Coat (Tan)/Aviator Coat (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bards Vest",
       "preview": "Items/Shirt/Bards Vest/Bards Vest.png",
       "blend": "",
@@ -1315,6 +1533,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Barista Button-up Shirt",
+      "preview": "Items/Shirt/Barista Button-up Shirt/Barista Button-up Shirt.png",
+      "blend": "Items/Shirt/Barista Button-up Shirt/Barista Button-up Shirt.blend",
+      "children": []
     },
     {
       "label": "Bee Body",
@@ -1352,6 +1576,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Birthday Shirt (1st)",
+      "preview": "Items/Shirt/Birthday Shirt (1st)/Birthday Shirt (1st).png",
+      "blend": "Items/Shirt/Birthday Shirt (1st)/Birthday Shirt (1st).blend",
+      "children": []
     },
     {
       "label": "Blazer",
@@ -1496,6 +1726,12 @@
       ]
     },
     {
+      "label": "Hoodie Jacket",
+      "preview": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.png",
+      "blend": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.blend",
+      "children": []
+    },
+    {
       "label": "Jester Shirt",
       "preview": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras).png",
       "blend": "",
@@ -1586,6 +1822,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Race Car Driver Race Suit",
+      "preview": "Items/Shirt/Race Car Driver Race Suit/Race Car Driver Race Suit.png",
+      "blend": "Items/Shirt/Race Car Driver Race Suit/Race Car Driver Race Suit.blend",
+      "children": []
     },
     {
       "label": "Rec Room Hoodie (Galaxy)",
@@ -2270,6 +2512,43 @@
       ]
     },
     {
+      "label": "Aviator Gloves",
+      "preview": "Items/Wrist/Aviator Gloves/Aviator Gloves (Tan).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aviator Gloves (Black)",
+          "preview": "Items/Wrist/Aviator Gloves/Aviator Gloves (Black)/Aviator Gloves (Black).png",
+          "blend": "Items/Wrist/Aviator Gloves/Aviator Gloves (Black)/Aviator Gloves (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Gloves (Brown)",
+          "preview": "Items/Wrist/Aviator Gloves/Aviator Gloves (Brown)/Aviator Gloves (Brown).png",
+          "blend": "Items/Wrist/Aviator Gloves/Aviator Gloves (Brown)/Aviator Gloves (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Gloves (Red)",
+          "preview": "Items/Wrist/Aviator Gloves/Aviator Gloves (Red)/Aviator Gloves (Red).png",
+          "blend": "Items/Wrist/Aviator Gloves/Aviator Gloves (Red)/Aviator Gloves (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Aviator Gloves (Tan)",
+          "preview": "Items/Wrist/Aviator Gloves/Aviator Gloves (Tan)/Aviator Gloves (Tan).png",
+          "blend": "Items/Wrist/Aviator Gloves/Aviator Gloves (Tan)/Aviator Gloves (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Barista Apron",
+      "preview": "Items/Wrist/Barista Apron/Barista Apron.png",
+      "blend": "Items/Wrist/Barista Apron/Barista Apron.blend",
+      "children": []
+    },
+    {
       "label": "Beekeeper Gloves",
       "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (White).png",
       "blend": "",
@@ -2323,6 +2602,12 @@
       "label": "Midnight Gala Hand Jewelry",
       "preview": "Items/Wrist/Midnight Gala Hand Jewelry/midnightgalahandjewelry.png",
       "blend": "Items/Wrist/Midnight Gala Hand Jewelry/Midnightgalahandjewelry.blend",
+      "children": []
+    },
+    {
+      "label": "Race Car Driver Gloves",
+      "preview": "Items/Wrist/Race Car Driver Gloves/Race Car Driver Gloves.png",
+      "blend": "Items/Wrist/Race Car Driver Gloves/Race Car Driver Gloves.blend",
       "children": []
     },
     {
