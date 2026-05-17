@@ -3,7 +3,7 @@
 [![status](https://img.shields.io/badge/status-WIP-orange)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive)
 [![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/download/lts/4-5/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
-
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Tutorials-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLqIwMgSelNP18ySgdrIFfycjwcn67o0Vo)
 # RecRoom Avatar Archive
 
 A Blender addon made to help with recreating your Rec Room Avatar!
