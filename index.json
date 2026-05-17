@@ -272,6 +272,18 @@
       "children": []
     },
     {
+      "label": "Bob Hair",
+      "preview": "Items/Hair/Bob Hair/Bob Hair.png",
+      "blend": "Items/Hair/Bob Hair/Bob Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Bob with Bangs Hair",
+      "preview": "Items/Hair/Bob with Bangs Hair/Bob with Bangs Hair.png",
+      "blend": "Items/Hair/Bob with Bangs Hair/Bob with bangs hair.blend",
+      "children": []
+    },
+    {
       "label": "Box Braid Hair",
       "preview": "Items/Hair/Box Braid Hair/Box Braid Hair.png",
       "blend": "Items/Hair/Box Braid Hair/Box Braid Hair.blend",
@@ -550,6 +562,31 @@
       ]
     },
     {
+      "label": "Astronaut Helmet",
+      "preview": "Items/Hat/Astronaut Helmet/Astronaut Helmet (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Astronaut Helmet (Orange)",
+          "preview": "Items/Hat/Astronaut Helmet/Astronaut Helmet (Orange)/Astronaut Helmet (Orange).png",
+          "blend": "Items/Hat/Astronaut Helmet/Astronaut Helmet (Orange)/Astronaut Helmet (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Helmet (S.)",
+          "preview": "",
+          "blend": "Items/Hat/Astronaut Helmet/Astronaut Helmet (S.)/Astronaut Helmet (S).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Helmet (White)",
+          "preview": "Items/Hat/Astronaut Helmet/Astronaut Helmet (White)/Astronaut Helmet (White).png",
+          "blend": "Items/Hat/Astronaut Helmet/Astronaut Helmet (White)/Astronaut Helmet (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Antenna",
       "preview": "Items/Hat/Bee Antenna/Bee Antenna.png",
       "blend": "Items/Hat/Bee Antenna/bee antenna.blend",
@@ -699,6 +736,24 @@
       ]
     },
     {
+      "label": "Tech Camper Hat",
+      "preview": "Items/Hat/Tech Camper Hat/Tech Camper Hat.png",
+      "blend": "Items/Hat/Tech Camper Hat/TechCamperHat.blend",
+      "children": []
+    },
+    {
+      "label": "Viking Helmet",
+      "preview": "Items/Hat/Viking Helmet/Viking Helmet.png",
+      "blend": "Items/Hat/Viking Helmet/Viking Helemet.blend",
+      "children": []
+    },
+    {
+      "label": "Visor",
+      "preview": "Items/Hat/Visor/Visor.png",
+      "blend": "Items/Hat/Visor/Visor.blend",
+      "children": []
+    },
+    {
       "label": "Zombie Head",
       "preview": "Items/Hat/Zombie Head/Zombie Head.png",
       "blend": "Items/Hat/Zombie Head/Zombie Head.blend",
@@ -767,9 +822,71 @@
       "blend": "",
       "children": [
         {
-          "label": "Navy Blue Basics Pants",
-          "preview": "Items/Legs/Basic Pants/Navy Blue Basics Pants/Navy Blue Basic Pants [Full Body].png",
-          "blend": "Items/Legs/Basic Pants/Navy Blue Basics Pants/Navy Blue Basics Pants.blend",
+          "label": "Black Basic Pants [Full Body]",
+          "preview": "Items/Legs/Basic Pants/Black Basic Pants [Full Body]/Black Basic Pants [Full Body].png",
+          "blend": "Items/Legs/Basic Pants/Black Basic Pants [Full Body]/Black Basics Pants.blend",
+          "children": []
+        },
+        {
+          "label": "Navy Blue Basic Pants [Full Body]",
+          "preview": "Items/Legs/Basic Pants/Navy Blue Basic Pants [Full Body]/Navy Blue Basic Pants [Full Body].png",
+          "blend": "Items/Legs/Basic Pants/Navy Blue Basic Pants [Full Body]/Navy Blue Basics Pants.blend",
+          "children": []
+        },
+        {
+          "label": "Orange Basic Pants [Full Body]",
+          "preview": "Items/Legs/Basic Pants/Orange Basic Pants [Full Body]/Orange Basic Pants [Full Body].png",
+          "blend": "Items/Legs/Basic Pants/Orange Basic Pants [Full Body]/Orange Basics Pants.blend",
+          "children": []
+        },
+        {
+          "label": "White Basic Pants [Full Body]",
+          "preview": "Items/Legs/Basic Pants/White Basic Pants [Full Body]/White Basic Pants [Full Body].png",
+          "blend": "Items/Legs/Basic Pants/White Basic Pants [Full Body]/White Basics Pants.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Basic Shorts",
+      "preview": "Items/Legs/Basic Shorts/Blue Basic Shorts [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Blue Basic Shorts [Full Body]",
+          "preview": "Items/Legs/Basic Shorts/Blue Basic Shorts [Full Body]/Blue Basic Shorts [Full Body].png",
+          "blend": "Items/Legs/Basic Shorts/Blue Basic Shorts [Full Body]/Basic Shorts (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Purple Basic Shorts [Full Body]",
+          "preview": "Items/Legs/Basic Shorts/Purple Basic Shorts [Full Body]/Purple Basic Shorts [Full Body].png",
+          "blend": "Items/Legs/Basic Shorts/Purple Basic Shorts [Full Body]/Basic Shorts (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Red Basic Shorts [Full Body]",
+          "preview": "Items/Legs/Basic Shorts/Red Basic Shorts [Full Body]/Red Basic Shorts [Full Body].png",
+          "blend": "Items/Legs/Basic Shorts/Red Basic Shorts [Full Body]/Basic Shorts (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Bike Shorts",
+      "preview": "Items/Legs/Bike Shorts/Gray Bike Shorts [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Gray Bike Shorts [Full Body]",
+          "preview": "Items/Legs/Bike Shorts/Gray Bike Shorts [Full Body]/Gray Bike Shorts [Full Body].png",
+          "blend": "Items/Legs/Bike Shorts/Gray Bike Shorts [Full Body]/Gray Bike Shorts.blend",
+          "children": []
+        },
+        {
+          "label": "White Bike Shorts [Full Body]",
+          "preview": "Items/Legs/Bike Shorts/White Bike Shorts [Full Body]/White Bike Shorts [Full Body].png",
+          "blend": "Items/Legs/Bike Shorts/White Bike Shorts [Full Body]/White Bike Shorts.blend",
           "children": []
         }
       ]
@@ -778,6 +895,12 @@
       "label": "Carnival Clown Pants",
       "preview": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.png",
       "blend": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Tech Camper Cargo Shorts",
+      "preview": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.png",
+      "blend": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.blend",
       "children": []
     }
   ],
@@ -877,6 +1000,25 @@
           "label": "Aristocrat Necklace (Topaz)",
           "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Topaz)/Aristocrat Necklace (Topaz).png",
           "blend": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Topaz)/Aristocrat Necklace (Topaz).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Ascot",
+      "preview": "Items/Neck/Ascot/Ascot.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Ascot",
+          "preview": "Items/Neck/Ascot/Ascot/Ascot.png",
+          "blend": "Items/Neck/Ascot/Ascot/Ascot.blend",
+          "children": []
+        },
+        {
+          "label": "Blue Ascot",
+          "preview": "Items/Neck/Ascot/Blue Ascot/Blue Ascot.png",
+          "blend": "Items/Neck/Ascot/Blue Ascot/Blue Ascot.blend",
           "children": []
         }
       ]
@@ -1106,6 +1248,56 @@
       ]
     },
     {
+      "label": "Artist Shirt",
+      "preview": "Items/Shirt/Artist Shirt/Artist Shirt (Gray).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Artist Shirt (Blue)",
+          "preview": "Items/Shirt/Artist Shirt/Artist Shirt (Blue)/Artist Shirt (Blue).png",
+          "blend": "Items/Shirt/Artist Shirt/Artist Shirt (Blue)/Artist Shirt (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Artist Shirt (Gray)",
+          "preview": "Items/Shirt/Artist Shirt/Artist Shirt (Gray)/Artist Shirt (Gray).png",
+          "blend": "Items/Shirt/Artist Shirt/Artist Shirt (Gray)/Artist Shirt (Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Artist Shirt (Red)",
+          "preview": "Items/Shirt/Artist Shirt/Artist Shirt (Red)/Artist Shirt (Red).png",
+          "blend": "Items/Shirt/Artist Shirt/Artist Shirt (Red)/Artist Shirt (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Astronaut Suit",
+      "preview": "Items/Shirt/Astronaut Suit/Astronaut Suit (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Astronaut Suit (Orange)",
+          "preview": "Items/Shirt/Astronaut Suit/Astronaut Suit (Orange)/Astronaut Suit (Orange).png",
+          "blend": "Items/Shirt/Astronaut Suit/Astronaut Suit (Orange)/Astronaut Suit (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Suit (S.)",
+          "preview": "",
+          "blend": "Items/Shirt/Astronaut Suit/Astronaut Suit (S.)/Astronaut Suit (S).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Suit (White)",
+          "preview": "Items/Shirt/Astronaut Suit/Astronaut Suit (White)/Astronaut Suit (White).png",
+          "blend": "Items/Shirt/Astronaut Suit/Astronaut Suit (White)/Astronaut Suit (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bards Vest",
       "preview": "Items/Shirt/Bards Vest/Bards Vest.png",
       "blend": "",
@@ -1160,6 +1352,61 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Blazer",
+      "preview": "Items/Shirt/Blazer/Blazer (Black, Cream).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Blazer (Black, Cream)",
+          "preview": "Items/Shirt/Blazer/Blazer (Black, Cream)/Blazer (Black, Cream).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Black, Cream)/Blazer (Black, Cream).blend",
+          "children": []
+        },
+        {
+          "label": "Blazer (Black, White)",
+          "preview": "Items/Shirt/Blazer/Blazer (Black, White)/Blazer (Black, White).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Black, White)/Blazer (Black, White).blend",
+          "children": []
+        },
+        {
+          "label": "Blazer (Blue, White)",
+          "preview": "Items/Shirt/Blazer/Blazer (Blue, White)/Blazer (Blue, White).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Blue, White)/Blazer (Blue, White).blend",
+          "children": []
+        },
+        {
+          "label": "Blazer (Green, Black)",
+          "preview": "Items/Shirt/Blazer/Blazer (Green, Black)/Blazer (Green, Black).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Green, Black)/Blazer (Green, Black).blend",
+          "children": []
+        },
+        {
+          "label": "Blazer (Grey, Black)",
+          "preview": "Items/Shirt/Blazer/Blazer (Grey, Black)/Blazer (Grey, Black).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Grey, Black)/Blazer (Grey, Black).blend",
+          "children": []
+        },
+        {
+          "label": "Blazer (Grey, White)",
+          "preview": "Items/Shirt/Blazer/Blazer (Grey, White)/Blazer (Grey, White).png",
+          "blend": "Items/Shirt/Blazer/Blazer (Grey, White)/Blazer (Grey, White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Blazer (Candy Cane)",
+      "preview": "Items/Shirt/Blazer (Candy Cane)/Blazer (Candy Cane).png",
+      "blend": "Items/Shirt/Blazer (Candy Cane)/Blazer (Candy Cane).blend",
+      "children": []
+    },
+    {
+      "label": "Blazer (Shamrock)",
+      "preview": "Items/Shirt/Blazer (Shamrock)/Blazer (Shamrock).png",
+      "blend": "Items/Shirt/Blazer (Shamrock)/Blazer (Shamrock).blend",
+      "children": []
     },
     {
       "label": "Carnival Clown Suit",
@@ -1274,6 +1521,85 @@
       "children": []
     },
     {
+      "label": "Overalls Skirt",
+      "preview": "Items/Shirt/Overalls Skirt/OverallsSkirt_Shirt.png",
+      "blend": "Items/Shirt/Overalls Skirt/OverallsSkirt_Shirt.blend",
+      "children": []
+    },
+    {
+      "label": "Punk Jacket",
+      "preview": "Items/Shirt/Punk Jacket/Punk Jacket (Pink).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Olive Punk Jacket",
+          "preview": "Items/Shirt/Punk Jacket/Olive Punk Jacket/Olive Punk Jacket.png",
+          "blend": "Items/Shirt/Punk Jacket/Olive Punk Jacket/Punk Jacket (Olive).blend",
+          "children": []
+        },
+        {
+          "label": "Punk Jacket (Blue)",
+          "preview": "Items/Shirt/Punk Jacket/Punk Jacket (Blue)/Punk Jacket (Blue).png",
+          "blend": "Items/Shirt/Punk Jacket/Punk Jacket (Blue)/Punk Jacket (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Punk Jacket (Pink)",
+          "preview": "Items/Shirt/Punk Jacket/Punk Jacket (Pink)/Punk Jacket (Pink).png",
+          "blend": "Items/Shirt/Punk Jacket/Punk Jacket (Pink)/Punk Jacket (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Punk Jacket (Red)",
+          "preview": "Items/Shirt/Punk Jacket/Punk Jacket (Red)/Punk Jacket (Red).png",
+          "blend": "Items/Shirt/Punk Jacket/Punk Jacket (Red)/Punk Jacket (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Punk Outfit (Blue)",
+          "preview": "Items/Shirt/Punk Jacket/Punk Outfit (Blue)/Punk Outfit (Blue).png",
+          "blend": "Items/Shirt/Punk Jacket/Punk Outfit (Blue)/Punk Jacket (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Punk Outfit (Orange)",
+          "preview": "Items/Shirt/Punk Jacket/Punk Outfit (Orange)/Punk Outfit (Orange).png",
+          "blend": "Items/Shirt/Punk Jacket/Punk Outfit (Orange)/Punk Jacket (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Purple Punk Jacket",
+          "preview": "Items/Shirt/Punk Jacket/Purple Punk Jacket/Purple Punk Jacket.png",
+          "blend": "Items/Shirt/Punk Jacket/Purple Punk Jacket/Punk Jacket (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "White Punk Jacket",
+          "preview": "Items/Shirt/Punk Jacket/White Punk Jacket/White Punk Jacket.png",
+          "blend": "Items/Shirt/Punk Jacket/White Punk Jacket/Punk Jacket (White).blend",
+          "children": []
+        },
+        {
+          "label": "Yellow Punk Jacket",
+          "preview": "Items/Shirt/Punk Jacket/Yellow Punk Jacket/Yellow Punk Jacket.png",
+          "blend": "Items/Shirt/Punk Jacket/Yellow Punk Jacket/Punk Jacket (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Rec Room Hoodie (Galaxy)",
+      "preview": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).png",
+      "blend": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).blend",
+      "children": []
+    },
+    {
+      "label": "Rec Room Hoodie (Gold)",
+      "preview": "Items/Shirt/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).png",
+      "blend": "Items/Shirt/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).blend",
+      "children": []
+    },
+    {
       "label": "Rec Room Hoodie (Solid)",
       "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
       "blend": "",
@@ -1354,6 +1680,104 @@
       ]
     },
     {
+      "label": "Tech Camper Hiking Vest",
+      "preview": "Items/Shirt/Tech Camper Hiking Vest/Tech Camper Hiking Vest.png",
+      "blend": "Items/Shirt/Tech Camper Hiking Vest/Tech Camper Hiking Vest.blend",
+      "children": []
+    },
+    {
+      "label": "Tennis Shirt",
+      "preview": "Items/Shirt/Tennis Shirt/Tennis Shirt (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Tennis Shirt (Pink)",
+          "preview": "Items/Shirt/Tennis Shirt/Tennis Shirt (Pink)/Tennis Shirt (Pink).png",
+          "blend": "Items/Shirt/Tennis Shirt/Tennis Shirt (Pink)/Tennis Shirt (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Tennis Shirt (White)",
+          "preview": "Items/Shirt/Tennis Shirt/Tennis Shirt (White)/Tennis Shirt (White).png",
+          "blend": "Items/Shirt/Tennis Shirt/Tennis Shirt (White)/Tennis Shirt (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Turtleneck",
+      "preview": "Items/Shirt/Turtleneck/Turtleneck (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Turtleneck (Black)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Black)/Turtleneck (Black).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Black)/Turtleneck (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Blue)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Blue)/Turtleneck (Blue).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Blue)/Turtleneck (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Green)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Green)/Turtleneck (Green).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Green)/Turtleneck (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Grey)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Grey)/Turtleneck (Grey).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Grey)/Turtleneck (Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Navy)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Navy)/Turtleneck (Navy).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Navy)/Turtleneck (Navy).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Orange)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Orange)/Turtleneck (Orange).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Orange)/Turtleneck (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Purple)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Purple)/Turtleneck (Purple).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Purple)/Turtleneck (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Red)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Red)/Turtleneck (Red).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Red)/Turtleneck (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Teal)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Teal)/Turtleneck (Teal).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Teal)/Turtleneck (Teal).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (White)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (White)/Turtleneck (White).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (White)/Turtleneck (White).blend",
+          "children": []
+        },
+        {
+          "label": "Turtleneck (Yellow)",
+          "preview": "Items/Shirt/Turtleneck/Turtleneck (Yellow)/Turtleneck (Yellow).png",
+          "blend": "Items/Shirt/Turtleneck/Turtleneck (Yellow)/Turtleneck (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Zombie Vest",
       "preview": "Items/Shirt/Zombie Vest/Zombie Vest.png",
       "blend": "Items/Shirt/Zombie Vest/Zombie Vest.blend",
@@ -1367,9 +1791,51 @@
       "blend": "",
       "children": [
         {
+          "label": "Blue Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Blue Boots [Full Body]/Blue Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Blue Boots [Full Body]/Blue Boots.blend",
+          "children": []
+        },
+        {
           "label": "Boots [Default]",
           "preview": "Items/Shoes/Basic Boots/Boots [Default]/Boots [Full Body].png",
-          "blend": "Items/Shoes/Basic Boots/Boots [Default]/Rec Room Item Creator.blend",
+          "blend": "Items/Shoes/Basic Boots/Boots [Default]/Boots.blend",
+          "children": []
+        },
+        {
+          "label": "Brown Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Brown Boots [Full Body]/Brown Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Brown Boots [Full Body]/Brown Boots.blend",
+          "children": []
+        },
+        {
+          "label": "Green Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Green Boots [Full Body]/Green Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Green Boots [Full Body]/Green Boots.blend",
+          "children": []
+        },
+        {
+          "label": "Purple Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Purple Boots [Full Body]/Purple Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Purple Boots [Full Body]/Purple Boots.blend",
+          "children": []
+        },
+        {
+          "label": "Red Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Red Boots [Full Body]/Red Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Red Boots [Full Body]/Red Boots.blend",
+          "children": []
+        },
+        {
+          "label": "Tan Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/Tan Boots [Full Body]/Tan Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/Tan Boots [Full Body]/Tan Boots.blend",
+          "children": []
+        },
+        {
+          "label": "White Boots [Full Body]",
+          "preview": "Items/Shoes/Basic Boots/White Boots [Full Body]/White Boots [Full Body].png",
+          "blend": "Items/Shoes/Basic Boots/White Boots [Full Body]/White Boots.blend",
           "children": []
         }
       ]
@@ -1525,6 +1991,37 @@
           "label": "Archer Quiver (Yellow)",
           "preview": "Items/Shoulder/Archer Quiver/Archer Quiver (Yellow)/Archer Quiver (Yellow).png",
           "blend": "Items/Shoulder/Archer Quiver/Archer Quiver (Yellow)/ArcherQuiver(Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "BackSword",
+      "preview": "Items/Shoulder/BackSword/Backsword (Leathered Iron).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Backsword (Cricket)",
+          "preview": "Items/Shoulder/BackSword/Backsword (Cricket)/Backsword (Cricket).png",
+          "blend": "Items/Shoulder/BackSword/Backsword (Cricket)/Backsword (Cricket).blend",
+          "children": []
+        },
+        {
+          "label": "Backsword (Galaxy)",
+          "preview": "Items/Shoulder/BackSword/Backsword (Galaxy)/Backsword (Galaxy).png",
+          "blend": "Items/Shoulder/BackSword/Backsword (Galaxy)/Backsword (Galaxy).blend",
+          "children": []
+        },
+        {
+          "label": "Backsword (Leathered Iron)",
+          "preview": "Items/Shoulder/BackSword/Backsword (Leathered Iron)/Backsword (Leathered Iron).png",
+          "blend": "Items/Shoulder/BackSword/Backsword (Leathered Iron)/Backsword (Leathered Iron).blend",
+          "children": []
+        },
+        {
+          "label": "Backsword (Wolf Steel)",
+          "preview": "Items/Shoulder/BackSword/Backsword (Wolf Steel)/Backsword (Wolf Steel).png",
+          "blend": "Items/Shoulder/BackSword/Backsword (Wolf Steel)/Backsword (Wolf Steel).blend",
           "children": []
         }
       ]
@@ -1737,6 +2234,31 @@
           "label": "Aristocrat Cuff (Red)",
           "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Red)/Aristocrat Cuff (Red).png",
           "blend": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Red)/Aristocrat Cuff (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Astronaut Gloves",
+      "preview": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Astronaut Gloves (Orange)",
+          "preview": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (Orange)/Astronaut Gloves (Orange).png",
+          "blend": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (Orange)/Astronaut Gloves (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Gloves (S.)",
+          "preview": "",
+          "blend": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (S.)/Astronaut Gloves (S).blend",
+          "children": []
+        },
+        {
+          "label": "Astronaut Gloves (White)",
+          "preview": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (White)/Astronaut Gloves (White).png",
+          "blend": "Items/Wrist/Astronaut Gloves/Astronaut Gloves (White)/Astronaut Gloves (White).blend",
           "children": []
         }
       ]
