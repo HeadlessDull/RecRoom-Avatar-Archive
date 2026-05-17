@@ -128,6 +128,15 @@ Each User has a link and/or discord profile for you to acess
     </td>
   </tr>
     <tr>
+    <td><img width="100" height="100" alt="e1543bcb85a22937370a4c898ccda958" src="https://github.com/user-attachments/assets/82c8a871-d6a1-486d-95d5-c78690bbbd34" />
+</td>
+    <td valign="middle">
+      <strong>Reduced</strong>: Asset Exporting<br/>
+      <sub>Discord: rattlesnakeslackjaw</sub>
+      <sub></sub>
+    </td>
+      </tr>
+    <tr>
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
     <td valign="middle">
       <strong>Konman</strong>: Specailty Asset Exporting<br/>
