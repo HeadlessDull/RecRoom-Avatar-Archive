@@ -123,7 +123,7 @@ Each User has a link and/or discord profile for you to acess
     <tr>
     <td><img width="100" height="100" alt="ab971ec97fbeeab25f6729ca69cfe87f" src="https://github.com/user-attachments/assets/ee054fb1-b8a1-4d41-a79e-c55877163338" /></td>
     <td valign="middle">
-      <strong>Anna</strong>: Co-Manager | Asset Exporting/Setup | Blender Shaders Help<br/>
+      <strong><a href="https://github.com/AmongUs50">Anna</a></strong>: Co-Manager | Asset Exporting/Setup | Blender Shaders Help<br/>
       <sub>Discord: thefinalcore</sub>
     </td>
   </tr>
