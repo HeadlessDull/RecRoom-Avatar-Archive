@@ -1778,6 +1778,12 @@
       ]
     },
     {
+      "label": "Update Tee",
+      "preview": "",
+      "blend": "Items/Shirt/Update Tee/Update Tee.blend",
+      "children": []
+    },
+    {
       "label": "Zombie Vest",
       "preview": "Items/Shirt/Zombie Vest/Zombie Vest.png",
       "blend": "Items/Shirt/Zombie Vest/Zombie Vest.blend",
