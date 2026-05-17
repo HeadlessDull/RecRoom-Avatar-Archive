@@ -335,6 +335,80 @@
       "children": []
     },
     {
+      "label": "Anime Hair Hat",
+      "preview": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Hair Hat (Black)",
+          "preview": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Black)/Anime Hair Hat (Black).png",
+          "blend": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Black)/Anime Hair Hat (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Hair Hat (Blue)",
+          "preview": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Blue)/Anime Hair Hat (Blue).png",
+          "blend": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Blue)/Anime Hair Hat (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Hair Hat (Magma)",
+          "preview": "",
+          "blend": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Magma)/Anime Hair Hat (Magma).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Hair Hat (Red)",
+          "preview": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Red)/Anime Hair Hat (Red).png",
+          "blend": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Red)/Anime Hair Hat (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Hair Hat (Yellow)",
+          "preview": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Yellow)/Anime Hair Hat (Yellow).png",
+          "blend": "Items/Hat/Anime Hair Hat/Anime Hair Hat (Yellow)/Anime Hair Hat (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Anime Tiara",
+      "preview": "Items/Hat/Anime Tiara/Anime Tiara (Fuchsia).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Tiara (Fuchsia)",
+          "preview": "Items/Hat/Anime Tiara/Anime Tiara (Fuchsia)/Anime Tiara (Fuchsia).png",
+          "blend": "Items/Hat/Anime Tiara/Anime Tiara (Fuchsia)/Anime Tiara (Fuchsia).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Tiara (Green)",
+          "preview": "Items/Hat/Anime Tiara/Anime Tiara (Green)/Anime Tiara (Green).png",
+          "blend": "Items/Hat/Anime Tiara/Anime Tiara (Green)/Anime Tiara (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Tiara (Orange)",
+          "preview": "Items/Hat/Anime Tiara/Anime Tiara (Orange)/Anime Tiara (Orange).png",
+          "blend": "Items/Hat/Anime Tiara/Anime Tiara (Orange)/Anime Tiara (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Tiara (Red)",
+          "preview": "Items/Hat/Anime Tiara/Anime Tiara (Red)/Anime Tiara (Red).png",
+          "blend": "Items/Hat/Anime Tiara/Anime Tiara (Red)/Anime Tiara (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Tiara (Teal)",
+          "preview": "Items/Hat/Anime Tiara/Anime Tiara (Teal)/Anime Tiara (Teal).png",
+          "blend": "Items/Hat/Anime Tiara/Anime Tiara (Teal)/Anime Tiara (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Apocalypse Helmet",
       "preview": "Items/Hat/Apocalypse Helmet/Apocalypse Helmet.png",
       "blend": "Items/Hat/Apocalypse Helmet/Apocalypse Helmet.blend",
@@ -385,6 +459,37 @@
           "label": "Archer Hat (Yellow)",
           "preview": "Items/Hat/Archer Hat/Archer Hat (Yellow)/Archer Hat (Yellow).png",
           "blend": "Items/Hat/Archer Hat/Archer Hat (Yellow)/Archer Hat(Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Arrow Through Head Hat",
+      "preview": "Items/Hat/Arrow Through Head Hat/Arrow Through Head Hat.png",
+      "blend": "Items/Hat/Arrow Through Head Hat/Arrow Through Head Hat.blend",
+      "children": []
+    },
+    {
+      "label": "Artist Beret",
+      "preview": "Items/Hat/Artist Beret/Artist Beret (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Artist Beret (Black)",
+          "preview": "Items/Hat/Artist Beret/Artist Beret (Black)/Artist Beret (Black).png",
+          "blend": "Items/Hat/Artist Beret/Artist Beret (Black)/Artist Beret (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Artist Beret (Blue)",
+          "preview": "Items/Hat/Artist Beret/Artist Beret (Blue)/Artist Beret (Blue).png",
+          "blend": "Items/Hat/Artist Beret/Artist Beret (Blue)/Artist Beret (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Artist Beret (Red)",
+          "preview": "Items/Hat/Artist Beret/Artist Beret (Red)/Artist Beret (Red).png",
+          "blend": "Items/Hat/Artist Beret/Artist Beret (Red)/Artist Beret (Red).blend",
           "children": []
         }
       ]
@@ -495,6 +600,31 @@
       ]
     },
     {
+      "label": "Graduation Cap",
+      "preview": "Items/Hat/Graduation Cap/Graduation Cap.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Graduation Cap",
+          "preview": "Items/Hat/Graduation Cap/Graduation Cap/Graduation Cap.png",
+          "blend": "Items/Hat/Graduation Cap/Graduation Cap/Graduation Cap.blend",
+          "children": []
+        },
+        {
+          "label": "Graduation Cap (Maker Pen Class)",
+          "preview": "Items/Hat/Graduation Cap/Graduation Cap (Maker Pen Class)/Graduation Cap (Maker Pen Class).png",
+          "blend": "Items/Hat/Graduation Cap/Graduation Cap (Maker Pen Class)/Graduation Cap (Maker Pen Class).blend",
+          "children": []
+        },
+        {
+          "label": "Graduation Cap (Video Creation Class)",
+          "preview": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation Class).png",
+          "blend": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Zombie Head",
       "preview": "Items/Hat/Zombie Head/Zombie Head.png",
       "blend": "Items/Hat/Zombie Head/Zombie Head.blend",
@@ -598,10 +728,84 @@
       ]
     },
     {
+      "label": "Anime Bow",
+      "preview": "Items/Neck/Anime Bow/Anime Bow (Dark Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Bow (Dark Blue)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Dark Blue)/Anime Bow (Dark Blue).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Dark Blue)/Anime Bow (DarkBlue).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Bow (Fuchsia)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Fuchsia)/Anime Bow (Fuchsia).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Fuchsia)/Anime Bow (Fuchsia).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Bow (Pink)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Pink)/Anime Bow (Pink).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Pink)/Anime Bow (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Bow (Purple)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Purple)/Anime Bow (Purple).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Purple)/Anime Bow (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Bow (Rose)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Rose)/Anime Bow (Rose).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Rose)/Anime Bow (Rose).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Bow (Teal)",
+          "preview": "Items/Neck/Anime Bow/Anime Bow (Teal)/Anime Bow (Teal).png",
+          "blend": "Items/Neck/Anime Bow/Anime Bow (Teal)/Anime Bow (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Apocalypse Scarf",
       "preview": "Items/Neck/Apocalypse Scarf/Apocalypse Scarf.png",
       "blend": "Items/Neck/Apocalypse Scarf/Apocalypse Scarf.blend",
       "children": []
+    },
+    {
+      "label": "Aristocrat Necklace",
+      "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Amethyst).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aristocrat Necklace (Amethyst)",
+          "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Amethyst)/Aristocrat Necklace (Amethyst).png",
+          "blend": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Amethyst)/Aristocrat Necklace (Amethyst).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Necklace (Emerald)",
+          "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Emerald)/Aristocrat Necklace (Emerald).png",
+          "blend": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Emerald)/Aristocrat Necklace (Emerald).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Necklace (Ruby)",
+          "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Ruby)/Aristocrat Necklace (Ruby).png",
+          "blend": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Ruby)/Aristocrat Necklace (Ruby).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Necklace (Topaz)",
+          "preview": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Topaz)/Aristocrat Necklace (Topaz).png",
+          "blend": "Items/Neck/Aristocrat Necklace/Aristocrat Necklace (Topaz)/Aristocrat Necklace (Topaz).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Layered Necklace",
@@ -686,6 +890,80 @@
       ]
     },
     {
+      "label": "Animal Sweater",
+      "preview": "Items/Shirt/Animal Sweater/Animal Sweater (Axolotl).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Animal Sweater (Axolotl)",
+          "preview": "Items/Shirt/Animal Sweater/Animal Sweater (Axolotl)/Animal Sweater (Axolotl).png",
+          "blend": "Items/Shirt/Animal Sweater/Animal Sweater (Axolotl)/Animal Sweater (Axolotl).blend",
+          "children": []
+        },
+        {
+          "label": "Animal Sweater (Ferret)",
+          "preview": "Items/Shirt/Animal Sweater/Animal Sweater (Ferret)/Animal Sweater (Ferret).png",
+          "blend": "Items/Shirt/Animal Sweater/Animal Sweater (Ferret)/Animal Sweater (Ferret).blend",
+          "children": []
+        },
+        {
+          "label": "Animal Sweater (Penguin)",
+          "preview": "Items/Shirt/Animal Sweater/Animal Sweater (Penguin)/Animal Sweater (Penguin).png",
+          "blend": "Items/Shirt/Animal Sweater/Animal Sweater (Penguin)/Animal Sweater (Penguin).blend",
+          "children": []
+        },
+        {
+          "label": "Animal Sweater (Toucan)",
+          "preview": "Items/Shirt/Animal Sweater/Animal Sweater (Toucan)/Animal Sweater (Toucan).png",
+          "blend": "Items/Shirt/Animal Sweater/Animal Sweater (Toucan)/Animal Sweater (Toucan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Anime Skirt",
+      "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Skirt (Blue)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Blue)/Anime Skirt (Blue).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Blue)/Anime Shirt (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Skirt (Green)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Green)/Anime Skirt (Green).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Green)/Anime Shirt (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Skirt (Orange)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Orange)/Anime Skirt (Orange).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Orange)/Anime Shirt (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Skirt (Pink)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Pink)/Anime Skirt (Pink).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Pink)/Anime Shirt (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Skirt (Red)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Red)/Anime Skirt (Red).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Red)/Anime Shirt (red).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Skirt (Teal)",
+          "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Teal)/Anime Skirt (Teal).png",
+          "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Teal)/Anime Shirt (teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Apocalypse Jacket",
       "preview": "Items/Shirt/Apocalypse Jacket/Apocalypse Jacket.png",
       "blend": "Items/Shirt/Apocalypse Jacket/Apocalypse Jacket.blend",
@@ -736,6 +1014,19 @@
           "label": "Archer Tunic (Yellow)",
           "preview": "Items/Shirt/Archer Tunic/Archer Tunic (Yellow)/Archer Tunic (Yellow).png",
           "blend": "Items/Shirt/Archer Tunic/Archer Tunic (Yellow)/Archer Tunic (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Art Festival 2022 Shirt",
+      "preview": "Items/Shirt/Art Festival 2022 Shirt/Art Festival 2022 Shirt (Orange).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Art Festival 2022 Shirt (Orange)",
+          "preview": "Items/Shirt/Art Festival 2022 Shirt/Art Festival 2022 Shirt (Orange)/Art Festival 2022 Shirt (Orange).png",
+          "blend": "Items/Shirt/Art Festival 2022 Shirt/Art Festival 2022 Shirt (Orange)/Art Festical 2022 Shirt (Orange).blend",
           "children": []
         }
       ]
@@ -829,6 +1120,56 @@
           "label": "Formal Vest (Red)",
           "preview": "Items/Shirt/Formal Vest/Formal Vest (Red)/Formal Vest (Red).png",
           "blend": "Items/Shirt/Formal Vest/Formal Vest (Red)/Formal Vest (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Golfer Shirt",
+      "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Tan).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Golfer Shirt (Blue)",
+          "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Blue)/Golfer Shirt (Blue).png",
+          "blend": "Items/Shirt/Golfer Shirt/Golfer Shirt (Blue)/Golfer Shirt (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Golfer Shirt (Gray)",
+          "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Gray)/Golfer Shirt (Grey).png",
+          "blend": "Items/Shirt/Golfer Shirt/Golfer Shirt (Gray)/Golfer Shirt (Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Golfer Shirt (Tan)",
+          "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Tan)/Golfer Shirt (Tan).png",
+          "blend": "Items/Shirt/Golfer Shirt/Golfer Shirt (Tan)/Golfer Shirt (Tan).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Graduation Gown",
+      "preview": "Items/Shirt/Graduation Gown/Graduation Gown.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Graduation Gown",
+          "preview": "Items/Shirt/Graduation Gown/Graduation Gown/Graduation Gown.png",
+          "blend": "Items/Shirt/Graduation Gown/Graduation Gown/Graduation Gown.blend",
+          "children": []
+        },
+        {
+          "label": "Graduation Gown (Maker Pen Class)",
+          "preview": "Items/Shirt/Graduation Gown/Graduation Gown (Maker Pen Class)/Graduation Gown (Maker Pen Class).png",
+          "blend": "Items/Shirt/Graduation Gown/Graduation Gown (Maker Pen Class)/Graduation Gown (Maker Pen Class).blend",
+          "children": []
+        },
+        {
+          "label": "Graduation Gown (Video Creation Class)",
+          "preview": "Items/Shirt/Graduation Gown/Graduation Gown (Video Creation Class)/Graduation Gown (Video Creation Class).png",
+          "blend": "Items/Shirt/Graduation Gown/Graduation Gown (Video Creation Class)/Graduation Gown (Video Creations Class).blend",
           "children": []
         }
       ]
@@ -1148,6 +1489,49 @@
       ]
     },
     {
+      "label": "Anime Glove",
+      "preview": "Items/Wrist/Anime Glove/Anime Glove (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Glove (Blue)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Blue)/Anime Glove (Blue).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Blue)/Anime Glove (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Glove (Green)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Green)/Anime Glove (Green).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Green)/Anime Glove (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Glove (Orange)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Orange)/Anime Glove (Orange).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Orange)/Anime Glove (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Glove (Pink)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Pink)/Anime Glove (Pink).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Pink)/Anime Glove (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Glove (Red)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Red)/Anime Glove (Red).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Red)/Anime Glove (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Anime Glove (Teal)",
+          "preview": "Items/Wrist/Anime Glove/Anime Glove (Teal)/Anime Glove (Teal).png",
+          "blend": "Items/Wrist/Anime Glove/Anime Glove (Teal)/Anime Glove (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Apocalypse Gloves",
       "preview": "Items/Wrist/Apocalypse Gloves/Apocalypse Gloves.png",
       "blend": "Items/Wrist/Apocalypse Gloves/ApocalypseGloves.blend",
@@ -1198,6 +1582,37 @@
           "label": "Archer Gloves (Yellow)",
           "preview": "Items/Wrist/Archer Gloves/Archer Gloves (Yellow)/Archer Gloves (Yellow).png",
           "blend": "Items/Wrist/Archer Gloves/Archer Gloves (Yellow)/ArcherGloves(Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Aristocrat Cuff",
+      "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aristocrat Cuff (Black)",
+          "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Black)/Aristocrat Cuff (Black).png",
+          "blend": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Black)/Aristocrat Cuff (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Cuff (Green)",
+          "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Green)/Aristocrat Cuff (Green).png",
+          "blend": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Green)/Aristocrat Cuff (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Cuff (Midnight)",
+          "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Midnight)/Aristocrat Cuff (Midnight).png",
+          "blend": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Midnight)/Aristocrat Cuff (Midnight).blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Cuff (Red)",
+          "preview": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Red)/Aristocrat Cuff (Red).png",
+          "blend": "Items/Wrist/Aristocrat Cuff/Aristocrat Cuff (Red)/Aristocrat Cuff (Red).blend",
           "children": []
         }
       ]
