@@ -181,6 +181,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Scientist Goggles",
+      "preview": "Items/Eye/Scientist Goggles/Scientist Goggles.png",
+      "blend": "Items/Eye/Scientist Goggles/Scientist Goggles.blend",
+      "children": []
     }
   ],
   "Face": [
@@ -620,6 +626,25 @@
           "label": "Graduation Cap (Video Creation Class)",
           "preview": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation Class).png",
           "blend": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Jester Hat",
+      "preview": "Items/Hat/Jester Hat/Jester Hat (Mardi Gras).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Jester Hat",
+          "preview": "Items/Hat/Jester Hat/Jester Hat/Jester Hat.png",
+          "blend": "Items/Hat/Jester Hat/Jester Hat/Jester Hat.blend",
+          "children": []
+        },
+        {
+          "label": "Jester Hat (Mardi Gras)",
+          "preview": "Items/Hat/Jester Hat/Jester Hat (Mardi Gras)/Jester Hat (Mardi Gras).png",
+          "blend": "Items/Hat/Jester Hat/Jester Hat (Mardi Gras)/Jester Hat (Mardi Gras).blend",
           "children": []
         }
       ]
@@ -1175,6 +1200,25 @@
       ]
     },
     {
+      "label": "Jester Shirt",
+      "preview": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Jester Shirt",
+          "preview": "Items/Shirt/Jester Shirt/Jester Shirt/Jester Shirt.png",
+          "blend": "Items/Shirt/Jester Shirt/Jester Shirt/Jester Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Jester Shirt (Mardi Gras)",
+          "preview": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras)/Jester Shirt (Mardi Gras).png",
+          "blend": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras)/Jester Shirt (Mardi Gras).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Midnight Gala Tuxedo Dress",
       "preview": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.png",
       "blend": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.blend",
@@ -1466,6 +1510,37 @@
       "preview": "Items/Shoulder/Bee Wings/Bee Wings.png",
       "blend": "Items/Shoulder/Bee Wings/Bee Wings.blend",
       "children": []
+    },
+    {
+      "label": "Fancy Cape",
+      "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Gilded).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Fancy Cape (Basketball)",
+          "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Basketball)/Fancy Cape (Basketball).png",
+          "blend": "Items/Shoulder/Fancy Cape/Fancy Cape (Basketball)/Fancy Cape (Basketball).blend",
+          "children": []
+        },
+        {
+          "label": "Fancy Cape (Gilded)",
+          "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Gilded)/Fancy Cape (Gilded).png",
+          "blend": "Items/Shoulder/Fancy Cape/Fancy Cape (Gilded)/Fancy Cape (Gilded).blend",
+          "children": []
+        },
+        {
+          "label": "Fancy Cape (Grey)",
+          "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Grey)/Fancy Cape (Grey).png",
+          "blend": "Items/Shoulder/Fancy Cape/Fancy Cape (Grey)/Fancy Cape (Grey).blend",
+          "children": []
+        },
+        {
+          "label": "Fancy Cape (Holiday)",
+          "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Holiday)/Fancy Cape (Holiday).png",
+          "blend": "Items/Shoulder/Fancy Cape/Fancy Cape (Holiday)/Fancy Cape (Holiday).blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Wrist": [
@@ -1649,6 +1724,25 @@
       ]
     },
     {
+      "label": "Jester Gloves",
+      "preview": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Jester Gloves",
+          "preview": "Items/Wrist/Jester Gloves/Jester Gloves/Jester Gloves.png",
+          "blend": "Items/Wrist/Jester Gloves/Jester Gloves/Jester Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Jester Gloves (Mardi Gras)",
+          "preview": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras)/Jester Gloves (Mardi Gras).png",
+          "blend": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras)/Jester Gloves (Mardi Gras).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Midnight Gala Hand Jewelry",
       "preview": "Items/Wrist/Midnight Gala Hand Jewelry/midnightgalahandjewelry.png",
       "blend": "Items/Wrist/Midnight Gala Hand Jewelry/Midnightgalahandjewelry.blend",
@@ -1669,6 +1763,25 @@
           "label": "Retro Gamer Gloves",
           "preview": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves/Retro Gamer Gloves.png",
           "blend": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves/RetroGamerGloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Scientist Gloves",
+      "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Purple).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Scientist Gloves (Blue)",
+          "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Blue)/Scientist Gloves (Blue).png",
+          "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Blue)/Scientist Gloves (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Scientist Gloves (Purple)",
+          "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Purple)/Scientist Gloves (Purple).png",
+          "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Purple)/Scientist Gloves (Purple).blend",
           "children": []
         }
       ]
