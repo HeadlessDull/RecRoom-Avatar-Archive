@@ -187,6 +187,55 @@
       "preview": "Items/Eye/Scientist Goggles/Scientist Goggles.png",
       "blend": "Items/Eye/Scientist Goggles/Scientist Goggles.blend",
       "children": []
+    },
+    {
+      "label": "Shutter Shades",
+      "preview": "Items/Eye/Shutter Shades/Shutter Shades (Green).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Shutter Shades (Blue)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Blue)/Shutter Shades (Blue).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Blue)/Shutter Shades (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Shutter Shades (Green)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Green)/Shutter Shades (Green).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Green)/Shutter Shades (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Shutter Shades (Orange)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Orange)/Shutter Shades (Orange).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Orange)/Shutter Shades (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Shutter Shades (Pink)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Pink)/Shutter Shades (Pink).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Pink)/Shutter Shades (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Shutter Shades (Red)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Red)/Shutter Shades (Red).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Red)/Shutter Shades (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Shutter Shades (Yellow)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Yellow)/Shutter Shades (Yellow).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Yellow)/Shutter Shades (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Shutter Shades (Gold)",
+      "preview": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).png",
+      "blend": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).blend",
+      "children": []
     }
   ],
   "Face": [
