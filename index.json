@@ -344,6 +344,12 @@
       "children": []
     },
     {
+      "label": "Fauxhawk Hair",
+      "preview": "Items/Hair/Fauxhawk Hair/Fauxhawk Hair.png",
+      "blend": "Items/Hair/Fauxhawk Hair/Fauxhawk.blend",
+      "children": []
+    },
+    {
       "label": "Fonzie Hair",
       "preview": "Items/Hair/Fonzie Hair/Fonzie Hair.png",
       "blend": "Items/Hair/Fonzie Hair/Fonzie Hair.blend",
@@ -1211,6 +1217,43 @@
       ]
     },
     {
+      "label": "Chunky Scarf",
+      "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Beige).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Chunky Scarf (Beige)",
+          "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Beige)/Chunky Scarf (Beige).png",
+          "blend": "Items/Neck/Chunky Scarf/Chunky Scarf (Beige)/Chunky Scarf (Beige).blend",
+          "children": []
+        },
+        {
+          "label": "Chunky Scarf (Olive)",
+          "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Olive)/Chunky Scarf (Olive).png",
+          "blend": "Items/Neck/Chunky Scarf/Chunky Scarf (Olive)/Chunky Scarf (Olive).blend",
+          "children": []
+        },
+        {
+          "label": "Chunky Scarf (Purple)",
+          "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Purple)/Chunky Scarf (Purple).png",
+          "blend": "Items/Neck/Chunky Scarf/Chunky Scarf (Purple)/Chunky Scarf (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Chunky Scarf (Red)",
+          "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Red)/Chunky Scarf (Red).png",
+          "blend": "Items/Neck/Chunky Scarf/Chunky Scarf (Red)/Chunky Scarf (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Chunky Scarf (Yellow)",
+          "preview": "Items/Neck/Chunky Scarf/Chunky Scarf (Yellow)/Chunky Scarf (Yellow).png",
+          "blend": "Items/Neck/Chunky Scarf/Chunky Scarf (Yellow)/Chunky Scarf (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Layered Necklace",
       "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
       "blend": "Items/Neck/Layered Necklace/layerednecklace.blend",
@@ -1754,6 +1797,12 @@
       "label": "Midnight Gala Tuxedo Dress",
       "preview": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.png",
       "blend": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.blend",
+      "children": []
+    },
+    {
+      "label": "Mothman T-shirt",
+      "preview": "Items/Shirt/Mothman T-shirt/Mothmantee.png",
+      "blend": "Items/Shirt/Mothman T-shirt/Mothmantee.blend",
       "children": []
     },
     {
