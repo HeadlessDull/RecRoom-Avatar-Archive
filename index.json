@@ -731,6 +731,18 @@
       ]
     },
     {
+      "label": "Atlantian Crown",
+      "preview": "Items/Hat/Atlantian Crown/Atlantian Crown.png",
+      "blend": "Items/Hat/Atlantian Crown/Atlantian Crown.blend",
+      "children": []
+    },
+    {
+      "label": "Atlantian Warrior Helm",
+      "preview": "Items/Hat/Atlantian Warrior Helm/Atlantian Warrior Helm.png",
+      "blend": "Items/Hat/Atlantian Warrior Helm/Atlantian Warrior Helm.blend",
+      "children": []
+    },
+    {
       "label": "Aviator Hat",
       "preview": "Items/Hat/Aviator Hat/Aviator Hat (Tan).png",
       "blend": "",
@@ -1528,6 +1540,12 @@
       ]
     },
     {
+      "label": "Atlantian Warrior Armor",
+      "preview": "",
+      "blend": "Items/Shirt/Atlantian Warrior Armor/Atlantian Warrior Armor.blend",
+      "children": []
+    },
+    {
       "label": "Aviator Coat",
       "preview": "Items/Shirt/Aviator Coat/Aviator Coat (Tan).png",
       "blend": "",
@@ -2291,6 +2309,30 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Atlantian Bladed Wings",
+      "preview": "",
+      "blend": "Items/Shoulder/Atlantian Bladed Wings/Atlantian Bladed Wings.blend",
+      "children": []
+    },
+    {
+      "label": "Atlantian Cape",
+      "preview": "Items/Shoulder/Atlantian Cape/Atlantian Cape.png",
+      "blend": "Items/Shoulder/Atlantian Cape/Atlantian Cape.blend",
+      "children": []
+    },
+    {
+      "label": "Atlantian Trident",
+      "preview": "",
+      "blend": "Items/Shoulder/Atlantian Trident/Atlantian Bladed Wings.blend",
+      "children": []
+    },
+    {
+      "label": "Atlantian Warrior Pauldrons",
+      "preview": "Items/Shoulder/Atlantian Warrior Pauldrons/Atlantian Warrior Pauldrons.png",
+      "blend": "Items/Shoulder/Atlantian Warrior Pauldrons/Atlantian Warrior Pauldrons.blend",
+      "children": []
     },
     {
       "label": "BackSword",
