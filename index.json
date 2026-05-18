@@ -185,8 +185,21 @@
     {
       "label": "Scientist Goggles",
       "preview": "Items/Eye/Scientist Goggles/Scientist Goggles.png",
-      "blend": "Items/Eye/Scientist Goggles/Scientist Goggles.blend",
-      "children": []
+      "blend": "",
+      "children": [
+        {
+          "label": "Scientist Goggles",
+          "preview": "Items/Eye/Scientist Goggles/Scientist Goggles/Scientist Goggles.png",
+          "blend": "Items/Eye/Scientist Goggles/Scientist Goggles/Scientist Goggles.blend",
+          "children": []
+        },
+        {
+          "label": "Scientist Goggles (Research Lab)",
+          "preview": "",
+          "blend": "Items/Eye/Scientist Goggles/Scientist Goggles (Research Lab)/Scientist Goggles (Research Lab).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Shutter Shades",
@@ -410,9 +423,21 @@
       "children": []
     },
     {
+      "label": "Punky Hair",
+      "preview": "Items/Hair/Punky Hair/Punky Hair.png",
+      "blend": "Items/Hair/Punky Hair/Punky Hair.blend",
+      "children": []
+    },
+    {
       "label": "Receding Hair",
       "preview": "Items/Hair/Receding Hair/Receding Hair.png",
       "blend": "Items/Hair/Receding Hair/Receding Hair.blend",
+      "children": []
+    },
+    {
+      "label": "Scientist Hair",
+      "preview": "Items/Hair/Scientist Hair/Scientist Hair.png",
+      "blend": "Items/Hair/Scientist Hair/Scientist Hair.blend",
       "children": []
     },
     {
@@ -778,6 +803,79 @@
       "preview": "Items/Hat/Barista Visor/Barista Visor.png",
       "blend": "Items/Hat/Barista Visor/Barista Visor.blend",
       "children": []
+    },
+    {
+      "label": "Beanie",
+      "preview": "Items/Hat/Beanie/Beanie (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Beanie (Black)",
+          "preview": "Items/Hat/Beanie/Beanie (Black)/Beanie (Black).png",
+          "blend": "Items/Hat/Beanie/Beanie (Black)/Beanie (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Blue)",
+          "preview": "Items/Hat/Beanie/Beanie (Blue)/Beanie (Blue).png",
+          "blend": "Items/Hat/Beanie/Beanie (Blue)/Beanie (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Brown)",
+          "preview": "Items/Hat/Beanie/Beanie (Brown)/Beanie (Brown).png",
+          "blend": "Items/Hat/Beanie/Beanie (Brown)/Beanie (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Gray)",
+          "preview": "Items/Hat/Beanie/Beanie (Gray)/Beanie (Gray).png",
+          "blend": "Items/Hat/Beanie/Beanie (Gray)/Beanie (Gray).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Green)",
+          "preview": "Items/Hat/Beanie/Beanie (Green)/Beanie (Green).png",
+          "blend": "Items/Hat/Beanie/Beanie (Green)/Beanie (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Orange)",
+          "preview": "Items/Hat/Beanie/Beanie (Orange)/Beanie (Orange).png",
+          "blend": "Items/Hat/Beanie/Beanie (Orange)/Beanie (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Pink)",
+          "preview": "Items/Hat/Beanie/Beanie (Pink)/Beanie (Pink).png",
+          "blend": "Items/Hat/Beanie/Beanie (Pink)/Beanie (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Purple)",
+          "preview": "Items/Hat/Beanie/Beanie (Purple)/Beanie (Purple).png",
+          "blend": "Items/Hat/Beanie/Beanie (Purple)/Beanie (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Red)",
+          "preview": "Items/Hat/Beanie/Beanie (Red)/Beanie (Red).png",
+          "blend": "Items/Hat/Beanie/Beanie (Red)/Beanie (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (Tan)",
+          "preview": "Items/Hat/Beanie/Beanie (Tan)/Beanie (Tan).png",
+          "blend": "Items/Hat/Beanie/Beanie (Tan)/Beanie (Tan).blend",
+          "children": []
+        },
+        {
+          "label": "Beanie (White)",
+          "preview": "Items/Hat/Beanie/Beanie (White)/Beanie (White).png",
+          "blend": "Items/Hat/Beanie/Beanie (White)/Beanie (White).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Bee Antenna",
@@ -1706,6 +1804,49 @@
       "children": []
     },
     {
+      "label": "Creator Rewards Shirt",
+      "preview": "Items/Shirt/Creator Rewards Shirt/Creator Rewards Shirt.png",
+      "blend": "Items/Shirt/Creator Rewards Shirt/Creator Rewards Shirt.blend",
+      "children": []
+    },
+    {
+      "label": "Flannel",
+      "preview": "Items/Shirt/Flannel/Flannel (Green).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Flannel (Black)",
+          "preview": "Items/Shirt/Flannel/Flannel (Black)/Flannel (Black).png",
+          "blend": "Items/Shirt/Flannel/Flannel (Black)/Flannel (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Flannel (Blue)",
+          "preview": "Items/Shirt/Flannel/Flannel (Blue)/Flannel (Blue).png",
+          "blend": "Items/Shirt/Flannel/Flannel (Blue)/Flannel (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Flannel (Green)",
+          "preview": "Items/Shirt/Flannel/Flannel (Green)/Flannel (Green).png",
+          "blend": "Items/Shirt/Flannel/Flannel (Green)/Flannel (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Flannel (Orange)",
+          "preview": "Items/Shirt/Flannel/Flannel (Orange)/Flannel (Orange).png",
+          "blend": "Items/Shirt/Flannel/Flannel (Orange)/Flannel (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Flannel (Red)",
+          "preview": "Items/Shirt/Flannel/Flannel (Red)/Flannel (Red).png",
+          "blend": "Items/Shirt/Flannel/Flannel (Red)/Flannel (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Formal Vest",
       "preview": "Items/Shirt/Formal Vest/Formal Vest (Red).png",
       "blend": "",
@@ -1984,6 +2125,31 @@
           "label": "Rec Room Shirt (Crew Neck, White)",
           "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).png",
           "blend": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Scientist Coat",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Scientist Coat (Blue)",
+          "preview": "Items/Shirt/Scientist Coat/Scientist Coat (Blue)/Scientist Coat (Blue).png",
+          "blend": "Items/Shirt/Scientist Coat/Scientist Coat (Blue)/Scientist Coat (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Scientist Coat (Research Lab)",
+          "preview": "",
+          "blend": "Items/Shirt/Scientist Coat/Scientist Coat (Research Lab)/Scientist Coat (Research Lab).blend",
+          "children": []
+        },
+        {
+          "label": "Scientist Coat (White)",
+          "preview": "Items/Shirt/Scientist Coat/Scientist Coat (White)/Scientist Coat (White).png",
+          "blend": "Items/Shirt/Scientist Coat/Scientist Coat (White)/Scientist Coat (White).blend",
           "children": []
         }
       ]
@@ -2735,6 +2901,12 @@
           "label": "Scientist Gloves (Purple)",
           "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Purple)/Scientist Gloves (Purple).png",
           "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Purple)/Scientist Gloves (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Scientist Gloves (Research Lab)",
+          "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).png",
+          "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).blend",
           "children": []
         }
       ]
