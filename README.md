@@ -102,11 +102,13 @@ Can't find the item you're looking for in the addon? Browse the full raw file li
 
 # Community
 
-Have questions, want to help the project, or just want to follow the project's progress? Join the Discord!
-
 <div align="center">
 
+Have questions, want to help the project, or just want to follow the project's progress? Join the Discord!
+
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
+
+You can even request new items to be added here
 
 </div>
 
