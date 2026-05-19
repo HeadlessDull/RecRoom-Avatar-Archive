@@ -1039,6 +1039,43 @@
       "children": []
     },
     {
+      "label": "Top Hat",
+      "preview": "Items/Hat/Top Hat/Top Hat (Black, Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Top Hat (Black, Red)",
+          "preview": "Items/Hat/Top Hat/Top Hat (Black, Red)/Top Hat (Black, Red).png",
+          "blend": "Items/Hat/Top Hat/Top Hat (Black, Red)/Top Hat (Black Red).blend",
+          "children": []
+        },
+        {
+          "label": "Top Hat (Green)",
+          "preview": "Items/Hat/Top Hat/Top Hat (Green)/Top Hat (Green).png",
+          "blend": "Items/Hat/Top Hat/Top Hat (Green)/Top Hat (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Top Hat (White)",
+          "preview": "Items/Hat/Top Hat/Top Hat (White)/Top Hat (White).png",
+          "blend": "Items/Hat/Top Hat/Top Hat (White)/Top Hat (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Top Hat (Galaxy)",
+      "preview": "Items/Hat/Top Hat (Galaxy)/Top Hat (Galaxy).png",
+      "blend": "Items/Hat/Top Hat (Galaxy)/Top Hat (Galaxy).blend",
+      "children": []
+    },
+    {
+      "label": "Top Hat (Patchwork)",
+      "preview": "Items/Hat/Top Hat (Patchwork)/Top Hat (Patchwork).png",
+      "blend": "Items/Hat/Top Hat (Patchwork)/Top Hat (Patchwork).blend",
+      "children": []
+    },
+    {
       "label": "Viking Helmet",
       "preview": "Items/Hat/Viking Helmet/Viking Helmet.png",
       "blend": "Items/Hat/Viking Helmet/Viking Helemet.blend",
@@ -2589,6 +2626,55 @@
           "label": "Fancy Cape (Holiday)",
           "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Holiday)/Fancy Cape (Holiday).png",
           "blend": "Items/Shoulder/Fancy Cape/Fancy Cape (Holiday)/Fancy Cape (Holiday).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Royal Cape",
+      "preview": "Items/Shoulder/Royal Cape/Royal Cape (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Royal Cape (Black)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Black)/Royal Cape (Black).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Black)/Royal Cape (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Blue)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Blue)/Royal Cape (Blue).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Blue)/Royal Cape (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Creators Contest 2)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Creators Contest 2)/Royal Cape (Creators Contest 2).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Creators Contest 2)/Royal Cape (CreatorsContest2).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Green)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Green)/Royal Cape (Green).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Green)/Royal Cape (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Pink)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Pink)/Royal Cape (Pink).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Pink)/Royal Cape (Pink).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Purple)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Purple)/Royal Cape (Purple).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Purple)/Royal Cape (Purple).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Red)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Red)/Royal Cape (Red).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Red)/Royal Cape (Red).blend",
           "children": []
         }
       ]
