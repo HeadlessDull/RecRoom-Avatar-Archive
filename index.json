@@ -453,6 +453,12 @@
       "children": []
     },
     {
+      "label": "Spiky Hair",
+      "preview": "Items/Hair/Spiky Hair/Spiky Hair.png",
+      "blend": "Items/Hair/Spiky Hair/Spiky Hair.blend",
+      "children": []
+    },
+    {
       "label": "Top Bun Hair",
       "preview": "Items/Hair/Top Bun Hair/Top Bun Hair.png",
       "blend": "Items/Hair/Top Bun Hair/Top Bun Hair.blend",
@@ -1838,6 +1844,60 @@
       "label": "Carnival Clown Suit",
       "preview": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.png",
       "blend": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2016",
+      "preview": "Items/Shirt/Class of 2016/Class of 2016 Shirt.png",
+      "blend": "Items/Shirt/Class of 2016/Class of 2016.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2017",
+      "preview": "Items/Shirt/Class of 2017/Class of 2017 Shirt.png",
+      "blend": "Items/Shirt/Class of 2017/Class of 2017.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2018",
+      "preview": "Items/Shirt/Class of 2018/Class of 2018 Shirt.png",
+      "blend": "Items/Shirt/Class of 2018/Class of 2018.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2019",
+      "preview": "Items/Shirt/Class of 2019/Class of 2019 Shirt.png",
+      "blend": "Items/Shirt/Class of 2019/Class of 2019.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2020",
+      "preview": "Items/Shirt/Class of 2020/Class of 2020 Shirt.png",
+      "blend": "Items/Shirt/Class of 2020/Class of 2020.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2021",
+      "preview": "Items/Shirt/Class of 2021/Class of 2021 Shirt.png",
+      "blend": "Items/Shirt/Class of 2021/Class of 2021.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2022",
+      "preview": "Items/Shirt/Class of 2022/Class of 2022 Shirt.png",
+      "blend": "Items/Shirt/Class of 2022/Class of 2022.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2023",
+      "preview": "",
+      "blend": "Items/Shirt/Class of 2023/Class of 2023.blend",
+      "children": []
+    },
+    {
+      "label": "Class of 2024",
+      "preview": "Items/Shirt/Class of 2024/Class of 2024.png",
+      "blend": "Items/Shirt/Class of 2024/Class of 2024.blend",
       "children": []
     },
     {
