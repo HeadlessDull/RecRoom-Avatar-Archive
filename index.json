@@ -277,6 +277,12 @@
       "children": []
     },
     {
+      "label": "Curly Mustache",
+      "preview": "Items/Face/Curly Mustache/Curly Mustache.png",
+      "blend": "Items/Face/Curly Mustache/Curly Mustache.blend",
+      "children": []
+    },
+    {
       "label": "Lumberjack Beard",
       "preview": "Items/Face/Lumberjack Beard/Lumberjack Beard.png",
       "blend": "Items/Face/Lumberjack Beard/Lumberjack Beard.blend",
@@ -360,6 +366,12 @@
       "label": "Fauxhawk Hair",
       "preview": "Items/Hair/Fauxhawk Hair/Fauxhawk Hair.png",
       "blend": "Items/Hair/Fauxhawk Hair/Fauxhawk.blend",
+      "children": []
+    },
+    {
+      "label": "Feathered",
+      "preview": "Items/Hair/Feathered/Feathered Hair.png",
+      "blend": "Items/Hair/Feathered/Feathered.blend",
       "children": []
     },
     {
