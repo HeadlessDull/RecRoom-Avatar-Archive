@@ -249,6 +249,61 @@
       "preview": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).png",
       "blend": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).blend",
       "children": []
+    },
+    {
+      "label": "Space Visor",
+      "preview": "Items/Eye/Space Visor/Space Visor (Neutron).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Space Visor (Creators Contest 2)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Creators Contest 2)/Space Visor (Creators Contest 2).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Creators Contest 2)/Space Visor (CreatorsContest2).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Eclipse)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Eclipse)/Space Visor (Eclipse).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Eclipse)/Space Visor (Eclipse).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Nebula)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Nebula)/Space Visor (Nebula).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Nebula)/Space Visor (Nebula).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Neutron)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Neutron)/Space Visor (Neutron).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Neutron)/Space Visor (Neutron).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Nova)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Nova)/Space Visor (Nova).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Nova)/Space Visor (Nova).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Orion)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Orion)/Space Visor (Orion).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Orion)/Space Visor (Orion).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (Quasar)",
+          "preview": "Items/Eye/Space Visor/Space Visor (Quasar)/Space Visor (Quasar).png",
+          "blend": "Items/Eye/Space Visor/Space Visor (Quasar)/Space Visor (Quasar).blend",
+          "children": []
+        },
+        {
+          "label": "Space Visor (S.)_",
+          "preview": "Items/Eye/Space Visor/Space Visor (S.)_/Space Visor (S.)_.png",
+          "blend": "Items/Eye/Space Visor/Space Visor (S.)_/Space Visor (S).blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Face": [
@@ -2202,6 +2257,12 @@
       "children": []
     },
     {
+      "label": "Rec Room Hoodie (Juneteenth)",
+      "preview": "Items/Shirt/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).png",
+      "blend": "Items/Shirt/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).blend",
+      "children": []
+    },
+    {
       "label": "Rec Room Hoodie (Solid)",
       "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
       "blend": "",
@@ -2267,6 +2328,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)",
+      "preview": "Items/Shirt/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month).png",
+      "blend": "Items/Shirt/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie (ANAM).blend",
+      "children": []
     },
     {
       "label": "Rec Room Shirt",
