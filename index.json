@@ -60,6 +60,31 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "SciFi Alien Belt",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFi Alien Belt Gold",
+          "preview": "",
+          "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Gold/SciFi Alien Belt Gold.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Belt Green",
+          "preview": "",
+          "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Green/SciFi Alien Belt Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Belt Silver",
+          "preview": "",
+          "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Silver/SciFi Alien Belt Silver.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Ear": [
@@ -68,6 +93,31 @@
       "preview": "Items/Ear/Alien Head Earrings/Alien Head Earrings.png",
       "blend": "Items/Ear/Alien Head Earrings/Alien Head Earrings.blend",
       "children": []
+    },
+    {
+      "label": "SciFiAlien Ear",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFiAlien Ear Gold",
+          "preview": "",
+          "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Gold/SciFiAlien Ear Gold.blend",
+          "children": []
+        },
+        {
+          "label": "SciFiAlien Ear Green",
+          "preview": "",
+          "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Green/SciFiAlien Ear Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFiAlien Ear Silver",
+          "preview": "",
+          "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Silver/SciFiAlien Ear Silver.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Eye": [
@@ -1149,6 +1199,31 @@
       ]
     },
     {
+      "label": "SciFi Alien Hat",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFi Alien Hat Blue",
+          "preview": "",
+          "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Blue/SciFi Alien Hat Blue.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Hat Green",
+          "preview": "",
+          "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Green/SciFi Alien Hat Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Hat Yellow",
+          "preview": "",
+          "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Yellow/SciFi Alien Hat Yellow.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Tech Camper Hat",
       "preview": "Items/Hat/Tech Camper Hat/Tech Camper Hat.png",
       "blend": "Items/Hat/Tech Camper Hat/TechCamperHat.blend",
@@ -1211,6 +1286,19 @@
     }
   ],
   "Legs": [
+    {
+      "label": "Anime Warrior Pants",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Warrior Pants (Red)",
+          "preview": "",
+          "blend": "Items/Legs/Anime Warrior Pants/Anime Warrior Pants (Red)/Anime Warrior Pants (Red).blend",
+          "children": []
+        }
+      ]
+    },
     {
       "label": "Barista Pants",
       "preview": "Items/Legs/Barista Pants/Barista Pants.png",
@@ -1352,6 +1440,31 @@
       "preview": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.png",
       "blend": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.blend",
       "children": []
+    },
+    {
+      "label": "SciFi Alien Leg",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFi Alien Leg Blue",
+          "preview": "",
+          "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Blue/SciFi Alien Leg Blue.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Leg Green",
+          "preview": "",
+          "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Green/SciFi Alien Leg Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Leg Yellow",
+          "preview": "",
+          "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Yellow/SciFi Alien Leg Yellow.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Tech Camper Cargo Shorts",
@@ -1668,6 +1781,19 @@
           "label": "Anime Skirt (Teal)",
           "preview": "Items/Shirt/Anime Skirt/Anime Skirt (Teal)/Anime Skirt (Teal).png",
           "blend": "Items/Shirt/Anime Skirt/Anime Skirt (Teal)/Anime Shirt (teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Anime Warrior Shirt",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Warrior Shirt (Red)",
+          "preview": "",
+          "blend": "Items/Shirt/Anime Warrior Shirt/Anime Warrior Shirt (Red)/Anime Warrior Shirt (Red).blend",
           "children": []
         }
       ]
@@ -2349,6 +2475,25 @@
       ]
     },
     {
+      "label": "Robo Logo Shirt",
+      "preview": "Items/Shirt/Robo Logo Shirt/Robo Logo Shirt (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Robo Logo Shirt (Blue)",
+          "preview": "Items/Shirt/Robo Logo Shirt/Robo Logo Shirt (Blue)/Robo Logo Shirt (Blue).png",
+          "blend": "Items/Shirt/Robo Logo Shirt/Robo Logo Shirt (Blue)/Robo Logo Shirt (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Robo Logo Shirt (Pink)",
+          "preview": "Items/Shirt/Robo Logo Shirt/Robo Logo Shirt (Pink)/Robo Logo Shirt (Pink).png",
+          "blend": "Items/Shirt/Robo Logo Shirt/Robo Logo Shirt (Pink)/Robo Logo Shirt (Pink).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Runner Harness",
       "preview": "Items/Shirt/Runner Harness/Runner Harness (Black).png",
       "blend": "",
@@ -2387,6 +2532,31 @@
           "label": "Runner Harness (Yellow)",
           "preview": "Items/Shirt/Runner Harness/Runner Harness (Yellow)/Runner Harness (Yellow).png",
           "blend": "Items/Shirt/Runner Harness/Runner Harness (Yellow)/Runner Harness (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "SciFi Alien Shirt",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFi Alien Shirt Blue",
+          "preview": "",
+          "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Blue/SciFi Alien Shirt Blue.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Shirt Green",
+          "preview": "",
+          "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Green/SciFi Alien Shirt Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Shirt Yellow",
+          "preview": "",
+          "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Yellow/SciFi Alien Shirt Yellow.blend",
           "children": []
         }
       ]
@@ -2529,6 +2699,19 @@
   ],
   "Shoes": [
     {
+      "label": "Anime Warrior Shoes",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Warrior Shoes (Red)",
+          "preview": "",
+          "blend": "Items/Shoes/Anime Warrior Shoes/Anime Warrior Shoes (Red)/Anime Warrior Shoes Red.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Basic Boots",
       "preview": "Items/Shoes/Basic Boots/Boots [Full Body].png",
       "blend": "",
@@ -2649,6 +2832,31 @@
       "preview": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.png",
       "blend": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.blend",
       "children": []
+    },
+    {
+      "label": "SciFi Alien Shoe",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "SciFi Alien Shoe Green",
+          "preview": "",
+          "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Green/SciFi Alien Shoe Green.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Shoe Purple",
+          "preview": "",
+          "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Purple/SciFi Alien Shoe Purple.blend",
+          "children": []
+        },
+        {
+          "label": "SciFi Alien Shoe Red",
+          "preview": "",
+          "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Red/SciFi Alien Shoe Red.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Shoulder": [
@@ -3001,6 +3209,19 @@
           "label": "Anime Glove (Teal)",
           "preview": "Items/Wrist/Anime Glove/Anime Glove (Teal)/Anime Glove (Teal).png",
           "blend": "Items/Wrist/Anime Glove/Anime Glove (Teal)/Anime Glove (Teal).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Anime Warrior Gloves",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Anime Warrior Gloves (Red)",
+          "preview": "",
+          "blend": "Items/Wrist/Anime Warrior Gloves/Anime Warrior Gloves (Red)/Anime Warrior Gloves (Red).blend",
           "children": []
         }
       ]
