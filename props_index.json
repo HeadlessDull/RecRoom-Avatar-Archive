@@ -1,0 +1,10 @@
+{
+  "Props": [
+    {
+      "label": "BasketBall",
+      "preview": "Props/BasketBall/Basketball.png",
+      "blend": "Props/BasketBall/BasketBall.blend",
+      "children": []
+    }
+  ]
+}
