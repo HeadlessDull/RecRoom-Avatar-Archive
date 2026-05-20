@@ -1052,7 +1052,7 @@
     },
     {
       "label": "Runner Helmet",
-      "preview": "",
+      "preview": "Items/Hat/Runner Helmet/Runner Helmet (Green).png",
       "blend": "",
       "children": [
         {
@@ -2283,7 +2283,7 @@
     },
     {
       "label": "Runner Harness",
-      "preview": "",
+      "preview": "Items/Shirt/Runner Harness/Runner Harness (Black).png",
       "blend": "",
       "children": [
         {
@@ -3169,7 +3169,7 @@
     },
     {
       "label": "Runner Wrist Guard",
-      "preview": "",
+      "preview": "Items/Wrist/Runner Wrist Guard/Runner Wrist Guard (Blue).png",
       "blend": "",
       "children": [
         {
