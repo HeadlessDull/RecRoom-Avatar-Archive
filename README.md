@@ -17,7 +17,7 @@ A Blender addon made to help with recreating your Rec Room Avatar!
 
 # Current Blender Tools
 
-We've made an addon to easily recreate your Rec Room Avatar with just a few clicks
+We've made an addon to easily recreate your Rec Room Avatar with just a few clicks, now with prop support!
 
 > 📦 Find it in [Releases](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/releases)
 
@@ -78,9 +78,9 @@ This will also convert textures to be Unity-compatible without special shaders (
 **Known Limitations:**
 > ⚠️ The face will not be included in the export
 >
-> ⚠️ Body shape edits do not get exported (known bug)
->
 > ⚠️ Both body types must be enabled at the same time during export
+>
+> ⚠️ Props get exported without textures
 >
 > ℹ️ Bean Body exports with the Full Body mesh to meet Unity's rig requirements, you can delete it afterward
 
@@ -88,7 +88,7 @@ This will also convert textures to be Unity-compatible without special shaders (
 
 # The Archive itself
 
-A large collection of images, textures, and FBX files covering most avatar items used in-game.
+A large collection of images, textures, and FBX files covering most avatar items and Props used in-game.
 
 > ⚠️ Does not include UGC community items or known collab items
 >
