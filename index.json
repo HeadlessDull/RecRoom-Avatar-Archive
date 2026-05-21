@@ -1224,6 +1224,25 @@
       ]
     },
     {
+      "label": "Spring Bloom Antlers",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Spring Bloom Antlers",
+          "preview": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers/Spring Bloom Antlers.png",
+          "blend": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers/Spring Bloom Antlers.blend",
+          "children": []
+        },
+        {
+          "label": "Spring Bloom Antlers (Sunset)",
+          "preview": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers (Sunset)/Spring Bloom Antlers (Sunset).png",
+          "blend": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers (Sunset)/Spring Bloom Antlers (Sunset).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Tech Camper Hat",
       "preview": "Items/Hat/Tech Camper Hat/Tech Camper Hat.png",
       "blend": "Items/Hat/Tech Camper Hat/TechCamperHat.blend",
@@ -2299,9 +2318,40 @@
     },
     {
       "label": "Overalls Skirt",
-      "preview": "Items/Shirt/Overalls Skirt/OverallsSkirt_Shirt.png",
-      "blend": "Items/Shirt/Overalls Skirt/OverallsSkirt_Shirt.blend",
-      "children": []
+      "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Overalls Skirt (Black)",
+          "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Black)/Overalls Skirt (Black).png",
+          "blend": "Items/Shirt/Overalls Skirt/Overalls Skirt (Black)/Overalls Skirt (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Overalls Skirt (Brown)",
+          "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Brown)/Overalls Skirt (Brown).png",
+          "blend": "Items/Shirt/Overalls Skirt/Overalls Skirt (Brown)/Overalls Skirt (Brown).blend",
+          "children": []
+        },
+        {
+          "label": "Overalls Skirt (Green)",
+          "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Green)/Green Overalls Skirt.png",
+          "blend": "Items/Shirt/Overalls Skirt/Overalls Skirt (Green)/Overalls Skirt (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Overalls Skirt (Red)",
+          "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Red)/Overalls Skirt (Red).png",
+          "blend": "Items/Shirt/Overalls Skirt/Overalls Skirt (Red)/Overalls Skirt (Red).blend",
+          "children": []
+        },
+        {
+          "label": "Overalls Skirt (Yellow)",
+          "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Yellow)/Overalls Skirt (Yellow).png",
+          "blend": "Items/Shirt/Overalls Skirt/Overalls Skirt (Yellow)/Overalls Skirt (Yellow).blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Punk Jacket",
