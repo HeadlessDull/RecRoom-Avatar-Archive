@@ -128,7 +128,14 @@ Each User has a link and/or discord profile for you to acess
       <strong><a href="https://github.com/AmongUs50">Anna</a></strong>: Co-Manager | Asset Exporting/Setup | Blender Shaders Help<br/>
       <sub>Discord: thefinalcore</sub>
     </td>
-  </tr>
+    <tr>
+    <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/bcc183dc-23e5-4eb9-8fc1-52f2abfd93d5" />
+  </td>
+      <td valign="middle">
+        <strong><a href="https://www.instagram.com/creativejamieyt/">Jamie</a></strong>: Asset Exporting/Setup<br/>
+        <sub>Discord: creativejamie</sub>
+      </td>
+    </tr>
     <tr>
     <td><img width="100" height="100" alt="e1543bcb85a22937370a4c898ccda958" src="https://github.com/user-attachments/assets/82c8a871-d6a1-486d-95d5-c78690bbbd34" />
 </td>
