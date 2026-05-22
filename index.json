@@ -7,6 +7,12 @@
       "children": []
     },
     {
+      "label": "Barista Apron",
+      "preview": "Items/Belt/Barista Apron/Barista Apron.png",
+      "blend": "Items/Belt/Barista Apron/Barista Apron.blend",
+      "children": []
+    },
+    {
       "label": "Cardigan Belt",
       "preview": "Items/Belt/Cardigan Belt/Black Cardigan Belt.png",
       "blend": "",
@@ -3549,12 +3555,6 @@
       ]
     },
     {
-      "label": "Barista Apron",
-      "preview": "Items/Wrist/Barista Apron/Barista Apron.png",
-      "blend": "Items/Wrist/Barista Apron/Barista Apron.blend",
-      "children": []
-    },
-    {
       "label": "Beekeeper Gloves",
       "preview": "Items/Wrist/Beekeeper Gloves/Beekeeper Gloves (White).png",
       "blend": "",
@@ -3705,7 +3705,7 @@
     },
     {
       "label": "Trucker Cuff",
-      "preview": "",
+      "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (Blue).png",
       "blend": "",
       "children": [
         {
