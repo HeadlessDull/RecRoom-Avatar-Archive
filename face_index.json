@@ -3,34 +3,306 @@
     {
       "label": "Inner",
       "preview": "Face/Eyes/Inner/Eye_Default.png",
-      "blend": "Face/Eyes/Inner/InnerEye.blend",
-      "children": []
+      "blend": "",
+      "children": [
+        {
+          "label": "Default",
+          "preview": "Face/Eyes/Inner/Default/Eye_Default.png",
+          "blend": "Face/Eyes/Inner/Default/InnerEye.blend",
+          "children": []
+        },
+        {
+          "label": "Happy",
+          "preview": "Face/Eyes/Inner/Happy/Eye_Happy.png",
+          "blend": "Face/Eyes/Inner/Happy/InnerEye.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Eyebrows": [
+    {
+      "label": "Dainty_Brow",
+      "preview": "Face/Eyebrows/Dainty_Brow/Dainty_Brow.png",
+      "blend": "Face/Eyebrows/Dainty_Brow/Dainty.blend",
+      "children": []
+    },
     {
       "label": "Eyebrow Default",
       "preview": "Face/Eyebrows/Eyebrow Default/EyeBrow_Default.png",
       "blend": "Face/Eyebrows/Eyebrow Default/Eyebrow Default.blend",
       "children": []
+    },
+    {
+      "label": "Thin_Arched_Brows",
+      "preview": "Face/Eyebrows/Thin_Arched_Brows/Thin_Arched_Brows.png",
+      "blend": "Face/Eyebrows/Thin_Arched_Brows/ThinArch.blend",
+      "children": []
     }
   ],
   "Mouths": [
     {
-      "label": "Lion",
-      "preview": "",
+      "label": "Bubbly",
+      "preview": "Face/Mouths/Bubbly/Mouth_Smile.png",
       "blend": "",
       "children": [
         {
-          "label": "Lion Smile",
-          "preview": "Face/Mouths/Lion/Lion Smile/Mouth_Smile.png",
-          "blend": "Face/Mouths/Lion/Lion Smile/Lion Mouth.blend",
+          "label": "Mouth_Blank",
+          "preview": "Face/Mouths/Bubbly/Mouth_Blank/Mouth_Blank.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Blank/Bubbly.blend",
           "children": []
         },
         {
-          "label": "Lion Smile Big",
-          "preview": "Face/Mouths/Lion/Lion Smile Big/Mouth_Smile_Big.png",
-          "blend": "Face/Mouths/Lion/Lion Smile Big/Lion Smile Big.blend",
+          "label": "Mouth_Confused",
+          "preview": "Face/Mouths/Bubbly/Mouth_Confused/Mouth_Confused.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Confused/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Disgust",
+          "preview": "Face/Mouths/Bubbly/Mouth_Disgust/Mouth_Disgust.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Disgust/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Disgust_Small",
+          "preview": "Face/Mouths/Bubbly/Mouth_Disgust_Small/Mouth_Disgust_Small.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Disgust_Small/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Emote_Goofy",
+          "preview": "Face/Mouths/Bubbly/Mouth_Emote_Goofy/Mouth_Emote_Goofy.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Emote_Goofy/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown",
+          "preview": "Face/Mouths/Bubbly/Mouth_Frown/Mouth_Frown.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Frown/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Big",
+          "preview": "Face/Mouths/Bubbly/Mouth_Frown_Big/Mouth_Frown_Big.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Frown_Big/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Left",
+          "preview": "Face/Mouths/Bubbly/Mouth_Frown_Left/Mouth_Frown_Left.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Frown_Left/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Sides",
+          "preview": "Face/Mouths/Bubbly/Mouth_Frown_Sides/Mouth_Frown_Sides.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Frown_Sides/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Kiss",
+          "preview": "Face/Mouths/Bubbly/Mouth_Kiss/Mouth_Kiss.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Kiss/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile/Mouth_Smile.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Big",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile_Big/Mouth_Smile_Big.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile_Big/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Open",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile_Open/Mouth_Smile_Open.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile_Open/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Open_Big",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile_Open_Big/Mouth_Smile_Open_Big.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile_Open_Big/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Side",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile_Side/Mouth_Smile_Side.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile_Side/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Small",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smile_Small/Mouth_Smile_Small.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smile_Small/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smirk",
+          "preview": "Face/Mouths/Bubbly/Mouth_Smirk/Mouth_Smirk.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Smirk/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Open",
+          "preview": "Face/Mouths/Bubbly/Mouth_Talking_Open/Mouth_Talking_Open.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Talking_Open/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Tall",
+          "preview": "Face/Mouths/Bubbly/Mouth_Talking_Tall/Mouth_Talking_Tall.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Talking_Tall/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Wide",
+          "preview": "Face/Mouths/Bubbly/Mouth_Talking_Wide/Mouth_Talking_Wide.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Talking_Wide/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Tongue",
+          "preview": "Face/Mouths/Bubbly/Mouth_Tongue/Mouth_Tongue.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Tongue/Bubbly.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Wide",
+          "preview": "Face/Mouths/Bubbly/Mouth_Wide/Mouth_Wide.png",
+          "blend": "Face/Mouths/Bubbly/Mouth_Wide/Bubbly.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Lion",
+      "preview": "Face/Mouths/Lion/Mouth_Smile.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Mouth_Blank",
+          "preview": "Face/Mouths/Lion/Mouth_Blank/Mouth_Blank.png",
+          "blend": "Face/Mouths/Lion/Mouth_Blank/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Confused",
+          "preview": "Face/Mouths/Lion/Mouth_Confused/Mouth_Confused.png",
+          "blend": "Face/Mouths/Lion/Mouth_Confused/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Disgust",
+          "preview": "Face/Mouths/Lion/Mouth_Disgust/Mouth_Disgust.png",
+          "blend": "Face/Mouths/Lion/Mouth_Disgust/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Disgust_Small",
+          "preview": "Face/Mouths/Lion/Mouth_Disgust_Small/Mouth_Disgust_Small.png",
+          "blend": "Face/Mouths/Lion/Mouth_Disgust_Small/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown",
+          "preview": "Face/Mouths/Lion/Mouth_Frown/Mouth_Frown.png",
+          "blend": "Face/Mouths/Lion/Mouth_Frown/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Big",
+          "preview": "Face/Mouths/Lion/Mouth_Frown_Big/Mouth_Frown_Big.png",
+          "blend": "Face/Mouths/Lion/Mouth_Frown_Big/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Left",
+          "preview": "Face/Mouths/Lion/Mouth_Frown_Left/Mouth_Frown_Left.png",
+          "blend": "Face/Mouths/Lion/Mouth_Frown_Left/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Frown_Sides",
+          "preview": "Face/Mouths/Lion/Mouth_Frown_Sides/Mouth_Frown_Sides.png",
+          "blend": "Face/Mouths/Lion/Mouth_Frown_Sides/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Kiss",
+          "preview": "Face/Mouths/Lion/Mouth_Kiss/Mouth_Kiss.png",
+          "blend": "Face/Mouths/Lion/Mouth_Kiss/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile",
+          "preview": "Face/Mouths/Lion/Mouth_Smile/Mouth_Smile.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smile/Lion Mouth.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Big",
+          "preview": "Face/Mouths/Lion/Mouth_Smile_Big/Mouth_Smile_Big.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smile_Big/Lion Smile Big.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Open",
+          "preview": "Face/Mouths/Lion/Mouth_Smile_Open/Mouth_Smile_Open.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smile_Open/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Open_Big",
+          "preview": "Face/Mouths/Lion/Mouth_Smile_Open_Big/Mouth_Smile_Open_Big.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smile_Open_Big/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smile_Side",
+          "preview": "Face/Mouths/Lion/Mouth_Smile_Side/Mouth_Smile_Side.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smile_Side/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Smirk",
+          "preview": "Face/Mouths/Lion/Mouth_Smirk/Mouth_Smirk.png",
+          "blend": "Face/Mouths/Lion/Mouth_Smirk/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Open",
+          "preview": "Face/Mouths/Lion/Mouth_Talking_Open/Mouth_Talking_Open.png",
+          "blend": "Face/Mouths/Lion/Mouth_Talking_Open/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Tall",
+          "preview": "Face/Mouths/Lion/Mouth_Talking_Tall/Mouth_Talking_Tall.png",
+          "blend": "Face/Mouths/Lion/Mouth_Talking_Tall/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Talking_Wide",
+          "preview": "Face/Mouths/Lion/Mouth_Talking_Wide/Mouth_Talking_Wide.png",
+          "blend": "Face/Mouths/Lion/Mouth_Talking_Wide/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Tongue",
+          "preview": "Face/Mouths/Lion/Mouth_Tongue/Mouth_Tongue.png",
+          "blend": "Face/Mouths/Lion/Mouth_Tongue/Lion.blend",
+          "children": []
+        },
+        {
+          "label": "Mouth_Wide",
+          "preview": "Face/Mouths/Lion/Mouth_Wide/Mouth_Wide.png",
+          "blend": "Face/Mouths/Lion/Mouth_Wide/Lion.blend",
           "children": []
         }
       ]
