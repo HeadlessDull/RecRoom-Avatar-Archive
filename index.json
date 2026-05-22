@@ -1873,6 +1873,37 @@
       ]
     },
     {
+      "label": "Aristocrat Jacket",
+      "preview": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Aristocrat Jacket (Black)",
+          "preview": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Black)/Aristocrat Jacket (Black).png",
+          "blend": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Black)/Aristocrat shirt red3.blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Jacket (Green)",
+          "preview": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Green)/Aristocrat Jacket (Green).png",
+          "blend": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Green)/Aristocrat shirt red2.blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Jacket (Midnight)",
+          "preview": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Midnight)/Aristocrat Jacket (Midnight).png",
+          "blend": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Midnight)/Aristocrat shirt red1.blend",
+          "children": []
+        },
+        {
+          "label": "Aristocrat Jacket (Red)",
+          "preview": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Red)/Aristocrat Jacket (Red).png",
+          "blend": "Items/Shirt/Aristocrat Jacket/Aristocrat Jacket (Red)/Aristocrat shirt red.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Art Festival 2022 Shirt",
       "preview": "Items/Shirt/Art Festival 2022 Shirt/Art Festival 2022 Shirt (Orange).png",
       "blend": "",
