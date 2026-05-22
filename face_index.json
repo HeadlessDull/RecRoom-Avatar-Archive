@@ -18,9 +18,22 @@
   "Mouths": [
     {
       "label": "Lion",
-      "preview": "Face/Mouths/Lion/Mouth_Smile.png",
-      "blend": "Face/Mouths/Lion/Lion Mouth.blend",
-      "children": []
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Lion Smile",
+          "preview": "Face/Mouths/Lion/Lion Smile/Mouth_Smile.png",
+          "blend": "Face/Mouths/Lion/Lion Smile/Lion Mouth.blend",
+          "children": []
+        },
+        {
+          "label": "Lion Smile Big",
+          "preview": "Face/Mouths/Lion/Lion Smile Big/Mouth_Smile_Big.png",
+          "blend": "Face/Mouths/Lion/Lion Smile Big/Lion Smile Big.blend",
+          "children": []
+        }
+      ]
     }
   ]
 }
