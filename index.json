@@ -202,6 +202,43 @@
       ]
     },
     {
+      "label": "Plastic Sunglasses",
+      "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Plastic Sunglasses (Black)",
+          "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Black)/Plastic Sunglasses (Black).png",
+          "blend": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Black)/PlasticSunglasses.blend",
+          "children": []
+        },
+        {
+          "label": "Plastic Sunglasses (Blue)",
+          "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Blue)/Plastic Sunglasses (Blue).png",
+          "blend": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Blue)/PlasticSunglasses1.blend",
+          "children": []
+        },
+        {
+          "label": "Plastic Sunglasses (Green)",
+          "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Green)/Plastic Sunglasses (Green).png",
+          "blend": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Green)/PlasticSunglasses2.blend",
+          "children": []
+        },
+        {
+          "label": "Plastic Sunglasses (Red)",
+          "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Red)/Plastic Sunglasses (Red).png",
+          "blend": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (Red)/PlasticSunglasses3.blend",
+          "children": []
+        },
+        {
+          "label": "Plastic Sunglasses (White)",
+          "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (White)/Plastic Sunglasses (White).png",
+          "blend": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses (White)/PlasticSunglasses4.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Round Glasses",
       "preview": "Items/Eye/Round Glasses/Round Glasses (Black).png",
       "blend": "",
@@ -996,6 +1033,37 @@
           "label": "Beanie (White)",
           "preview": "Items/Hat/Beanie/Beanie (White)/Beanie (White).png",
           "blend": "Items/Hat/Beanie/Beanie (White)/Beanie (White).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Bear Hug Hat",
+      "preview": "Items/Hat/Bear Hug Hat/Bear Hug Hat.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bear Hug Hat (Brown)",
+          "preview": "Items/Hat/Bear Hug Hat/Bear Hug Hat (Brown)/Bear Hug Hat (Brown).png",
+          "blend": "Items/Hat/Bear Hug Hat/Bear Hug Hat (Brown)/BearHat1.blend",
+          "children": []
+        },
+        {
+          "label": "Bear Hug Hat (Holiday Panda)",
+          "preview": "Items/Hat/Bear Hug Hat/Bear Hug Hat (Holiday Panda)/Bear Hug Hat (Holiday Panda).png",
+          "blend": "Items/Hat/Bear Hug Hat/Bear Hug Hat (Holiday Panda)/BearHat2.blend",
+          "children": []
+        },
+        {
+          "label": "Bear Hug Hat (White)",
+          "preview": "Items/Hat/Bear Hug Hat/Bear Hug Hat (White)/Bear Hug Hat (White).png",
+          "blend": "Items/Hat/Bear Hug Hat/Bear Hug Hat (White)/BearHat.blend",
+          "children": []
+        },
+        {
+          "label": "Honey Bear Hug Hat",
+          "preview": "Items/Hat/Bear Hug Hat/Honey Bear Hug Hat/Honey Bear Hug Hat.png",
+          "blend": "Items/Hat/Bear Hug Hat/Honey Bear Hug Hat/BearHat3.blend",
           "children": []
         }
       ]
@@ -2348,6 +2416,37 @@
       "children": []
     },
     {
+      "label": "Nineties Outfit",
+      "preview": "Items/Shirt/Nineties Outfit/Nineties Outfit.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Nineties Outfit (Aiight)",
+          "preview": "Items/Shirt/Nineties Outfit/Nineties Outfit (Aiight)/Nineties Outfit (Aiight).png",
+          "blend": "Items/Shirt/Nineties Outfit/Nineties Outfit (Aiight)/Nineties1.blend",
+          "children": []
+        },
+        {
+          "label": "Nineties Outfit (Booyah)",
+          "preview": "Items/Shirt/Nineties Outfit/Nineties Outfit (Booyah)/Nineties Outfit (Booyah).png",
+          "blend": "Items/Shirt/Nineties Outfit/Nineties Outfit (Booyah)/Nineties2.blend",
+          "children": []
+        },
+        {
+          "label": "Nineties Outfit (Chill)",
+          "preview": "Items/Shirt/Nineties Outfit/Nineties Outfit (Chill)/Nineties Outfit (Chill).png",
+          "blend": "Items/Shirt/Nineties Outfit/Nineties Outfit (Chill)/Nineties3.blend",
+          "children": []
+        },
+        {
+          "label": "Nineties Outfit (Da Bomb)",
+          "preview": "Items/Shirt/Nineties Outfit/Nineties Outfit (Da Bomb)/Nineties Outfit (Da Bomb).png",
+          "blend": "Items/Shirt/Nineties Outfit/Nineties Outfit (Da Bomb)/Nineties.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Overalls Skirt",
       "preview": "Items/Shirt/Overalls Skirt/Overalls Skirt (Black).png",
       "blend": "",
@@ -3600,6 +3699,43 @@
           "label": "Scientist Gloves (Research Lab)",
           "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).png",
           "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Trucker Cuff",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Trucker Cuff (Black)",
+          "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (Black)/Trucker Cuff (Black).png",
+          "blend": "Items/Wrist/Trucker Cuff/Trucker Cuff (Black)/TruckerCuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Trucker Cuff (Blue)",
+          "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (Blue)/Trucker Cuff (Blue).png",
+          "blend": "Items/Wrist/Trucker Cuff/Trucker Cuff (Blue)/TruckerCuffs1.blend",
+          "children": []
+        },
+        {
+          "label": "Trucker Cuff (Green)",
+          "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (Green)/Trucker Cuff (Green).png",
+          "blend": "Items/Wrist/Trucker Cuff/Trucker Cuff (Green)/TruckerCuffs2.blend",
+          "children": []
+        },
+        {
+          "label": "Trucker Cuff (Tan)",
+          "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (Tan)/Trucker Cuff (Tan).png",
+          "blend": "Items/Wrist/Trucker Cuff/Trucker Cuff (Tan)/TruckerCuffs3.blend",
+          "children": []
+        },
+        {
+          "label": "Trucker Cuff (White)",
+          "preview": "Items/Wrist/Trucker Cuff/Trucker Cuff (White)/Trucker Cuff (White).png",
+          "blend": "Items/Wrist/Trucker Cuff/Trucker Cuff (White)/TruckerCuffs4.blend",
           "children": []
         }
       ]
