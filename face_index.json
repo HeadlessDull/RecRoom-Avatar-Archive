@@ -1,0 +1,26 @@
+{
+  "Eyes": [
+    {
+      "label": "Inner",
+      "preview": "Face/Eyes/Inner/Eye_Default.png",
+      "blend": "Face/Eyes/Inner/InnerEye.blend",
+      "children": []
+    }
+  ],
+  "Eyebrows": [
+    {
+      "label": "Eyebrow Default",
+      "preview": "Face/Eyebrows/Eyebrow Default/EyeBrow_Default.png",
+      "blend": "Face/Eyebrows/Eyebrow Default/Eyebrow Default.blend",
+      "children": []
+    }
+  ],
+  "Mouths": [
+    {
+      "label": "Lion",
+      "preview": "Face/Mouths/Lion/Mouth_Smile.png",
+      "blend": "Face/Mouths/Lion/Lion Mouth.blend",
+      "children": []
+    }
+  ]
+}
