@@ -17,7 +17,7 @@ A Blender addon made to help with recreating your Rec Room Avatar!
 
 # Current Blender Tools
 
-We've made an addon to easily recreate your Rec Room Avatar with just a few clicks, now with prop support!
+We've made an addon to easily recreate your Rec Room Avatar with just a few clicks, now with prop and face sprite support!
 
 > 📦 Find it in [Releases](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/releases)
 
