@@ -19,9 +19,57 @@
       "children": []
     },
     {
+      "label": "Cardboard Box",
+      "preview": "Props/Cardboard Box/Box.png",
+      "blend": "Props/Cardboard Box/Box.blend",
+      "children": []
+    },
+    {
       "label": "Coffee Pot",
       "preview": "Props/Coffee Pot/CoffeePot.png",
       "blend": "Props/Coffee Pot/CoffeePot.blend",
+      "children": []
+    },
+    {
+      "label": "Ham",
+      "preview": "Props/Ham/Ham.png",
+      "blend": "Props/Ham/Ham.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Beam Cannon",
+      "preview": "Props/Laser Beam Cannon/Lasercannon.png",
+      "blend": "Props/Laser Beam Cannon/BeamCannon.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Burst Rifle",
+      "preview": "Props/Laser Burst Rifle/BurstGun.png",
+      "blend": "Props/Laser Burst Rifle/Burst Rifle.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Launcher",
+      "preview": "Props/Laser Launcher/Laser.png",
+      "blend": "Props/Laser Launcher/LaserLauncher.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Pistol",
+      "preview": "Props/Laser Pistol/Pistol.png",
+      "blend": "Props/Laser Pistol/Laser Pistol.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Railgun",
+      "preview": "Props/Laser Railgun/Railgun.png",
+      "blend": "Props/Laser Railgun/Railgun.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Shotgun",
+      "preview": "Props/Laser Shotgun/Lasershotgun.png",
+      "blend": "Props/Laser Shotgun/Laser Shotgun.blend",
       "children": []
     },
     {
