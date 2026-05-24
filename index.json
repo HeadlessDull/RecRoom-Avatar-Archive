@@ -112,24 +112,24 @@
     },
     {
       "label": "SciFi Alien Belt",
-      "preview": "",
+      "preview": "Items/Belt/SciFi Alien Belt/scifialien belt.png",
       "blend": "",
       "children": [
         {
           "label": "SciFi Alien Belt Gold",
-          "preview": "",
+          "preview": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Gold/scifialien belt.png",
           "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Gold/SciFi Alien Belt Gold.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Belt Green",
-          "preview": "",
+          "preview": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Green/scifialien belt.png",
           "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Green/SciFi Alien Belt Green.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Belt Silver",
-          "preview": "",
+          "preview": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Silver/scifialien belt.png",
           "blend": "Items/Belt/SciFi Alien Belt/SciFi Alien Belt Silver/SciFi Alien Belt Silver.blend",
           "children": []
         }
@@ -145,24 +145,24 @@
     },
     {
       "label": "SciFiAlien Ear",
-      "preview": "",
+      "preview": "Items/Ear/SciFiAlien Ear/scifialien ear.png",
       "blend": "",
       "children": [
         {
           "label": "SciFiAlien Ear Gold",
-          "preview": "",
+          "preview": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Gold/scifialien ear.png",
           "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Gold/SciFiAlien Ear Gold.blend",
           "children": []
         },
         {
           "label": "SciFiAlien Ear Green",
-          "preview": "",
+          "preview": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Green/scifialien ear.png",
           "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Green/SciFiAlien Ear Green.blend",
           "children": []
         },
         {
           "label": "SciFiAlien Ear Silver",
-          "preview": "",
+          "preview": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Silver/scifialien ear.png",
           "blend": "Items/Ear/SciFiAlien Ear/SciFiAlien Ear Silver/SciFiAlien Ear Silver.blend",
           "children": []
         }
@@ -331,7 +331,7 @@
         },
         {
           "label": "Scientist Goggles (Research Lab)",
-          "preview": "",
+          "preview": "Items/Eye/Scientist Goggles/Scientist Goggles (Research Lab)/goggles.png",
           "blend": "Items/Eye/Scientist Goggles/Scientist Goggles (Research Lab)/Scientist Goggles (Research Lab).blend",
           "children": []
         }
@@ -616,7 +616,7 @@
     },
     {
       "label": "Helmet Hair",
-      "preview": "",
+      "preview": "Items/Hair/Helmet Hair/hair.png",
       "blend": "Items/Hair/Helmet Hair/Helmet Hair.blend",
       "children": []
     },
@@ -1204,6 +1204,12 @@
       "children": []
     },
     {
+      "label": "Cow Ears Headband",
+      "preview": "Items/Hat/Cow Ears Headband/Cow Ears Headband.png",
+      "blend": "Items/Hat/Cow Ears Headband/cow ears.blend",
+      "children": []
+    },
+    {
       "label": "Fae Horns",
       "preview": "Items/Hat/Fae Horns/Fae Horns (Fall).png",
       "blend": "",
@@ -1446,24 +1452,24 @@
     },
     {
       "label": "SciFi Alien Hat",
-      "preview": "",
+      "preview": "Items/Hat/SciFi Alien Hat/hair.png",
       "blend": "",
       "children": [
         {
           "label": "SciFi Alien Hat Blue",
-          "preview": "",
+          "preview": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Blue/hair.png",
           "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Blue/SciFi Alien Hat Blue.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Hat Green",
-          "preview": "",
+          "preview": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Green/hair.png",
           "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Green/SciFi Alien Hat Green.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Hat Yellow",
-          "preview": "",
+          "preview": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Yellow/hair.png",
           "blend": "Items/Hat/SciFi Alien Hat/SciFi Alien Hat Yellow/SciFi Alien Hat Yellow.blend",
           "children": []
         }
@@ -1471,7 +1477,7 @@
     },
     {
       "label": "Spring Bloom Antlers",
-      "preview": "",
+      "preview": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers.png",
       "blend": "",
       "children": [
         {
@@ -1532,6 +1538,31 @@
       "children": []
     },
     {
+      "label": "Unicorn Horn",
+      "preview": "Items/Hat/Unicorn Horn/Unicorn Horn (Harmony).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Unicorn Horn (Harmony)",
+          "preview": "Items/Hat/Unicorn Horn/Unicorn Horn (Harmony)/Unicorn Horn (Harmony).png",
+          "blend": "Items/Hat/Unicorn Horn/Unicorn Horn (Harmony)/unicorn.blend",
+          "children": []
+        },
+        {
+          "label": "Unicorn Horn (Joy)",
+          "preview": "Items/Hat/Unicorn Horn/Unicorn Horn (Joy)/Unicorn Horn (Joy).png",
+          "blend": "Items/Hat/Unicorn Horn/Unicorn Horn (Joy)/unicorn.blend",
+          "children": []
+        },
+        {
+          "label": "Unicorn Horn (Spirit)",
+          "preview": "Items/Hat/Unicorn Horn/Unicorn Horn (Spirit)/Unicorn Horn (Spirit).png",
+          "blend": "Items/Hat/Unicorn Horn/Unicorn Horn (Spirit)/unicorn.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Viking Helmet",
       "preview": "Items/Hat/Viking Helmet/Viking Helmet.png",
       "blend": "Items/Hat/Viking Helmet/Viking Helemet.blend",
@@ -1553,12 +1584,12 @@
   "Legs": [
     {
       "label": "Anime Warrior Pants",
-      "preview": "",
+      "preview": "Items/Legs/Anime Warrior Pants/pants.png",
       "blend": "",
       "children": [
         {
           "label": "Anime Warrior Pants (Red)",
-          "preview": "",
+          "preview": "Items/Legs/Anime Warrior Pants/Anime Warrior Pants (Red)/pants.png",
           "blend": "Items/Legs/Anime Warrior Pants/Anime Warrior Pants (Red)/Anime Warrior Pants (Red).blend",
           "children": []
         }
@@ -1708,24 +1739,24 @@
     },
     {
       "label": "SciFi Alien Leg",
-      "preview": "",
+      "preview": "Items/Legs/SciFi Alien Leg/pants.png",
       "blend": "",
       "children": [
         {
           "label": "SciFi Alien Leg Blue",
-          "preview": "",
+          "preview": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Blue/pants.png",
           "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Blue/SciFi Alien Leg Blue.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Leg Green",
-          "preview": "",
+          "preview": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Green/pants.png",
           "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Green/SciFi Alien Leg Green.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Leg Yellow",
-          "preview": "",
+          "preview": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Yellow/pants.png",
           "blend": "Items/Legs/SciFi Alien Leg/SciFi Alien Leg Yellow/SciFi Alien Leg Yellow.blend",
           "children": []
         }
@@ -2052,12 +2083,12 @@
     },
     {
       "label": "Anime Warrior Shirt",
-      "preview": "",
+      "preview": "Items/Shirt/Anime Warrior Shirt/shirt.png",
       "blend": "",
       "children": [
         {
           "label": "Anime Warrior Shirt (Red)",
-          "preview": "",
+          "preview": "Items/Shirt/Anime Warrior Shirt/Anime Warrior Shirt (Red)/shirt.png",
           "blend": "Items/Shirt/Anime Warrior Shirt/Anime Warrior Shirt (Red)/Anime Warrior Shirt (Red).blend",
           "children": []
         }
@@ -2214,7 +2245,7 @@
     },
     {
       "label": "Atlantian Warrior Armor",
-      "preview": "",
+      "preview": "Items/Shirt/Atlantian Warrior Armor/shirt.png",
       "blend": "Items/Shirt/Atlantian Warrior Armor/Atlantian Warrior Armor.blend",
       "children": []
     },
@@ -2262,7 +2293,7 @@
         },
         {
           "label": "Bards Vest (Sunset)",
-          "preview": "",
+          "preview": "Items/Shirt/Bards Vest/Bards Vest (Sunset)/shirt.png",
           "blend": "Items/Shirt/Bards Vest/Bards Vest (Sunset)/BardsVessunsett.blend",
           "children": []
         }
@@ -2373,6 +2404,12 @@
       "children": []
     },
     {
+      "label": "Bride of Frank Gown",
+      "preview": "Items/Shirt/Bride of Frank Gown/Bride of Frank Gown.png",
+      "blend": "Items/Shirt/Bride of Frank Gown/Brideoffrankgown.blend",
+      "children": []
+    },
+    {
       "label": "Carnival Clown Suit",
       "preview": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.png",
       "blend": "Items/Shirt/Carnival Clown Suit/Carnival Clown Suit.blend",
@@ -2422,7 +2459,7 @@
     },
     {
       "label": "Class of 2023",
-      "preview": "",
+      "preview": "Items/Shirt/Class of 2023/Shirt.png",
       "blend": "Items/Shirt/Class of 2023/Class of 2023.blend",
       "children": []
     },
@@ -2760,6 +2797,37 @@
       "children": []
     },
     {
+      "label": "Rec Con Hoodie",
+      "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Rec Con Hoodie (Black)",
+          "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Black)/Rec Con Hoodie (Black).png",
+          "blend": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Black)/Rec Con Hoodie (Black).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Con Hoodie (Blue)",
+          "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Blue)/hoodieblue.png",
+          "blend": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Blue)/Rec Con Hoodie (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Con Hoodie (Orange)",
+          "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Orange)/Rec Con Hoodie (2021).png",
+          "blend": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Orange)/Rec Con Hoodie (Orange).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Con Hoodie (Purple)",
+          "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Purple)/Rec Con Hoodie (2020).png",
+          "blend": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Purple)/Rec Con Hoodie (2020).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Rec Room Hoodie (Galaxy)",
       "preview": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).png",
       "blend": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).blend",
@@ -2927,24 +2995,24 @@
     },
     {
       "label": "SciFi Alien Shirt",
-      "preview": "",
+      "preview": "Items/Shirt/SciFi Alien Shirt/shirt.png",
       "blend": "",
       "children": [
         {
           "label": "SciFi Alien Shirt Blue",
-          "preview": "",
+          "preview": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Blue/shirt.png",
           "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Blue/SciFi Alien Shirt Blue.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Shirt Green",
-          "preview": "",
+          "preview": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Green/shirt.png",
           "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Green/SciFi Alien Shirt Green.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Shirt Yellow",
-          "preview": "",
+          "preview": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Yellow/shirt.png",
           "blend": "Items/Shirt/SciFi Alien Shirt/SciFi Alien Shirt Yellow/SciFi Alien Shirt Yellow.blend",
           "children": []
         }
@@ -3118,7 +3186,7 @@
     },
     {
       "label": "Update Tee",
-      "preview": "",
+      "preview": "Items/Shirt/Update Tee/shirt.png",
       "blend": "Items/Shirt/Update Tee/Update Tee.blend",
       "children": []
     },
@@ -3132,12 +3200,12 @@
   "Shoes": [
     {
       "label": "Anime Warrior Shoes",
-      "preview": "",
+      "preview": "Items/Shoes/Anime Warrior Shoes/shoe.png",
       "blend": "",
       "children": [
         {
           "label": "Anime Warrior Shoes (Red)",
-          "preview": "",
+          "preview": "Items/Shoes/Anime Warrior Shoes/Anime Warrior Shoes (Red)/shoe.png",
           "blend": "Items/Shoes/Anime Warrior Shoes/Anime Warrior Shoes (Red)/Anime Warrior Shoes Red.blend",
           "children": []
         }
@@ -3267,24 +3335,24 @@
     },
     {
       "label": "SciFi Alien Shoe",
-      "preview": "",
+      "preview": "Items/Shoes/SciFi Alien Shoe/shoe.png",
       "blend": "",
       "children": [
         {
           "label": "SciFi Alien Shoe Green",
-          "preview": "",
+          "preview": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Green/Untitled.png",
           "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Green/SciFi Alien Shoe Green.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Shoe Purple",
-          "preview": "",
+          "preview": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Purple/shoe.png",
           "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Purple/SciFi Alien Shoe Purple.blend",
           "children": []
         },
         {
           "label": "SciFi Alien Shoe Red",
-          "preview": "",
+          "preview": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Red/shoe.png",
           "blend": "Items/Shoes/SciFi Alien Shoe/SciFi Alien Shoe Red/SciFi Alien Shoe Red.blend",
           "children": []
         }
@@ -3380,7 +3448,7 @@
     },
     {
       "label": "Atlantian Bladed Wings",
-      "preview": "",
+      "preview": "Items/Shoulder/Atlantian Bladed Wings/back.png",
       "blend": "Items/Shoulder/Atlantian Bladed Wings/Atlantian Bladed Wings.blend",
       "children": []
     },
@@ -3392,7 +3460,7 @@
     },
     {
       "label": "Atlantian Trident",
-      "preview": "",
+      "preview": "Items/Shoulder/Atlantian Trident/back.png",
       "blend": "Items/Shoulder/Atlantian Trident/Atlantian Bladed Wings.blend",
       "children": []
     },
@@ -3647,12 +3715,12 @@
     },
     {
       "label": "Anime Warrior Gloves",
-      "preview": "",
+      "preview": "Items/Wrist/Anime Warrior Gloves/gloves.png",
       "blend": "",
       "children": [
         {
           "label": "Anime Warrior Gloves (Red)",
-          "preview": "",
+          "preview": "Items/Wrist/Anime Warrior Gloves/Anime Warrior Gloves (Red)/gloves.png",
           "blend": "Items/Wrist/Anime Warrior Gloves/Anime Warrior Gloves (Red)/Anime Warrior Gloves (Red).blend",
           "children": []
         }
