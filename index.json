@@ -1365,6 +1365,37 @@
       ]
     },
     {
+      "label": "Laser Tag Visor",
+      "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Laser Tag Visor (Blue)",
+          "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Blue)/Laser Tag Visor (Blue).png",
+          "blend": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Blue)/Laser Tag Visor.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Visor (Orange)",
+          "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Orange)/Laser Tag Visor (Orange).png",
+          "blend": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Orange)/Laser Tag Visor.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Visor (Pink)",
+          "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Pink)/Laser Tag Visor (Pink).png",
+          "blend": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Pink)/Laser Tag Visor.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Visor (Teal)",
+          "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Teal)/Laser Tag Visor (Teal).png",
+          "blend": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Teal)/Laser Tag Visor.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Race Car Driver Hat",
       "preview": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.png",
       "blend": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.blend",
@@ -2546,6 +2577,37 @@
           "label": "Jester Shirt (Mardi Gras)",
           "preview": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras)/Jester Shirt (Mardi Gras).png",
           "blend": "Items/Shirt/Jester Shirt/Jester Shirt (Mardi Gras)/Jester Shirt (Mardi Gras).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Laser Tag Sensors",
+      "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Laser Tag Sensors (Blue)",
+          "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Blue)/Laser Tag Sensors (Blue).png",
+          "blend": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Blue)/Laser Tag Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Sensors (Orange)",
+          "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Orange)/Laser Tag Sensors (Orange).png",
+          "blend": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Orange)/Laser Tag Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Sensors (Pink)",
+          "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Pink)/Laser Tag Sensors (Pink).png",
+          "blend": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Pink)/Laser Tag Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Sensors (Teal)",
+          "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Teal)/Laser Tag Sensors (Teal).png",
+          "blend": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Teal)/Laser Tag Shirt.blend",
           "children": []
         }
       ]
@@ -3741,6 +3803,37 @@
           "label": "Jester Gloves (Mardi Gras)",
           "preview": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras)/Jester Gloves (Mardi Gras).png",
           "blend": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras)/Jester Gloves (Mardi Gras).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Laser Tag Gloves",
+      "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Laser Tag Gloves (Blue)",
+          "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Blue)/Laser Tag Gloves (Blue).png",
+          "blend": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Blue)/LasertagGloves.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Gloves (Orange)",
+          "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Orange)/Laser Tag Gloves (Orange).png",
+          "blend": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Orange)/LasertagGloves.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Gloves (Pink)",
+          "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Pink)/Laser Tag Gloves (Pink).png",
+          "blend": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Pink)/LasertagGloves.blend",
+          "children": []
+        },
+        {
+          "label": "Laser Tag Gloves (Teal)",
+          "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Teal)/Laser Tag Gloves (Teal).png",
+          "blend": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Teal)/LasertagGloves.blend",
           "children": []
         }
       ]
