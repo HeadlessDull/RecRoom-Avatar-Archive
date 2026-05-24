@@ -3962,6 +3962,12 @@
       "children": []
     },
     {
+      "label": "Rec Room Watch",
+      "preview": "Items/Wrist/Rec Room Watch/Watch.png",
+      "blend": "Items/Wrist/Rec Room Watch/Watch.blend",
+      "children": []
+    },
+    {
       "label": "Retro Gamer Gloves",
       "preview": "Items/Wrist/Retro Gamer Gloves/Retro Gamer Gloves.png",
       "blend": "",
