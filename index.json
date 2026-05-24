@@ -2976,6 +2976,49 @@
       ]
     },
     {
+      "label": "Stunt Singlet",
+      "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Stunt Singlet (Blue)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Blue)/Stunt Singlet (Blue).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Blue)/Spandex3.blend",
+          "children": []
+        },
+        {
+          "label": "Stunt Singlet (Fuchsia)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Fuchsia)/Stunt Singlet (Fuchsia).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Fuchsia)/Spandex4.blend",
+          "children": []
+        },
+        {
+          "label": "Stunt Singlet (Green)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Green)/Stunt Singlet (Green).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Green)/Spandex2.blend",
+          "children": []
+        },
+        {
+          "label": "Stunt Singlet (Pink)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Pink)/Stunt Singlet (Pink).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Pink)/Spandex1.blend",
+          "children": []
+        },
+        {
+          "label": "Stunt Singlet (Red)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Red)/Stunt Singlet (Red).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Red)/Spandex.blend",
+          "children": []
+        },
+        {
+          "label": "Stunt Singlet (Yellow)",
+          "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Yellow)/Stunt Singlet (Yellow).png",
+          "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Yellow)/Spandex5.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Tech Camper Hiking Vest",
       "preview": "Items/Shirt/Tech Camper Hiking Vest/Tech Camper Hiking Vest.png",
       "blend": "Items/Shirt/Tech Camper Hiking Vest/Tech Camper Hiking Vest.blend",
