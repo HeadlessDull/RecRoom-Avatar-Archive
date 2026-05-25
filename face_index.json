@@ -1,26 +1,156 @@
 {
   "Eyes": [
     {
+      "folder": "FaceSheets/Eyes/Anime Fem",
+      "preview": "FaceSheets/Eyes/Anime Fem/preview.png",
+      "sprite": "Eye_Anime_Fem_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Anime Masc",
+      "preview": "FaceSheets/Eyes/Anime Masc/preview.png",
+      "sprite": "Eye_Anime_Masc_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Anime Neutral",
+      "preview": "FaceSheets/Eyes/Anime Neutral/preview.png",
+      "sprite": "Eye_Anime_Neutral_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Anime PuppyDog",
+      "preview": "FaceSheets/Eyes/Anime PuppyDog/preview.png",
+      "sprite": "Eye_Anime_Puppydog_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Average",
+      "preview": "FaceSheets/Eyes/Average/preview.png",
+      "sprite": "Eye_Average_SpriteSheet.png"
+    },
+    {
       "folder": "FaceSheets/Eyes/Comma",
       "preview": "FaceSheets/Eyes/Comma/preview.png",
       "sprite": "Eye_Comma_SpriteSheet.png"
     },
     {
+      "folder": "FaceSheets/Eyes/Default",
+      "preview": "FaceSheets/Eyes/Default/preview.png",
+      "sprite": "Eye_Default_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Happy",
+      "preview": "FaceSheets/Eyes/Happy/preview.png",
+      "sprite": "Eye_Happy_SpriteSheet.png"
+    },
+    {
       "folder": "FaceSheets/Eyes/Inner",
       "preview": "FaceSheets/Eyes/Inner/preview.png",
       "sprite": "Eye_Inner_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Lash Double",
+      "preview": "FaceSheets/Eyes/Lash Double/preview.png",
+      "sprite": "Eye_LashDouble_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Lash Single",
+      "preview": "FaceSheets/Eyes/Lash Single/preview.png",
+      "sprite": "Eye_LashSingle_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Liner",
+      "preview": "FaceSheets/Eyes/Liner/preview.png",
+      "sprite": "Eye_Liner_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Narrow",
+      "preview": "FaceSheets/Eyes/Narrow/preview.png",
+      "sprite": "Eye_Narrow_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Outer",
+      "preview": "FaceSheets/Eyes/Outer/preview.png",
+      "sprite": "Eye_Outer_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Roof",
+      "preview": "FaceSheets/Eyes/Roof/preview.png",
+      "sprite": "Eye_Roof_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Round",
+      "preview": "FaceSheets/Eyes/Round/preview.png",
+      "sprite": "Eye_Round_SpriteSheet.png"
     }
   ],
   "Mouths": [
+    {
+      "folder": "FaceSheets/Mouths/Bubbly",
+      "preview": "FaceSheets/Mouths/Bubbly/preview.png",
+      "sprite": "Mouth_Bubbly_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Chin",
+      "preview": "FaceSheets/Mouths/Chin/preview.png",
+      "sprite": "Mouth_Chin_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Cupid",
+      "preview": "FaceSheets/Mouths/Cupid/preview.png",
+      "sprite": "Mouth_Cupid_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/CupidSlanted",
+      "preview": "FaceSheets/Mouths/CupidSlanted/preview.png",
+      "sprite": "Mouth_CupidSlanted_SpriteSheet.png"
+    },
     {
       "folder": "FaceSheets/Mouths/Default",
       "preview": "FaceSheets/Mouths/Default/preview.png",
       "sprite": "Mouth_Default_SpriteSheet.png"
     },
     {
+      "folder": "FaceSheets/Mouths/Dimples",
+      "preview": "FaceSheets/Mouths/Dimples/preview.png",
+      "sprite": "Mouth_Dimples_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/DimplesCurved",
+      "preview": "FaceSheets/Mouths/DimplesCurved/preview.png",
+      "sprite": "Mouth_DimplesCurved_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/DimplesDown",
+      "preview": "FaceSheets/Mouths/DimplesDown/preview.png",
+      "sprite": "Mouth_DimplesDown_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/DimplesStraight",
+      "preview": "FaceSheets/Mouths/DimplesStraight/preview.png",
+      "sprite": "Mouth_DimplesStraight_SpriteSheet.png"
+    },
+    {
       "folder": "FaceSheets/Mouths/Lion",
       "preview": "FaceSheets/Mouths/Lion/preview.png",
       "sprite": "Mouth_Lion_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Nonchalant",
+      "preview": "FaceSheets/Mouths/Nonchalant/preview.png",
+      "sprite": "Mouth_Nonchalant_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Side",
+      "preview": "FaceSheets/Mouths/Side/preview.png",
+      "sprite": "Mouth_Side_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Slanted",
+      "preview": "FaceSheets/Mouths/Slanted/preview.png",
+      "sprite": "Mouth_Slanted_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Square",
+      "preview": "FaceSheets/Mouths/Square/preview.png",
+      "sprite": "Mouth_Square_SpriteSheet.png"
     }
   ]
 }
