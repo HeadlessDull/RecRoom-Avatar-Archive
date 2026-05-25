@@ -251,6 +251,25 @@
       ]
     },
     {
+      "label": "Mirrored Glasses",
+      "preview": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Gold).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Mirrored Glasses (Gold)",
+          "preview": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Gold)/Mirrored Glasses (Gold).png",
+          "blend": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Gold)/Glasses.blend",
+          "children": []
+        },
+        {
+          "label": "Mirrored Glasses (Silver)",
+          "preview": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Silver)/Mirrored Glasses (Silver).png",
+          "blend": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Silver)/Glasses.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Plastic Sunglasses",
       "preview": "Items/Eye/Plastic Sunglasses/Plastic Sunglasses.png",
       "blend": "",
@@ -437,6 +456,31 @@
           "label": "Space Visor (S.)_",
           "preview": "Items/Eye/Space Visor/Space Visor (S.)_/Space Visor (S.)_.png",
           "blend": "Items/Eye/Space Visor/Space Visor (S.)_/Space Visor (S).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Square Glasses",
+      "preview": "Items/Eye/Square Glasses/Square Glasses (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Square Glasses (Blue)",
+          "preview": "Items/Eye/Square Glasses/Square Glasses (Blue)/Square Glasses (Blue).png",
+          "blend": "Items/Eye/Square Glasses/Square Glasses (Blue)/glasses.blend",
+          "children": []
+        },
+        {
+          "label": "Square Glasses (Purple)",
+          "preview": "Items/Eye/Square Glasses/Square Glasses (Purple)/Square Glasses (Purple).png",
+          "blend": "Items/Eye/Square Glasses/Square Glasses (Purple)/glasses.blend",
+          "children": []
+        },
+        {
+          "label": "Square Glasses (Red)",
+          "preview": "Items/Eye/Square Glasses/Square Glasses (Red)/Square Glasses (Red).png",
+          "blend": "Items/Eye/Square Glasses/Square Glasses (Red)/glasses.blend",
           "children": []
         }
       ]
@@ -2476,6 +2520,43 @@
       "children": []
     },
     {
+      "label": "Electrcian Shirt",
+      "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Electrician Shirt (Blue)",
+          "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Blue)/Electrician Shirt (Blue).png",
+          "blend": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Blue)/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Electrician Shirt (Green)",
+          "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Green)/Electrician Shirt (Green).png",
+          "blend": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Green)/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Electrician Shirt (Grey)",
+          "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Grey)/Electrician Shirt (Grey).png",
+          "blend": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Grey)/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Electrician Shirt (Tan)",
+          "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Tan)/Electrician Shirt (Tan).png",
+          "blend": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Tan)/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Electrician Shirt (Yellow)",
+          "preview": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Yellow)/Electrician Shirt (Yellow).png",
+          "blend": "Items/Shirt/Electrcian Shirt/Electrician Shirt (Yellow)/Shirt.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Flannel",
       "preview": "Items/Shirt/Flannel/Flannel (Green).png",
       "blend": "",
@@ -3617,6 +3698,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Messenger Bag",
+      "preview": "Items/Shoulder/Messenger Bag/Messenger Bag.png",
+      "blend": "Items/Shoulder/Messenger Bag/Bag.blend",
+      "children": []
     },
     {
       "label": "Royal Cape",
