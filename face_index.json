@@ -1,0 +1,26 @@
+{
+  "Eyes": [
+    {
+      "folder": "FaceSheets/Eyes/Comma",
+      "preview": "FaceSheets/Eyes/Comma/preview.png",
+      "sprite": "Eye_Comma_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Eyes/Inner",
+      "preview": "FaceSheets/Eyes/Inner/preview.png",
+      "sprite": "Eye_Inner_SpriteSheet.png"
+    }
+  ],
+  "Mouths": [
+    {
+      "folder": "FaceSheets/Mouths/Default",
+      "preview": "FaceSheets/Mouths/Default/preview.png",
+      "sprite": "Mouth_Default_SpriteSheet.png"
+    },
+    {
+      "folder": "FaceSheets/Mouths/Lion",
+      "preview": "FaceSheets/Mouths/Lion/preview.png",
+      "sprite": "Mouth_Lion_SpriteSheet.png"
+    }
+  ]
+}
