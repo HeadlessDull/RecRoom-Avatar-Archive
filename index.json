@@ -3533,6 +3533,61 @@
       "children": []
     },
     {
+      "label": "Butterfly Wings",
+      "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Cool Mint).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Butterfly Wings (Autum)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Autum)/wings.png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Autum)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Candy Agrias)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Candy Agrias)/Butterfly Wings (Candy Agrias).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Candy Agrias)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Cool Mint)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Cool Mint)/Butterfly Wings (Cool Mint).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Cool Mint)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Crystal)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Crystal)/Butterfly Wings (Crystal).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Crystal)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Frontier Bluebottle)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Frontier Bluebottle)/Butterfly Wings (Frontier Bluebottle).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Frontier Bluebottle)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Midnight Gossamer)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Midnight Gossamer)/Butterfly Wings (Midnight Gossamer).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Midnight Gossamer)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (Monarch)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Monarch)/Butterfly Wings (Monarch).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (Monarch)/Wings.blend",
+          "children": []
+        },
+        {
+          "label": "Butterfly Wings (The Blue One)",
+          "preview": "Items/Shoulder/Butterfly Wings/Butterfly Wings (The Blue One)/Butterfly Wings (The Blue One).png",
+          "blend": "Items/Shoulder/Butterfly Wings/Butterfly Wings (The Blue One)/Wings.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Fancy Cape",
       "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Gilded).png",
       "blend": "",
