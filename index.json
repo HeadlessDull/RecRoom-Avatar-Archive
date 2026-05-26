@@ -111,6 +111,12 @@
       ]
     },
     {
+      "label": "Paintball Belt",
+      "preview": "Items/Belt/Paintball Belt/Paintball Belt.png",
+      "blend": "Items/Belt/Paintball Belt/Belt.blend",
+      "children": []
+    },
+    {
       "label": "SciFi Alien Belt",
       "preview": "Items/Belt/SciFi Alien Belt/scifialien belt.png",
       "blend": "",
@@ -265,6 +271,31 @@
           "label": "Mirrored Glasses (Silver)",
           "preview": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Silver)/Mirrored Glasses (Silver).png",
           "blend": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Silver)/Glasses.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Paintball Goggles",
+      "preview": "Items/Eye/Paintball Goggles/Paintball Goggles.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Paintball Goggles",
+          "preview": "Items/Eye/Paintball Goggles/Paintball Goggles/Paintball Goggles.png",
+          "blend": "Items/Eye/Paintball Goggles/Paintball Goggles/Goggles.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Goggles (Blue)",
+          "preview": "Items/Eye/Paintball Goggles/Paintball Goggles (Blue)/Paintball Goggles (Blue).png",
+          "blend": "Items/Eye/Paintball Goggles/Paintball Goggles (Blue)/Goggles.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Goggles (Red)",
+          "preview": "Items/Eye/Paintball Goggles/Paintball Goggles (Red)/Paintball Goggles (Red).png",
+          "blend": "Items/Eye/Paintball Goggles/Paintball Goggles (Red)/Goggles.blend",
           "children": []
         }
       ]
@@ -1450,6 +1481,25 @@
       "preview": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.png",
       "blend": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.blend",
       "children": []
+    },
+    {
+      "label": "Racing Helmet",
+      "preview": "Items/Hat/Racing Helmet/Racing Helmet (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Racing Helmet (Blue)",
+          "preview": "Items/Hat/Racing Helmet/Racing Helmet (Blue)/Racing Helmet (Blue).png",
+          "blend": "Items/Hat/Racing Helmet/Racing Helmet (Blue)/Helm.blend",
+          "children": []
+        },
+        {
+          "label": "Racing Helmet (Red)",
+          "preview": "Items/Hat/Racing Helmet/Racing Helmet (Red)/Racing Helmet (Red).png",
+          "blend": "Items/Hat/Racing Helmet/Racing Helmet (Red)/Helm.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Runner Helmet",
@@ -2811,6 +2861,31 @@
       ]
     },
     {
+      "label": "Paintball Vest",
+      "preview": "Items/Shirt/Paintball Vest/Paintball Vest (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Paintball Vest (Black)",
+          "preview": "Items/Shirt/Paintball Vest/Paintball Vest (Black)/Paintball Vest (Black).png",
+          "blend": "Items/Shirt/Paintball Vest/Paintball Vest (Black)/Vest.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Vest (Blue)",
+          "preview": "Items/Shirt/Paintball Vest/Paintball Vest (Blue)/Paintball Vest (Blue).png",
+          "blend": "Items/Shirt/Paintball Vest/Paintball Vest (Blue)/Vest.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Vest (Red)",
+          "preview": "Items/Shirt/Paintball Vest/Paintball Vest (Red)/Paintball Vest (Red).png",
+          "blend": "Items/Shirt/Paintball Vest/Paintball Vest (Red)/Vest.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Punk Jacket",
       "preview": "Items/Shirt/Punk Jacket/Punk Jacket (Pink).png",
       "blend": "",
@@ -2876,6 +2951,37 @@
       "preview": "Items/Shirt/Race Car Driver Race Suit/Race Car Driver Race Suit.png",
       "blend": "Items/Shirt/Race Car Driver Race Suit/Race Car Driver Race Suit.blend",
       "children": []
+    },
+    {
+      "label": "Racing Suit",
+      "preview": "Items/Shirt/Racing Suit/Racing Suit (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Racing Suit (Astronaut)",
+          "preview": "Items/Shirt/Racing Suit/Racing Suit (Astronaut)/Racing Suit (Astronaut).png",
+          "blend": "Items/Shirt/Racing Suit/Racing Suit (Astronaut)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Racing Suit (Blue)",
+          "preview": "Items/Shirt/Racing Suit/Racing Suit (Blue)/Racing Suit (Blue).png",
+          "blend": "Items/Shirt/Racing Suit/Racing Suit (Blue)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Racing Suit (Red)",
+          "preview": "Items/Shirt/Racing Suit/Racing Suit (Red)/Racing Suit (Red).png",
+          "blend": "Items/Shirt/Racing Suit/Racing Suit (Red)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Racing Suit (Sponsored)",
+          "preview": "Items/Shirt/Racing Suit/Racing Suit (Sponsored)/Racing Suit (Sponsored).png",
+          "blend": "Items/Shirt/Racing Suit/Racing Suit (Sponsored)/Suit.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Rec Con Hoodie",
@@ -4098,10 +4204,54 @@
       "children": []
     },
     {
+      "label": "Paintball Gloves",
+      "preview": "Items/Wrist/Paintball Gloves/Paintball Gloves.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Paintball Gloves",
+          "preview": "Items/Wrist/Paintball Gloves/Paintball Gloves/Paintball Gloves.png",
+          "blend": "Items/Wrist/Paintball Gloves/Paintball Gloves/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Gloves (Blue)",
+          "preview": "Items/Wrist/Paintball Gloves/Paintball Gloves (Blue)/Paintball Gloves (Blue).png",
+          "blend": "Items/Wrist/Paintball Gloves/Paintball Gloves (Blue)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Paintball Gloves (Red)",
+          "preview": "Items/Wrist/Paintball Gloves/Paintball Gloves (Red)/Paintball Gloves (Red).png",
+          "blend": "Items/Wrist/Paintball Gloves/Paintball Gloves (Red)/Gloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Race Car Driver Gloves",
       "preview": "Items/Wrist/Race Car Driver Gloves/Race Car Driver Gloves.png",
       "blend": "Items/Wrist/Race Car Driver Gloves/Race Car Driver Gloves.blend",
       "children": []
+    },
+    {
+      "label": "Racing Gloves",
+      "preview": "Items/Wrist/Racing Gloves/Racing Gloves (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Racing Gloves (Blue)",
+          "preview": "Items/Wrist/Racing Gloves/Racing Gloves (Blue)/Racing Gloves (Blue).png",
+          "blend": "Items/Wrist/Racing Gloves/Racing Gloves (Blue)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Racing Gloves (Red)",
+          "preview": "Items/Wrist/Racing Gloves/Racing Gloves (Red)/Racing Gloves (Red).png",
+          "blend": "Items/Wrist/Racing Gloves/Racing Gloves (Red)/Gloves.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Rec Room Watch",
