@@ -85,10 +85,71 @@
       "children": []
     },
     {
+      "label": "Paintball Burst Rifle",
+      "preview": "Props/Paintball Burst Rifle/Paintball.png",
+      "blend": "Props/Paintball Burst Rifle/Paintball.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Gernade Launcher",
+      "preview": "Props/Paintball Gernade Launcher/Paintball.png",
+      "blend": "Props/Paintball Gernade Launcher/luancher.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball PaintThrower",
+      "preview": "Props/Paintball PaintThrower/Paintball.png",
+      "blend": "Props/Paintball PaintThrower/Paintball.blend",
+      "children": []
+    },
+    {
       "label": "Paintball Pistol",
       "preview": "Props/Paintball Pistol/PaintballPistol.png",
       "blend": "Props/Paintball Pistol/PaintballPistol.blend",
       "children": []
+    },
+    {
+      "label": "Paintball Shotgun",
+      "preview": "Props/Paintball Shotgun/Paintball.png",
+      "blend": "Props/Paintball Shotgun/Shotgun.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Sniper",
+      "preview": "Props/Paintball Sniper/Paintball.png",
+      "blend": "Props/Paintball Sniper/sniper.blend",
+      "children": []
+    },
+    {
+      "label": "Plates",
+      "preview": "Props/Plates/Plate.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Pirate Plate",
+          "preview": "Props/Plates/Pirate Plate/Plate.png",
+          "blend": "Props/Plates/Pirate Plate/Plate (Pirate).blend",
+          "children": []
+        },
+        {
+          "label": "Pirate Plate (Fractured)",
+          "preview": "Props/Plates/Pirate Plate (Fractured)/Plate.png",
+          "blend": "Props/Plates/Pirate Plate (Fractured)/Plate (Pirate).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Center Plate",
+          "preview": "Props/Plates/Rec Center Plate/Plate.png",
+          "blend": "Props/Plates/Rec Center Plate/Plate.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Center Plate (Fractured)",
+          "preview": "Props/Plates/Rec Center Plate (Fractured)/Plate.png",
+          "blend": "Props/Plates/Rec Center Plate (Fractured)/Plate.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Quest Sword",
@@ -120,6 +181,18 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Rec Rally Buggy (GoKart)",
+      "preview": "Props/Rec Rally Buggy (GoKart)/RallyBuggy.png",
+      "blend": "Props/Rec Rally Buggy (GoKart)/GoKart.blend",
+      "children": []
+    },
+    {
+      "label": "Solo Cup",
+      "preview": "Props/Solo Cup/Cup.png",
+      "blend": "Props/Solo Cup/Cup.blend",
+      "children": []
     }
   ]
 }
