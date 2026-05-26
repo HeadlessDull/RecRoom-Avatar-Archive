@@ -5,6 +5,7 @@ on:
     paths:
       - 'Props/**'
       - 'build_props_index.py'
+  workflow_dispatch:
 
 jobs:
   build:
