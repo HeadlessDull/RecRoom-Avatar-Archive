@@ -5,8 +5,9 @@ on:
     branches:
       - main
     paths:
-      - 'Items/**'        # only runs when something inside Items/ changes
-      - 'build_index.py'  # or when the script itself changes
+      - 'Items/**'
+      - 'build_index.py'
+  workflow_dispatch:
 
 jobs:
   build:
