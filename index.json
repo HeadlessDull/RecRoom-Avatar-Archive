@@ -190,7 +190,7 @@
         {
           "label": "Acetate Glasses (Amber)",
           "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
-          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).blend",
           "children": []
         },
         {
@@ -1273,6 +1273,25 @@
       ]
     },
     {
+      "label": "Bog Monster",
+      "preview": "Items/Hat/Bog Monster/Bog Monster Hood.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bog Monster Hood",
+          "preview": "Items/Hat/Bog Monster/Bog Monster Hood/Bog Monster Hood.png",
+          "blend": "Items/Hat/Bog Monster/Bog Monster Hood/Hat.blend",
+          "children": []
+        },
+        {
+          "label": "Bog Monster Hood (Movie Magic Contest)",
+          "preview": "Items/Hat/Bog Monster/Bog Monster Hood (Movie Magic Contest)/Bog Monster Hood (Movie Magic Contest).png",
+          "blend": "Items/Hat/Bog Monster/Bog Monster Hood (Movie Magic Contest)/Hat.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Carnival Clown Hat",
       "preview": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.png",
       "blend": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.blend",
@@ -1472,6 +1491,37 @@
           "label": "Laser Tag Visor (Teal)",
           "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Teal)/Laser Tag Visor (Teal).png",
           "blend": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Teal)/Laser Tag Visor.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Letterman 87 Cap",
+      "preview": "Items/Hat/Letterman 87 Cap/cap.png",
+      "blend": "Items/Hat/Letterman 87 Cap/cap.blend",
+      "children": []
+    },
+    {
+      "label": "Lumberjack Cap",
+      "preview": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Lumberjack Cap (Blue)",
+          "preview": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Blue)/Lumberjack Cap (Blue).png",
+          "blend": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Blue)/Cap.blend",
+          "children": []
+        },
+        {
+          "label": "Lumberjack Cap (Green)",
+          "preview": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Green)/Lumberjack Cap (Green).png",
+          "blend": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Green)/Cap.blend",
+          "children": []
+        },
+        {
+          "label": "Lumberjack Cap (Red)",
+          "preview": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Red)/Lumberjack Cap (Red).png",
+          "blend": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Red)/Cap.blend",
           "children": []
         }
       ]
@@ -1829,6 +1879,12 @@
       "label": "Carnival Clown Pants",
       "preview": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.png",
       "blend": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Letterman 87 Pants",
+      "preview": "Items/Legs/Letterman 87 Pants/cap.png",
+      "blend": "Items/Legs/Letterman 87 Pants/Pants.blend",
       "children": []
     },
     {
@@ -2498,6 +2554,25 @@
       "children": []
     },
     {
+      "label": "Bog Monster Suit",
+      "preview": "Items/Shirt/Bog Monster Suit/Bog Monster Suit.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bog Monster Suit",
+          "preview": "Items/Shirt/Bog Monster Suit/Bog Monster Suit/Bog Monster Suit.png",
+          "blend": "Items/Shirt/Bog Monster Suit/Bog Monster Suit/BogSuit.blend",
+          "children": []
+        },
+        {
+          "label": "Bog Monster Suit (Movie Magic Contest)",
+          "preview": "Items/Shirt/Bog Monster Suit/Bog Monster Suit (Movie Magic Contest)/Bog Monster Suit (Movie Magic Contest).png",
+          "blend": "Items/Shirt/Bog Monster Suit/Bog Monster Suit (Movie Magic Contest)/BogSuit.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bride of Frank Gown",
       "preview": "Items/Shirt/Bride of Frank Gown/Bride of Frank Gown.png",
       "blend": "Items/Shirt/Bride of Frank Gown/Brideoffrankgown.blend",
@@ -2675,6 +2750,12 @@
       ]
     },
     {
+      "label": "Full Body Beta Sweater",
+      "preview": "Items/Shirt/Full Body Beta Sweater/cap.png",
+      "blend": "Items/Shirt/Full Body Beta Sweater/sweater.blend",
+      "children": []
+    },
+    {
       "label": "Golfer Shirt",
       "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Tan).png",
       "blend": "",
@@ -2776,6 +2857,37 @@
           "label": "Laser Tag Sensors (Teal)",
           "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Teal)/Laser Tag Sensors (Teal).png",
           "blend": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Teal)/Laser Tag Shirt.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Letterman 87 Jacket",
+      "preview": "Items/Shirt/Letterman 87 Jacket/cap.png",
+      "blend": "Items/Shirt/Letterman 87 Jacket/jacket.blend",
+      "children": []
+    },
+    {
+      "label": "Lumberjack Shirt",
+      "preview": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Lumberjack Shirt (Blue)",
+          "preview": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Blue)/Lumberjack Shirt (Blue).png",
+          "blend": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Blue)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Lumberjack Shirt (Green)",
+          "preview": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Green)/Lumberjack Shirt (Green).png",
+          "blend": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Green)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Lumberjack Shirt (Red)",
+          "preview": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Red)/Lumberjack Shirt (Red).png",
+          "blend": "Items/Shirt/Lumberjack Shirt/Lumberjack Shirt (Red)/shirt.blend",
           "children": []
         }
       ]
@@ -3521,6 +3633,12 @@
       "children": []
     },
     {
+      "label": "Lumberjack Boots",
+      "preview": "Items/Shoes/Lumberjack Boots/Lumberjack Boots.png",
+      "blend": "Items/Shoes/Lumberjack Boots/boots.blend",
+      "children": []
+    },
+    {
       "label": "SciFi Alien Shoe",
       "preview": "Items/Shoes/SciFi Alien Shoe/shoe.png",
       "blend": "",
@@ -4148,6 +4266,12 @@
       ]
     },
     {
+      "label": "Bog Monster Wrist",
+      "preview": "Items/Wrist/Bog Monster Wrist/Bog Monster Wrist.png",
+      "blend": "Items/Wrist/Bog Monster Wrist/Wrist.blend",
+      "children": []
+    },
+    {
       "label": "Jester Gloves",
       "preview": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras).png",
       "blend": "",
@@ -4196,6 +4320,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Letterman 87 Ring",
+      "preview": "Items/Wrist/Letterman 87 Ring/cap.png",
+      "blend": "Items/Wrist/Letterman 87 Ring/ring.blend",
+      "children": []
     },
     {
       "label": "Midnight Gala Hand Jewelry",
