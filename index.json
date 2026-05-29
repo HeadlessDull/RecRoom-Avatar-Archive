@@ -4266,6 +4266,43 @@
       ]
     },
     {
+      "label": "Bike Gloves",
+      "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Navy).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bike Gloves (Black)",
+          "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Black)/Bike Gloves (Black).png",
+          "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Black)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Bike Gloves (Blue)",
+          "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Blue)/Bike Gloves (Blue).png",
+          "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Blue)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Bike Gloves (Navy)",
+          "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Navy)/Bike Gloves (Navy).png",
+          "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Navy)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Bike Gloves (Premium)",
+          "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Premium)/Bike Gloves (Premium).png",
+          "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Premium)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Bike Gloves (Yellow)",
+          "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Yellow)/Bike Gloves (Yellow).png",
+          "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Yellow)/Gloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bog Monster Wrist",
       "preview": "Items/Wrist/Bog Monster Wrist/Bog Monster Wrist.png",
       "blend": "Items/Wrist/Bog Monster Wrist/Wrist.blend",
