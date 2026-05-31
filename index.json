@@ -1292,6 +1292,25 @@
       ]
     },
     {
+      "label": "Bonky Head",
+      "preview": "Items/Hat/Bonky Head/Untitled.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Bonky Head",
+          "preview": "Items/Hat/Bonky Head/Bonky Head/Untitled.png",
+          "blend": "Items/Hat/Bonky Head/Bonky Head/Hat.blend",
+          "children": []
+        },
+        {
+          "label": "Bonky Zombie Head",
+          "preview": "Items/Hat/Bonky Head/Bonky Zombie Head/Untitled.png",
+          "blend": "Items/Hat/Bonky Head/Bonky Zombie Head/Hat.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Carnival Clown Hat",
       "preview": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.png",
       "blend": "Items/Hat/Carnival Clown Hat/Carnival Clown Hat.blend",
