@@ -2592,6 +2592,12 @@
       ]
     },
     {
+      "label": "Bonky Suit (FB Only)",
+      "preview": "Items/Shirt/Bonky Suit (FB Only)/Untitled.png",
+      "blend": "Items/Shirt/Bonky Suit (FB Only)/Bonky.blend",
+      "children": []
+    },
+    {
       "label": "Bride of Frank Gown",
       "preview": "Items/Shirt/Bride of Frank Gown/Bride of Frank Gown.png",
       "blend": "Items/Shirt/Bride of Frank Gown/Brideoffrankgown.blend",
