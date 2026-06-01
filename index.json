@@ -1354,6 +1354,12 @@
       "children": []
     },
     {
+      "label": "Cat Ear Beanie",
+      "preview": "Items/Hat/Cat Ear Beanie/bean.png",
+      "blend": "Items/Hat/Cat Ear Beanie/catearbean.blend",
+      "children": []
+    },
+    {
       "label": "Cow Ears Headband",
       "preview": "Items/Hat/Cow Ears Headband/Cow Ears Headband.png",
       "blend": "Items/Hat/Cow Ears Headband/cow ears.blend",
@@ -1936,6 +1942,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Cargo Pants",
+      "preview": "Items/Legs/Cargo Pants/cargopant.png",
+      "blend": "Items/Legs/Cargo Pants/cargopants.blend",
+      "children": []
     },
     {
       "label": "Carnival Clown Pants",
@@ -3324,6 +3336,12 @@
       ]
     },
     {
+      "label": "Run The Block Cropped Shirt",
+      "preview": "Items/Shirt/Run The Block Cropped Shirt/block.png",
+      "blend": "Items/Shirt/Run The Block Cropped Shirt/runtheblockcrop.blend",
+      "children": []
+    },
+    {
       "label": "Runner Harness",
       "preview": "Items/Shirt/Runner Harness/Runner Harness (Black).png",
       "blend": "",
@@ -3455,6 +3473,31 @@
           "label": "Stunt Singlet (Yellow)",
           "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet (Yellow)/Stunt Singlet (Yellow).png",
           "blend": "Items/Shirt/Stunt Singlet/Stunt Singlet (Yellow)/Spandex5.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "T-Shirt Over Hoodie",
+      "preview": "Items/Shirt/T-Shirt Over Hoodie/white.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "T-Shirt Over Hoodie (Black)",
+          "preview": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (Black)/blackred.png",
+          "blend": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (Black)/tshirthood1.blend",
+          "children": []
+        },
+        {
+          "label": "T-Shirt Over Hoodie (Green)",
+          "preview": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (Green)/gree.png",
+          "blend": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (Green)/tshirthood2.blend",
+          "children": []
+        },
+        {
+          "label": "T-Shirt Over Hoodie (White)",
+          "preview": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (White)/white.png",
+          "blend": "Items/Shirt/T-Shirt Over Hoodie/T-Shirt Over Hoodie (White)/tshirthood.blend",
           "children": []
         }
       ]
