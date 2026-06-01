@@ -6,7 +6,7 @@
 [![stars](https://img.shields.io/github/stars/HeadlessDull/RecRoom-Avatar-Archive)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/stargazers)
 # RecRoom Avatar Archive
 
-A Blender addon made to help with recreating your Rec Room Avatar!
+A Blender addon made to help with creating and recreating Rec Room Avatars!
 
 <div align="center">
   <img width="800" alt="archivebox" src="https://github.com/user-attachments/assets/f5243a4e-7860-45cf-87d5-218c9260cfb0" />
@@ -163,6 +163,9 @@ Each User has a link and/or discord profile for you to acess
 
 # 
 
+<div align="center">
+  Rec Room - 2016 - 2026
+</div>
 <div align="center">
   <img width="60" height="64" alt="RRLogo" src="https://github.com/user-attachments/assets/08030d0b-ecdd-4376-9100-fccd5f535d63" />
 </div>
