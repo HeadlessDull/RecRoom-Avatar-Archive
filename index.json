@@ -257,6 +257,43 @@
       ]
     },
     {
+      "label": "Cyborg Skeleton Mask",
+      "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cyborg Skeleton Mask (Blue)",
+          "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Blue)/Cyborg Skeleton Mask (Blue).png",
+          "blend": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Blue)/Skeleton mask.blend",
+          "children": []
+        },
+        {
+          "label": "Cyborg Skeleton Mask (Green)",
+          "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Green)/Cyborg Skeleton Mask (Green).png",
+          "blend": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Green)/Skeleton mask.blend",
+          "children": []
+        },
+        {
+          "label": "Cyborg Skeleton Mask (Orange)",
+          "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Orange)/Cyborg Skeleton Mask (Orange).png",
+          "blend": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Orange)/Skeleton mask.blend",
+          "children": []
+        },
+        {
+          "label": "Cyborg Skeleton Mask (Pink)",
+          "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Pink)/Cyborg Skeleton Mask (Pink).png",
+          "blend": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Pink)/Skeleton mask.blend",
+          "children": []
+        },
+        {
+          "label": "Cyborg Skeleton Mask (Purple)",
+          "preview": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Purple)/Cyborg Skeleton Mask (Purple).png",
+          "blend": "Items/Eye/Cyborg Skeleton Mask/Cyborg Skeleton Mask (Purple)/Skeleton mask.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Mirrored Glasses",
       "preview": "Items/Eye/Mirrored Glasses/Mirrored Glasses (Gold).png",
       "blend": "",
@@ -1513,6 +1550,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Laurel Crown (Promo Room Drop)",
+      "preview": "Items/Hat/Laurel Crown (Promo Room Drop)/Laurel Crown (Promo Room Drop).png",
+      "blend": "Items/Hat/Laurel Crown (Promo Room Drop)/Laurel Crown.blend",
+      "children": []
     },
     {
       "label": "Letterman 87 Cap",
@@ -3243,6 +3286,12 @@
       "children": []
     },
     {
+      "label": "Rec Room Hoodie - WHM",
+      "preview": "Items/Shirt/Rec Room Hoodie - WHM/Rec Room Hoodie - WHM (Women's History Month).png",
+      "blend": "Items/Shirt/Rec Room Hoodie - WHM/Rec Room Hoodie.blend",
+      "children": []
+    },
+    {
       "label": "Rec Room Shirt",
       "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White).png",
       "blend": "",
@@ -4323,6 +4372,49 @@
           "label": "Bike Gloves (Yellow)",
           "preview": "Items/Wrist/Bike Gloves/Bike Gloves (Yellow)/Bike Gloves (Yellow).png",
           "blend": "Items/Wrist/Bike Gloves/Bike Gloves (Yellow)/Gloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Blaster Gloves",
+      "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Blaster Gloves",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves/Blaster Gloves.png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Blaster Gloves (Blue)",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves (Blue)/Blaster Gloves (Blue).png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves (Blue)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Blaster Gloves (Green)",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves (Green)/Blaster Gloves (Green).png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves (Green)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Blaster Gloves (Orange)",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves (Orange)/Blaster Gloves (Orange).png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves (Orange)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Blaster Gloves (Pink)",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves (Pink)/Blaster Gloves (Pink).png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves (Pink)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Blaster Gloves (White)",
+          "preview": "Items/Wrist/Blaster Gloves/Blaster Gloves (White)/Blaster Gloves (White).png",
+          "blend": "Items/Wrist/Blaster Gloves/Blaster Gloves (White)/Gloves.blend",
           "children": []
         }
       ]
