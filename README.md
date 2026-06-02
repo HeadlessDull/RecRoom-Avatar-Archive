@@ -150,6 +150,35 @@ Each User has a link and/or discord profile for you to acess
       <sub>Discord: konmanvr</sub>
       <sub></sub>
     </td>
+</table>
+
+# Helpful People
+<table>
+</td>
+  <tr>
+    <td><img width="100" height="100" alt="RRVRCP_4" src="https://github.com/user-attachments/assets/eae8f85e-fc7f-4dae-b048-e662964c3d9f" /></td>
+    <td valign="middle">
+      <strong>Usagi</strong>: Unity Face Animation System<br/>
+      <sub>Discord: gameofcharades</sub>
+    </td>
+  </tr>
+</td>
+  <tr>
+    <td><img width="100" height="100" alt="cfb4a0c587ad2bbd89404698b3fa0e92" src="https://github.com/user-attachments/assets/48b3f912-ca31-4f3d-a528-1e55299087ba" /></td>
+    <td valign="middle">
+      <strong>TyrDrop</strong>: In Game Exporting<br/>
+      <sub>Discord: tyrdrop</sub>
+    </td>
+  </tr>
+</td>
+  <tr>
+    <td><img width="100" height="100" alt="a633dde828f6af4813c8f19ad1ddb9a9" src="https://github.com/user-attachments/assets/2d9b3052-725a-4526-8a29-50ff4989cb89" /></td>
+    <td valign="middle">
+      <strong>Brigadere</strong>: In Game Exporting<br/>
+      <sub>Discord: brigadere</sub>
+    </td>
+  </tr>
+</td>
   <tr>
     <td><img width="100" height="100" alt="9cfbe7df30e3495c87a189be7cf66533" src="https://github.com/user-attachments/assets/c1036f31-d76d-47c9-9594-619cc3a65b07" /></td>
     <td valign="middle">
