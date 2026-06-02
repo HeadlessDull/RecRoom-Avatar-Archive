@@ -1,0 +1,10 @@
+{
+  "NPCs": [
+    {
+      "label": "Green Sword Goblin",
+      "preview": "NPCs/Green Sword Goblin/Goblin.png",
+      "blend": "NPCs/Green Sword Goblin/GreenGoblin.blend",
+      "children": []
+    }
+  ]
+}
