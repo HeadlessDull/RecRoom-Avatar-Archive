@@ -76,11 +76,9 @@ This will also convert textures to be Unity-compatible without special shaders (
 </div>
 
 **Known Limitations:**
-> ⚠️ The face will not be included in the export
+> ⚠️ You need to remake the face during export
 >
 > ⚠️ Both body types must be enabled at the same time during export
->
-> ⚠️ Props get exported without textures
 >
 > ℹ️ Bean Body exports with the Full Body mesh to meet Unity's rig requirements, you can delete it afterward
 
