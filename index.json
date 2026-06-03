@@ -3534,6 +3534,12 @@
       "children": []
     },
     {
+      "label": "Tennis Ball Shirt",
+      "preview": "Items/Shirt/Tennis Ball Shirt/Tennis Ball Shirt.png",
+      "blend": "Items/Shirt/Tennis Ball Shirt/Shirt.blend",
+      "children": []
+    },
+    {
       "label": "Tennis Shirt",
       "preview": "Items/Shirt/Tennis Shirt/Tennis Shirt (White).png",
       "blend": "",
