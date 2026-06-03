@@ -436,6 +436,12 @@
           "children": []
         },
         {
+          "label": "Shutter Shades (Gold)",
+          "preview": "Items/Eye/Shutter Shades/Shutter Shades (Gold)/Shutter Shades (Gold).png",
+          "blend": "Items/Eye/Shutter Shades/Shutter Shades (Gold)/Shutter Shades (Gold).blend",
+          "children": []
+        },
+        {
           "label": "Shutter Shades (Green)",
           "preview": "Items/Eye/Shutter Shades/Shutter Shades (Green)/Shutter Shades (Green).png",
           "blend": "Items/Eye/Shutter Shades/Shutter Shades (Green)/Shutter Shades (Green).blend",
@@ -466,12 +472,6 @@
           "children": []
         }
       ]
-    },
-    {
-      "label": "Shutter Shades (Gold)",
-      "preview": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).png",
-      "blend": "Items/Eye/Shutter Shades (Gold)/Shutter Shades (Gold).blend",
-      "children": []
     },
     {
       "label": "Space Visor",
@@ -1358,6 +1358,31 @@
       "preview": "Items/Hat/Cat Ear Beanie/bean.png",
       "blend": "Items/Hat/Cat Ear Beanie/catearbean.blend",
       "children": []
+    },
+    {
+      "label": "Cat Ear Headphones",
+      "preview": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Forbidden Purple).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cat Ear Headphones (Forbidden Purple)",
+          "preview": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Forbidden Purple)/Cat Ear Headphones (Forbidden Purple).png",
+          "blend": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Forbidden Purple)/Headphones.blend",
+          "children": []
+        },
+        {
+          "label": "Cat Ear Headphones (Glitch Blue)",
+          "preview": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Glitch Blue)/Cat Ear Headphones (Glitch Blue).png",
+          "blend": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Glitch Blue)/Headphones.blend",
+          "children": []
+        },
+        {
+          "label": "Cat Ear Headphones (Neon Pink)",
+          "preview": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Neon Pink)/Cat Ear Headphones (Neon Pink).png",
+          "blend": "Items/Hat/Cat Ear Headphones/Cat Ear Headphones (Neon Pink)/Headphones.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Cow Ears Headband",
@@ -3207,101 +3232,101 @@
       ]
     },
     {
-      "label": "Rec Room Hoodie (Galaxy)",
-      "preview": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).png",
-      "blend": "Items/Shirt/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).blend",
-      "children": []
-    },
-    {
-      "label": "Rec Room Hoodie (Gold)",
-      "preview": "Items/Shirt/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).png",
-      "blend": "Items/Shirt/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).blend",
-      "children": []
-    },
-    {
-      "label": "Rec Room Hoodie (Juneteenth)",
-      "preview": "Items/Shirt/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).png",
-      "blend": "Items/Shirt/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).blend",
-      "children": []
-    },
-    {
-      "label": "Rec Room Hoodie (Solid)",
-      "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange).png",
+      "label": "Rec Room Hoodie",
+      "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange).png",
       "blend": "",
       "children": [
         {
           "label": "Rec Room Hoodie (Black)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Black)/Rec Room Hoodie (Black).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Blue)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Blue)/Rec Room Hoodie (Blue).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Galaxy)",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Galaxy)/Rec Room Hoodie (Galaxy).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Gold)",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Gold)/Rec Room Hoodie (Gold).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Gray)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Gray)/Rec Room Hoodie (Grey).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Gray)/Rec Room Hoodie (Gray).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Gray)/Rec Room Hoodie (Grey).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Gray)/Rec Room Hoodie (Gray).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Green)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Green)/Rec Room Hoodie (Green).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Green)/Rec Room Hoodie (Green).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Green)/Rec Room Hoodie (Green).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Green)/Rec Room Hoodie (Green).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie (Juneteenth)",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Juneteenth)/Rec Room Hoodie (Juneteenth).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Orange)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Orange)/Rec Room Hoodie (Orange).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Pink)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Pink)/Rec Room Hoodie (Pink).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Purple)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Purple)/Rec Room Hoodie (Purple).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Red)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Red)/Rec Room Hoodie (Red).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (White)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (White)/Rec Room Hoodie (White - Starter Pack).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (White)/Rec Room Hoodie (White).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (White)/Rec Room Hoodie (White - Starter Pack).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (White)/Rec Room Hoodie (White).blend",
           "children": []
         },
         {
           "label": "Rec Room Hoodie (Yellow)",
-          "preview": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).png",
-          "blend": "Items/Shirt/Rec Room Hoodie (Solid)/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).blend",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie (Yellow)/Rec Room Hoodie (Yellow).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie (ANAM).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - WHM",
+          "preview": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie - WHM/Rec Room Hoodie - WHM (Women's History Month).png",
+          "blend": "Items/Shirt/Rec Room Hoodie/Rec Room Hoodie - WHM/Rec Room Hoodie.blend",
           "children": []
         }
       ]
-    },
-    {
-      "label": "Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)",
-      "preview": "Items/Shirt/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month).png",
-      "blend": "Items/Shirt/Rec Room Hoodie - ANAM (Autism & Neurodiversity Awareness Month)/Rec Room Hoodie (ANAM).blend",
-      "children": []
-    },
-    {
-      "label": "Rec Room Hoodie - WHM",
-      "preview": "Items/Shirt/Rec Room Hoodie - WHM/Rec Room Hoodie - WHM (Women's History Month).png",
-      "blend": "Items/Shirt/Rec Room Hoodie - WHM/Rec Room Hoodie.blend",
-      "children": []
     },
     {
       "label": "Rec Room Shirt",
@@ -4067,6 +4092,12 @@
           "label": "Royal Cape (Creators Contest 2)",
           "preview": "Items/Shoulder/Royal Cape/Royal Cape (Creators Contest 2)/Royal Cape (Creators Contest 2).png",
           "blend": "Items/Shoulder/Royal Cape/Royal Cape (Creators Contest 2)/Royal Cape (CreatorsContest2).blend",
+          "children": []
+        },
+        {
+          "label": "Royal Cape (Gold)",
+          "preview": "Items/Shoulder/Royal Cape/Royal Cape (Gold)/Royal Cape (Gold).png",
+          "blend": "Items/Shoulder/Royal Cape/Royal Cape (Gold)/Royal Cape (Gold).blend",
           "children": []
         },
         {
