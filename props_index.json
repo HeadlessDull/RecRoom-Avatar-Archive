@@ -7,6 +7,12 @@
       "children": []
     },
     {
+      "label": "Boombox",
+      "preview": "Props/Boombox/Boombox.png",
+      "blend": "Props/Boombox/Boombox.blend",
+      "children": []
+    },
+    {
       "label": "Bucket",
       "preview": "Props/Bucket/Bucket.png",
       "blend": "Props/Bucket/Bucket.blend",
@@ -28,6 +34,24 @@
       "label": "Coffee Pot",
       "preview": "Props/Coffee Pot/CoffeePot.png",
       "blend": "Props/Coffee Pot/CoffeePot.blend",
+      "children": []
+    },
+    {
+      "label": "Dart",
+      "preview": "Props/Dart/Dart.png",
+      "blend": "Props/Dart/Dart.blend",
+      "children": []
+    },
+    {
+      "label": "Eraser",
+      "preview": "Props/Eraser/Eraser.png",
+      "blend": "Props/Eraser/Eraser.blend",
+      "children": []
+    },
+    {
+      "label": "Eraser Marker",
+      "preview": "Props/Eraser Marker/EraserMarker.png",
+      "blend": "Props/Eraser Marker/EraserMarker.blend",
       "children": []
     },
     {
@@ -76,6 +100,12 @@
       "label": "MakerPen",
       "preview": "Props/MakerPen/Makerpen.png",
       "blend": "Props/MakerPen/Makerpen.blend",
+      "children": []
+    },
+    {
+      "label": "Marker",
+      "preview": "Props/Marker/Marker.png",
+      "blend": "Props/Marker/Marker.blend",
       "children": []
     },
     {
@@ -152,6 +182,12 @@
       ]
     },
     {
+      "label": "Punching Dummy",
+      "preview": "Props/Punching Dummy/PunchingDummy.png",
+      "blend": "Props/Punching Dummy/PunchingDummy.blend",
+      "children": []
+    },
+    {
       "label": "Quest Sword",
       "preview": "Props/Quest Sword/Sword3.png",
       "blend": "",
@@ -192,6 +228,24 @@
       "label": "Solo Cup",
       "preview": "Props/Solo Cup/Cup.png",
       "blend": "Props/Solo Cup/Cup.blend",
+      "children": []
+    },
+    {
+      "label": "Trash Bin",
+      "preview": "Props/Trash Bin/TrashBin.png",
+      "blend": "Props/Trash Bin/TrashBin.blend",
+      "children": []
+    },
+    {
+      "label": "Water Bottle",
+      "preview": "Props/Water Bottle/WaterBottle.png",
+      "blend": "Props/Water Bottle/WaterBottle.blend",
+      "children": []
+    },
+    {
+      "label": "White Board",
+      "preview": "Props/White Board/WhiteBoard.png",
+      "blend": "Props/White Board/WhiteBoard.blend",
       "children": []
     }
   ]
