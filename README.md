@@ -156,7 +156,8 @@ Each User has a link and/or discord profile for you to acess
 <table>
 </td>
   <tr>
-    <td><img width="100" height="100" alt="RRVRCP_4" src="https://github.com/user-attachments/assets/eae8f85e-fc7f-4dae-b048-e662964c3d9f" /></td>
+    <td><img width="100" height="100" alt="6557a574f244205056dbe58774eb92e9" src="https://github.com/user-attachments/assets/69713c26-c749-4fd5-8c1e-7a90b6d64197" />
+</td>
     <td valign="middle">
       <strong>Usagi</strong>: Unity Face Animation | Item Coloring Script System<br/>
       <sub>Discord: gameofcharades</sub>
