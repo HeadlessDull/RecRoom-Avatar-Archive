@@ -49,12 +49,6 @@
       "children": []
     },
     {
-      "label": "Eraser Marker",
-      "preview": "Props/Eraser Marker/EraserMarker.png",
-      "blend": "Props/Eraser Marker/EraserMarker.blend",
-      "children": []
-    },
-    {
       "label": "Ham",
       "preview": "Props/Ham/Ham.png",
       "blend": "Props/Ham/Ham.blend",
@@ -104,9 +98,22 @@
     },
     {
       "label": "Marker",
-      "preview": "Props/Marker/Marker.png",
-      "blend": "Props/Marker/Marker.blend",
-      "children": []
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Eraser Marker",
+          "preview": "Props/Marker/Eraser Marker/EraserMarker.png",
+          "blend": "Props/Marker/Eraser Marker/EraserMarker.blend",
+          "children": []
+        },
+        {
+          "label": "Marker",
+          "preview": "Props/Marker/Marker/Marker.png",
+          "blend": "Props/Marker/Marker/Marker.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Microphone",
