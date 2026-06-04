@@ -158,7 +158,7 @@ Each User has a link and/or discord profile for you to acess
   <tr>
     <td><img width="100" height="100" alt="RRVRCP_4" src="https://github.com/user-attachments/assets/eae8f85e-fc7f-4dae-b048-e662964c3d9f" /></td>
     <td valign="middle">
-      <strong>Usagi</strong>: Unity Face Animation System<br/>
+      <strong>Usagi</strong>: Unity Face Animation | Item Coloring Script System<br/>
       <sub>Discord: gameofcharades</sub>
     </td>
   </tr>
