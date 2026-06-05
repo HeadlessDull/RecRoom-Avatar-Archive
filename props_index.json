@@ -128,15 +128,15 @@
       "children": []
     },
     {
-      "label": "Paintball Gernade Launcher",
-      "preview": "Props/Paintball Gernade Launcher/Paintball.png",
-      "blend": "Props/Paintball Gernade Launcher/luancher.blend",
+      "label": "Paintball Grenade Launcher",
+      "preview": "Props/Paintball Grenade Launcher/Paintball.png",
+      "blend": "Props/Paintball Grenade Launcher/luancher.blend",
       "children": []
     },
     {
-      "label": "Paintball PaintThrower",
-      "preview": "Props/Paintball PaintThrower/Paintball.png",
-      "blend": "Props/Paintball PaintThrower/Paintball.blend",
+      "label": "Paintball Paint Thrower",
+      "preview": "Props/Paintball Paint Thrower/Paintball.png",
+      "blend": "Props/Paintball Paint Thrower/Paintball.blend",
       "children": []
     },
     {
