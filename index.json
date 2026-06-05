@@ -1508,6 +1508,12 @@
       ]
     },
     {
+      "label": "Gladiator Helmet",
+      "preview": "Items/Hat/Gladiator Helmet/Gladiator Helmet.png",
+      "blend": "Items/Hat/Gladiator Helmet/Gladiator Helm.blend",
+      "children": []
+    },
+    {
       "label": "Graduation Cap",
       "preview": "Items/Hat/Graduation Cap/Graduation Cap.png",
       "blend": "",
@@ -1615,6 +1621,49 @@
           "label": "Lumberjack Cap (Red)",
           "preview": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Red)/Lumberjack Cap (Red).png",
           "blend": "Items/Hat/Lumberjack Cap/Lumberjack Cap (Red)/Cap.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Mobster Hat",
+      "preview": "Items/Hat/Mobster Hat/Mobster Hat (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Mobster Hat (Black)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (Black)/Mobster Hat (Black).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (Black)/hat.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Hat (Brown)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (Brown)/Mobster Hat (Brown).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (Brown)/hat.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Hat (Creators Contest 2)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (Creators Contest 2)/Mobster Hat (Creators Contest 2).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (Creators Contest 2)/hat.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Hat (Grey)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (Grey)/Mobster Hat (Grey).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (Grey)/hat.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Hat (Purple)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (Purple)/Mobster Hat (Purple).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (Purple)/hat.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Hat (White)",
+          "preview": "Items/Hat/Mobster Hat/Mobster Hat (White)/Mobster Hat (White).png",
+          "blend": "Items/Hat/Mobster Hat/Mobster Hat (White)/hat.blend",
           "children": []
         }
       ]
@@ -1828,6 +1877,31 @@
           "label": "Anime Warrior Pants (Red)",
           "preview": "Items/Legs/Anime Warrior Pants/Anime Warrior Pants (Red)/pants.png",
           "blend": "Items/Legs/Anime Warrior Pants/Anime Warrior Pants (Red)/Anime Warrior Pants (Red).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Baggy Pants",
+      "preview": "Items/Legs/Baggy Pants/Untitled.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Baggy Black Pants",
+          "preview": "Items/Legs/Baggy Pants/Baggy Black Pants/Untitled.png",
+          "blend": "Items/Legs/Baggy Pants/Baggy Black Pants/Pants.blend",
+          "children": []
+        },
+        {
+          "label": "Baggy Khaki Pants",
+          "preview": "Items/Legs/Baggy Pants/Baggy Khaki Pants/Untitled.png",
+          "blend": "Items/Legs/Baggy Pants/Baggy Khaki Pants/Pants.blend",
+          "children": []
+        },
+        {
+          "label": "Baggy Pants",
+          "preview": "Items/Legs/Baggy Pants/Baggy Pants/Untitled.png",
+          "blend": "Items/Legs/Baggy Pants/Baggy Pants/Pants.blend",
           "children": []
         }
       ]
@@ -2861,6 +2935,12 @@
       "children": []
     },
     {
+      "label": "Gladiator Armor",
+      "preview": "Items/Shirt/Gladiator Armor/Gladiator Armor.png",
+      "blend": "Items/Shirt/Gladiator Armor/Gladiator Armor.blend",
+      "children": []
+    },
+    {
       "label": "Golfer Shirt",
       "preview": "Items/Shirt/Golfer Shirt/Golfer Shirt (Tan).png",
       "blend": "",
@@ -3004,6 +3084,43 @@
       "children": []
     },
     {
+      "label": "Mobster Suit",
+      "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Herringbone).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Mobster Suit (Creators Contest 2)",
+          "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Creators Contest 2)/Mobster Suit (Creators Contest 2).png",
+          "blend": "Items/Shirt/Mobster Suit/Mobster Suit (Creators Contest 2)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Suit (Hearts)",
+          "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Hearts)/Mobster Suit (Hearts).png",
+          "blend": "Items/Shirt/Mobster Suit/Mobster Suit (Hearts)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Suit (Herringbone)",
+          "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Herringbone)/Mobster Suit (Herringbone).png",
+          "blend": "Items/Shirt/Mobster Suit/Mobster Suit (Herringbone)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Suit (Pinstripe)",
+          "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Pinstripe)/Mobster Suit (Pinstripe).png",
+          "blend": "Items/Shirt/Mobster Suit/Mobster Suit (Pinstripe)/Suit.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Suit (Purple)",
+          "preview": "Items/Shirt/Mobster Suit/Mobster Suit (Purple)/Mobster Suit (Purple).png",
+          "blend": "Items/Shirt/Mobster Suit/Mobster Suit (Purple)/Suit.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Mothman T-shirt",
       "preview": "Items/Shirt/Mothman T-shirt/Mothmantee.png",
       "blend": "Items/Shirt/Mothman T-shirt/Mothmantee.blend",
@@ -3101,6 +3218,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Puffy Bear Jacket",
+      "preview": "Items/Shirt/Puffy Bear Jacket/Untitled2.png",
+      "blend": "Items/Shirt/Puffy Bear Jacket/Bear Jacket.blend",
+      "children": []
     },
     {
       "label": "Punk Jacket",
@@ -4072,6 +4195,12 @@
       ]
     },
     {
+      "label": "Gladiator Cape",
+      "preview": "Items/Shoulder/Gladiator Cape/Gladiator Cape.png",
+      "blend": "Items/Shoulder/Gladiator Cape/Gladiator Cape.blend",
+      "children": []
+    },
+    {
       "label": "Messenger Bag",
       "preview": "Items/Shoulder/Messenger Bag/Messenger Bag.png",
       "blend": "Items/Shoulder/Messenger Bag/Bag.blend",
@@ -4568,6 +4697,37 @@
       "children": []
     },
     {
+      "label": "Mobster Cuffs",
+      "preview": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Herringbone).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Mobster Cuffs (Herringbone)",
+          "preview": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Herringbone)/Mobster Cuffs (Herringbone).png",
+          "blend": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Herringbone)/Cuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Cuffs (Pinstripe)",
+          "preview": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Pinstripe)/Mobster Cuffs (Pinstripe).png",
+          "blend": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Pinstripe)/Cuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Cuffs (Premium)",
+          "preview": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Premium)/Mobster Cuffs (Premium).png",
+          "blend": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Premium)/Cuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Mobster Cuffs (Purple)",
+          "preview": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Purple)/Mobster Cuffs (Purple).png",
+          "blend": "Items/Wrist/Mobster Cuffs/Mobster Cuffs (Purple)/Cuffs.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Paintball Gloves",
       "preview": "Items/Wrist/Paintball Gloves/Paintball Gloves.png",
       "blend": "",
@@ -4752,6 +4912,145 @@
       "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
       "blend": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.blend",
       "children": []
+    },
+    {
+      "label": "Wristbands",
+      "preview": "Items/Wrist/Wristbands/Wristbands (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Wristbands (Army Green)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Army Green)/Wristbands (Army Green).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Army Green)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Baby Pink)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Baby Pink)/Wristbands (Baby Pink).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Baby Pink)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Black)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Black)/Wristbands (Black).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Black)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Blue)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Blue)/Wristbands (Blue).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Blue)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Cream)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Cream)/Wristbands (Cream).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Cream)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Gold)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Gold)/Wristbands (Gold).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Gold)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Green)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Green)/Wristbands (Green).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Green)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Grey)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Grey)/Wristbands (Grey).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Grey)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Light Blue)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Light Blue)/Wristbands (Light Blue).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Light Blue)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Light Purple)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Light Purple)/Wristbands (Light Purple).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Light Purple)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Lime)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Lime)/Wristbands (Lime).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Lime)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Mint)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Mint)/Wristbands (Mint).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Mint)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Orange)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Orange)/Wristbands (Orange).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Orange)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Pink)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Pink)/Wristbands (Pink).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Pink)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Prussian Blue)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Prussian Blue)/Wristbands (Prussian Blue).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Prussian Blue)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Pure Red)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Pure Red)/Wristbands (Pure Red).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Pure Red)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Purple)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Purple)/Wristbands (Purple).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Purple)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Red)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Red)/Wristbands (Red).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Red)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Sienna)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Sienna)/Wristbands (Sienna).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Sienna)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Teal)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Teal)/Wristbands (Teal).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Teal)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (White)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (White)/Wristbands (White).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (White)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (Yellow)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (Yellow)/Wristbands (Yellow).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (Yellow)/wristband.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Zombie Hands",
