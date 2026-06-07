@@ -1861,6 +1861,55 @@
       "children": []
     },
     {
+      "label": "Witch Hunter Hat",
+      "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Witch Hunter Hat (Black)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Black)/Witch Hunter Hat (Black).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Black)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (Blue)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Blue)/Witch Hunter Hat (Blue).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Blue)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (Green)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Green)/Witch Hunter Hat (Green).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Green)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (Leather)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Leather)/Witch Hunter Hat (Leather).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Leather)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (Purple)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Purple)/Witch Hunter Hat (Purple).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Purple)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (Red)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Red)/Witch Hunter Hat (Red).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Red)/witch hunter hat.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Hat (White)",
+          "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (White)/Witch Hunter Hat (White).png",
+          "blend": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (White)/witch hunter hat.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Zombie Head",
       "preview": "Items/Hat/Zombie Head/Zombie Head.png",
       "blend": "Items/Hat/Zombie Head/Zombie Head.blend",
@@ -3047,6 +3096,43 @@
       ]
     },
     {
+      "label": "Letter Jacket",
+      "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Letter Jacket (Black)",
+          "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Black)/Letter Jacket (Black).png",
+          "blend": "Items/Shirt/Letter Jacket/Letter Jacket (Black)/letterjacket.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket (Blue)",
+          "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Blue)/Letter Jacket (Blue).png",
+          "blend": "Items/Shirt/Letter Jacket/Letter Jacket (Blue)/letterjacket.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket (Green)",
+          "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Green)/Letter Jacket (Green).png",
+          "blend": "Items/Shirt/Letter Jacket/Letter Jacket (Green)/letterjacket.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket (Purple)",
+          "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Purple)/Letter Jacket (Purple).png",
+          "blend": "Items/Shirt/Letter Jacket/Letter Jacket (Purple)/letterjacket.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket (Red)",
+          "preview": "Items/Shirt/Letter Jacket/Letter Jacket (Red)/Letter Jacket (Red).png",
+          "blend": "Items/Shirt/Letter Jacket/Letter Jacket (Red)/letterjacket.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Letterman 87 Jacket",
       "preview": "Items/Shirt/Letterman 87 Jacket/cap.png",
       "blend": "Items/Shirt/Letterman 87 Jacket/jacket.blend",
@@ -3759,6 +3845,55 @@
       "preview": "Items/Shirt/Update Tee/shirt.png",
       "blend": "Items/Shirt/Update Tee/Update Tee.blend",
       "children": []
+    },
+    {
+      "label": "Witch Hunter Torso",
+      "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Witch Hunter Torso (Black)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Black)/Witch Hunter Torso (Black).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Black)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (Blue)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Blue)/Witch Hunter Torso (Blue).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Blue)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (Green)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Green)/Witch Hunter Torso (Green).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Green)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (Leather)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Leather)/Witch Hunter Torso (Leather).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Leather)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (Purple)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Purple)/Witch Hunter Torso (Purple).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Purple)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (Red)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Red)/Witch Hunter Torso (Red).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Red)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Torso (White)",
+          "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (White)/Witch Hunter Torso (White).png",
+          "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (White)/shirt.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Zombie Vest",
@@ -4685,6 +4820,43 @@
       ]
     },
     {
+      "label": "Letter Jacket Cuffs",
+      "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Letter Jacket Cuffs (Black)",
+          "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Black)/Letter Jacket Cuffs (Black).png",
+          "blend": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Black)/Lettercuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket Cuffs (Blue)",
+          "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Blue)/Letter Jacket Cuffs (Blue).png",
+          "blend": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Blue)/Lettercuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket Cuffs (Green)",
+          "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Green)/Letter Jacket Cuffs (Green).png",
+          "blend": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Green)/Lettercuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket Cuffs (Purple)",
+          "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Purple)/Letter Jacket Cuffs (Purple).png",
+          "blend": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Purple)/Lettercuffs.blend",
+          "children": []
+        },
+        {
+          "label": "Letter Jacket Cuffs (Red)",
+          "preview": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Red)/Letter Jacket Cuffs (Red).png",
+          "blend": "Items/Wrist/Letter Jacket Cuffs/Letter Jacket Cuffs (Red)/Lettercuffs.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Letterman 87 Ring",
       "preview": "Items/Wrist/Letterman 87 Ring/cap.png",
       "blend": "Items/Wrist/Letterman 87 Ring/ring.blend",
@@ -4912,6 +5084,55 @@
       "preview": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.png",
       "blend": "Items/Wrist/Werewolf Wrist/Werewolf Wrist.blend",
       "children": []
+    },
+    {
+      "label": "Witch Hunter Gloves",
+      "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Witch Hunter Gloves (Black)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Black)/Witch Hunter Gloves (Black).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Black)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (Blue)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Blue)/Witch Hunter Gloves (Blue).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Blue)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (Green)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Green)/Witch Hunter Gloves (Green).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Green)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (Leather)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Leather)/Witch Hunter Gloves (Leather).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Leather)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (Purple)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Purple)/Witch Hunter Gloves (Purple).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Purple)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (Red)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Red)/Witch Hunter Gloves (Red).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (Red)/Gloves.blend",
+          "children": []
+        },
+        {
+          "label": "Witch Hunter Gloves (White)",
+          "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (White)/Witch Hunter Gloves (White).png",
+          "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (White)/Gloves.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Wristbands",
