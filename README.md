@@ -126,6 +126,15 @@ Each User has a link and/or discord profile for you to acess
       <strong><a href="https://github.com/AmongUs50">Anna</a></strong>: Co-Manager | Asset Exporting/Setup | Blender Shaders Help<br/>
       <sub>Discord: thefinalcore</sub>
     </td>
+    </td>
+  <tr>
+    <td><img width="100" height="100" alt="6557a574f244205056dbe58774eb92e9" src="https://github.com/user-attachments/assets/69713c26-c749-4fd5-8c1e-7a90b6d64197" />
+</td>
+    <td valign="middle">
+      <strong>Usagi</strong>: Unity Face Animation | Item Coloring Script System | Asset Exporting<br/>
+      <sub>Discord: gameofcharades</sub>
+    </td>
+  </tr>
     <tr>
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/bcc183dc-23e5-4eb9-8fc1-52f2abfd93d5" />
   </td>
@@ -154,15 +163,6 @@ Each User has a link and/or discord profile for you to acess
 
 # Helpful People
 <table>
-</td>
-  <tr>
-    <td><img width="100" height="100" alt="6557a574f244205056dbe58774eb92e9" src="https://github.com/user-attachments/assets/69713c26-c749-4fd5-8c1e-7a90b6d64197" />
-</td>
-    <td valign="middle">
-      <strong>Usagi</strong>: Unity Face Animation | Item Coloring Script System<br/>
-      <sub>Discord: gameofcharades</sub>
-    </td>
-  </tr>
 </td>
   <tr>
     <td><img width="100" height="100" alt="cfb4a0c587ad2bbd89404698b3fa0e92" src="https://github.com/user-attachments/assets/48b3f912-ca31-4f3d-a528-1e55299087ba" /></td>
