@@ -1,9 +1,7 @@
-[![release](https://img.shields.io/github/v/release/HeadlessDull/RecRoom-Avatar-Archive)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/releases)
 [![status](https://img.shields.io/badge/status-WIP-orange)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive)
 [![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/download/lts/4-5/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Tutorials-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLqIwMgSelNP18ySgdrIFfycjwcn67o0Vo)
-[![stars](https://img.shields.io/github/stars/HeadlessDull/RecRoom-Avatar-Archive)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive/stargazers)
 # RecRoom Avatar Archive
 
 A Blender addon made to help with creating and recreating Rec Room Avatars!
@@ -177,6 +175,14 @@ Each User has a link and/or discord profile for you to acess
     <td valign="middle">
       <strong>Brigadere</strong>: In Game Exporting<br/>
       <sub>Discord: brigadere</sub>
+    </td>
+  </tr>
+</td>
+  <tr>
+    <td><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb6f7873-0524-42ed-8018-65b952fda3e8" /></td>
+    <td valign="middle">
+      <strong>so-rewd</strong>: In Game Exporting<br/>
+      <sub>Discord: sorewd03</sub>
     </td>
   </tr>
 </td>
