@@ -1,9 +1,21 @@
 {
   "Props": [
     {
+      "label": "Andy Standee",
+      "preview": "Props/Andy Standee/AndyStandee.png",
+      "blend": "Props/Andy Standee/AndyStandee.blend",
+      "children": []
+    },
+    {
       "label": "BasketBall",
       "preview": "Props/BasketBall/Basketball.png",
       "blend": "Props/BasketBall/BasketBall.blend",
+      "children": []
+    },
+    {
+      "label": "Bill Board",
+      "preview": "Props/Bill Board/BillBoard.png",
+      "blend": "Props/Bill Board/BillBoard.blend",
       "children": []
     },
     {
@@ -40,6 +52,12 @@
       "label": "Dart",
       "preview": "Props/Dart/Dart.png",
       "blend": "Props/Dart/Dart.blend",
+      "children": []
+    },
+    {
+      "label": "Dodgeball",
+      "preview": "Props/Dodgeball/Dodgeball.png",
+      "blend": "Props/Dodgeball/Dodgeball.blend",
       "children": []
     },
     {
@@ -189,6 +207,12 @@
       ]
     },
     {
+      "label": "Proxy Roxy",
+      "preview": "Props/Proxy Roxy/ProxyRoxy.png",
+      "blend": "Props/Proxy Roxy/ProxyRoxy.blend",
+      "children": []
+    },
+    {
       "label": "Punching Dummy",
       "preview": "Props/Punching Dummy/PunchingDummy.png",
       "blend": "Props/Punching Dummy/PunchingDummy.blend",
@@ -229,6 +253,12 @@
       "label": "Rec Rally Buggy (GoKart)",
       "preview": "Props/Rec Rally Buggy (GoKart)/RallyBuggy.png",
       "blend": "Props/Rec Rally Buggy (GoKart)/GoKart.blend",
+      "children": []
+    },
+    {
+      "label": "Sandy Standee",
+      "preview": "Props/Sandy Standee/SandyStandee.png",
+      "blend": "Props/Sandy Standee/SandyStandee.blend",
       "children": []
     },
     {
