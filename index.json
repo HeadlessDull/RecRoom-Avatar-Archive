@@ -190,7 +190,7 @@
         {
           "label": "Acetate Glasses (Amber)",
           "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
-          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).blend",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
           "children": []
         },
         {
@@ -3605,17 +3605,10 @@
       ]
     },
     {
-      "label": "Rec Room Shirt",
-      "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White).png",
-      "blend": "",
-      "children": [
-        {
-          "label": "Rec Room Shirt (Crew Neck, White)",
-          "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).png",
-          "blend": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).blend",
-          "children": []
-        }
-      ]
+      "label": "Rec Room Shirt (Crew Neck, White)",
+      "preview": "Items/Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).png",
+      "blend": "Items/Shirt/Rec Room Shirt (Crew Neck, White)/Rec Room Shirt (Crew Neck, White).blend",
+      "children": []
     },
     {
       "label": "Robo Logo Shirt",
@@ -5312,6 +5305,12 @@
           "label": "Wristbands (Red)",
           "preview": "Items/Wrist/Wristbands/Wristbands (Red)/Wristbands (Red).png",
           "blend": "Items/Wrist/Wristbands/Wristbands (Red)/wristband.blend",
+          "children": []
+        },
+        {
+          "label": "Wristbands (SciFi)",
+          "preview": "Items/Wrist/Wristbands/Wristbands (SciFi)/Wristbands (SciFi).png",
+          "blend": "Items/Wrist/Wristbands/Wristbands (SciFi)/wristband.blend",
           "children": []
         },
         {
