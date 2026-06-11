@@ -1,9 +1,27 @@
 {
   "NPCs": [
     {
-      "label": "Green Sword Goblin",
-      "preview": "NPCs/Green Sword Goblin/Goblin.png",
-      "blend": "NPCs/Green Sword Goblin/GreenGoblin.blend",
+      "label": "Elite Flying Goblin",
+      "preview": "NPCs/Elite Flying Goblin/Flyinggoblin.png",
+      "blend": "NPCs/Elite Flying Goblin/FlyingGoblin.blend",
+      "children": []
+    },
+    {
+      "label": "Elite Ground Goblin",
+      "preview": "NPCs/Elite Ground Goblin/goblin.png",
+      "blend": "NPCs/Elite Ground Goblin/Goblin.blend",
+      "children": []
+    },
+    {
+      "label": "Green Flying Goblin",
+      "preview": "NPCs/Green Flying Goblin/Flyinggoblin.png",
+      "blend": "NPCs/Green Flying Goblin/FlyingGoblin.blend",
+      "children": []
+    },
+    {
+      "label": "Green Ground Goblin",
+      "preview": "NPCs/Green Ground Goblin/Goblin.png",
+      "blend": "NPCs/Green Ground Goblin/GreenGoblin.blend",
       "children": []
     }
   ]
