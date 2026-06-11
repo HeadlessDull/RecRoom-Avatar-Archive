@@ -1,31 +1,4 @@
 #!/usr/bin/env python3
-"""
-build_face_index.py
-
-Expected folder layout:
-
-    FaceSheets/
-        Eyes/
-            Lion/
-                Eye_Inner_SpriteSheet.png
-                preview.png
-            Cute/
-                Eye_Inner_SpriteSheet.png
-                preview.png
-        Mouths/
-            Lion/
-                Mouth_Lion_SpriteSheet.png
-                preview.png
-            DimplesDown/
-                Mouth_DimplesDown_SpriteSheet.png
-                preview.png
-
-Rules:
-- Top-level folders under FaceSheets/ are categories (Eyes, Mouths).
-- Each sub-folder is one gallery item. Label comes from the folder name.
-- The single PNG that is NOT named "preview.png" is the sprite sheet.
-- preview.png is optional — omit it and the gallery shows a placeholder icon.
-"""
 
 import os, json
 

@@ -1,29 +1,5 @@
 #!/usr/bin/env python3
-"""
-build_index.py
---------------
 
-Folder layouts supported:
-
-    DIRECT — .blend at top level:
-        ItemName/
-            ItemName.blend
-            ItemName.png        (optional preview)
-
-    VARIANT GROUP — sub-folders are variants:
-        ItemName/
-            ItemName.png        (optional group preview)
-            Variant A/
-                Variant A.blend
-                Variant A.png
-            Variant B/
-                Variant B.blend
-            ...                 (unlimited variants)
-
-    MIXED — has BOTH a .blend AND sub-folders:
-        Treated as VARIANT GROUP. The top-level .blend is ignored so that
-        adding variants to an existing direct item always works correctly.
-"""
 
 import os, json, hashlib
 
