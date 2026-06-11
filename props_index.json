@@ -1,3 +1,367 @@
 {
-
+  "Weapons": [
+    {
+      "label": "Laser Beam Cannon",
+      "preview": "Props/Weapons/Laser Beam Cannon/Lasercannon.png",
+      "blend": "Props/Weapons/Laser Beam Cannon/BeamCannon.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Burst Rifle",
+      "preview": "Props/Weapons/Laser Burst Rifle/BurstGun.png",
+      "blend": "Props/Weapons/Laser Burst Rifle/Burst Rifle.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Launcher",
+      "preview": "Props/Weapons/Laser Launcher/Laser.png",
+      "blend": "Props/Weapons/Laser Launcher/LaserLauncher.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Pistol",
+      "preview": "Props/Weapons/Laser Pistol/Pistol.png",
+      "blend": "Props/Weapons/Laser Pistol/Laser Pistol.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Railgun",
+      "preview": "Props/Weapons/Laser Railgun/Railgun.png",
+      "blend": "Props/Weapons/Laser Railgun/Railgun.blend",
+      "children": []
+    },
+    {
+      "label": "Laser Shotgun",
+      "preview": "Props/Weapons/Laser Shotgun/Lasershotgun.png",
+      "blend": "Props/Weapons/Laser Shotgun/Laser Shotgun.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Burst Rifle",
+      "preview": "Props/Weapons/Paintball Burst Rifle/Paintball.png",
+      "blend": "Props/Weapons/Paintball Burst Rifle/Paintball.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Grenade Launcher",
+      "preview": "Props/Weapons/Paintball Grenade Launcher/Paintball.png",
+      "blend": "Props/Weapons/Paintball Grenade Launcher/luancher.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Paint Thrower",
+      "preview": "Props/Weapons/Paintball Paint Thrower/Paintball.png",
+      "blend": "Props/Weapons/Paintball Paint Thrower/Paintball.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Pistol",
+      "preview": "Props/Weapons/Paintball Pistol/PaintballPistol.png",
+      "blend": "Props/Weapons/Paintball Pistol/PaintballPistol.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Shotgun",
+      "preview": "Props/Weapons/Paintball Shotgun/Paintball.png",
+      "blend": "Props/Weapons/Paintball Shotgun/Shotgun.blend",
+      "children": []
+    },
+    {
+      "label": "Paintball Sniper",
+      "preview": "Props/Weapons/Paintball Sniper/Paintball.png",
+      "blend": "Props/Weapons/Paintball Sniper/sniper.blend",
+      "children": []
+    },
+    {
+      "label": "Quest Sword",
+      "preview": "Props/Weapons/Quest Sword/Sword3.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Sword1",
+          "preview": "Props/Weapons/Quest Sword/Sword1/Sword1.png",
+          "blend": "Props/Weapons/Quest Sword/Sword1/Sword1.blend",
+          "children": []
+        },
+        {
+          "label": "Sword2",
+          "preview": "Props/Weapons/Quest Sword/Sword2/Sword2.png",
+          "blend": "Props/Weapons/Quest Sword/Sword2/Sword2.blend",
+          "children": []
+        },
+        {
+          "label": "Sword3",
+          "preview": "Props/Weapons/Quest Sword/Sword3/Sword3.png",
+          "blend": "Props/Weapons/Quest Sword/Sword3/Sword3.blend",
+          "children": []
+        },
+        {
+          "label": "Sword4",
+          "preview": "Props/Weapons/Quest Sword/Sword4/Sword4.png",
+          "blend": "Props/Weapons/Quest Sword/Sword4/Sword4.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Shield",
+      "preview": "Props/Weapons/Shield/Shield.png",
+      "blend": "Props/Weapons/Shield/Shield.blend",
+      "children": []
+    }
+  ],
+  "Toys": [
+    {
+      "label": "BasketBall",
+      "preview": "Props/Toys/BasketBall/Basketball.png",
+      "blend": "Props/Toys/BasketBall/BasketBall.blend",
+      "children": []
+    },
+    {
+      "label": "Boombox",
+      "preview": "Props/Toys/Boombox/Boombox.png",
+      "blend": "Props/Toys/Boombox/Boombox.blend",
+      "children": []
+    },
+    {
+      "label": "Bucket",
+      "preview": "Props/Toys/Bucket/Bucket.png",
+      "blend": "Props/Toys/Bucket/Bucket.blend",
+      "children": []
+    },
+    {
+      "label": "Cafe Mug",
+      "preview": "Props/Toys/Cafe Mug/CafeMug.png",
+      "blend": "Props/Toys/Cafe Mug/Cafe Mug.blend",
+      "children": []
+    },
+    {
+      "label": "Coffee Pot",
+      "preview": "Props/Toys/Coffee Pot/CoffeePot.png",
+      "blend": "Props/Toys/Coffee Pot/CoffeePot.blend",
+      "children": []
+    },
+    {
+      "label": "Dart",
+      "preview": "Props/Toys/Dart/Dart.png",
+      "blend": "Props/Toys/Dart/Dart.blend",
+      "children": []
+    },
+    {
+      "label": "Dodgeball",
+      "preview": "Props/Toys/Dodgeball/Dodgeball.png",
+      "blend": "Props/Toys/Dodgeball/Dodgeball.blend",
+      "children": []
+    },
+    {
+      "label": "Eraser",
+      "preview": "Props/Toys/Eraser/Eraser.png",
+      "blend": "Props/Toys/Eraser/Eraser.blend",
+      "children": []
+    },
+    {
+      "label": "Ham",
+      "preview": "Props/Toys/Ham/Ham.png",
+      "blend": "Props/Toys/Ham/Ham.blend",
+      "children": []
+    },
+    {
+      "label": "MakerPen",
+      "preview": "Props/Toys/MakerPen/Makerpen.png",
+      "blend": "Props/Toys/MakerPen/Makerpen.blend",
+      "children": []
+    },
+    {
+      "label": "Marker",
+      "preview": "Props/Toys/Marker/Marker.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Eraser Marker",
+          "preview": "Props/Toys/Marker/Eraser Marker/EraserMarker.png",
+          "blend": "Props/Toys/Marker/Eraser Marker/EraserMarker.blend",
+          "children": []
+        },
+        {
+          "label": "Marker",
+          "preview": "Props/Toys/Marker/Marker/Marker.png",
+          "blend": "Props/Toys/Marker/Marker/Marker.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Microphone",
+      "preview": "Props/Toys/Microphone/Microphone.png",
+      "blend": "Props/Toys/Microphone/Microphone.blend",
+      "children": []
+    },
+    {
+      "label": "Plates",
+      "preview": "Props/Toys/Plates/Plate.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Pirate Plate",
+          "preview": "Props/Toys/Plates/Pirate Plate/Plate.png",
+          "blend": "Props/Toys/Plates/Pirate Plate/Plate (Pirate).blend",
+          "children": []
+        },
+        {
+          "label": "Pirate Plate (Fractured)",
+          "preview": "Props/Toys/Plates/Pirate Plate (Fractured)/Plate.png",
+          "blend": "Props/Toys/Plates/Pirate Plate (Fractured)/Plate (Pirate).blend",
+          "children": []
+        },
+        {
+          "label": "Rec Center Plate",
+          "preview": "Props/Toys/Plates/Rec Center Plate/Plate.png",
+          "blend": "Props/Toys/Plates/Rec Center Plate/Plate.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Center Plate (Fractured)",
+          "preview": "Props/Toys/Plates/Rec Center Plate (Fractured)/Plate.png",
+          "blend": "Props/Toys/Plates/Rec Center Plate (Fractured)/Plate.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Rec Rally Buggy (GoKart)",
+      "preview": "Props/Toys/Rec Rally Buggy (GoKart)/RallyBuggy.png",
+      "blend": "Props/Toys/Rec Rally Buggy (GoKart)/GoKart.blend",
+      "children": []
+    },
+    {
+      "label": "Solo Cup",
+      "preview": "Props/Toys/Solo Cup/Cup.png",
+      "blend": "Props/Toys/Solo Cup/Cup.blend",
+      "children": []
+    },
+    {
+      "label": "Water Bottle",
+      "preview": "Props/Toys/Water Bottle/WaterBottle.png",
+      "blend": "Props/Toys/Water Bottle/WaterBottle.blend",
+      "children": []
+    }
+  ],
+  "Decoration": [
+    {
+      "label": "Andy Standee",
+      "preview": "Props/Decoration/Andy Standee/AndyStandee.png",
+      "blend": "Props/Decoration/Andy Standee/AndyStandee.blend",
+      "children": []
+    },
+    {
+      "label": "Bill Board",
+      "preview": "Props/Decoration/Bill Board/BillBoard.png",
+      "blend": "Props/Decoration/Bill Board/BillBoard.blend",
+      "children": []
+    },
+    {
+      "label": "Book",
+      "preview": "Props/Decoration/Book/Book.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Book (Blue)",
+          "preview": "Props/Decoration/Book/Book (Blue)/Book_Blue.png",
+          "blend": "Props/Decoration/Book/Book (Blue)/Book_Blue.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Green)",
+          "preview": "Props/Decoration/Book/Book (Green)/Book_Green.png",
+          "blend": "Props/Decoration/Book/Book (Green)/Book_Green.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Orange)",
+          "preview": "Props/Decoration/Book/Book (Orange)/Book_Orange.png",
+          "blend": "Props/Decoration/Book/Book (Orange)/Book_Orange.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Yellow)",
+          "preview": "Props/Decoration/Book/Book (Yellow)/Book_Yellow.png",
+          "blend": "Props/Decoration/Book/Book (Yellow)/Book_Yellow.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Cardboard Box",
+      "preview": "Props/Decoration/Cardboard Box/Box.png",
+      "blend": "Props/Decoration/Cardboard Box/Box.blend",
+      "children": []
+    },
+    {
+      "label": "Lockers",
+      "preview": "Props/Decoration/Lockers/Lockers.png",
+      "blend": "Props/Decoration/Lockers/Lockers.blend",
+      "children": []
+    },
+    {
+      "label": "Open Crate",
+      "preview": "Props/Decoration/Open Crate/OpenCrate.png",
+      "blend": "Props/Decoration/Open Crate/OpenCrate.blend",
+      "children": []
+    },
+    {
+      "label": "Prop Box",
+      "preview": "Props/Decoration/Prop Box/PropBox.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Prop Box (Rectangle)",
+          "preview": "Props/Decoration/Prop Box/Prop Box (Rectangle)/PropBox_Rectangle.png",
+          "blend": "Props/Decoration/Prop Box/Prop Box (Rectangle)/PropBox_Rectangle.blend",
+          "children": []
+        },
+        {
+          "label": "Prop Box (Square)",
+          "preview": "Props/Decoration/Prop Box/Prop Box (Square)/PropBox_Square.png",
+          "blend": "Props/Decoration/Prop Box/Prop Box (Square)/PropBox_Square.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Proxy Roxy",
+      "preview": "Props/Decoration/Proxy Roxy/ProxyRoxy.png",
+      "blend": "Props/Decoration/Proxy Roxy/ProxyRoxy.blend",
+      "children": []
+    },
+    {
+      "label": "Punching Dummy",
+      "preview": "Props/Decoration/Punching Dummy/PunchingDummy.png",
+      "blend": "Props/Decoration/Punching Dummy/PunchingDummy.blend",
+      "children": []
+    },
+    {
+      "label": "Sandy Standee",
+      "preview": "Props/Decoration/Sandy Standee/SandyStandee.png",
+      "blend": "Props/Decoration/Sandy Standee/SandyStandee.blend",
+      "children": []
+    },
+    {
+      "label": "Trash Bin",
+      "preview": "Props/Decoration/Trash Bin/TrashBin.png",
+      "blend": "Props/Decoration/Trash Bin/TrashBin.blend",
+      "children": []
+    },
+    {
+      "label": "White Board",
+      "preview": "Props/Decoration/White Board/WhiteBoard.png",
+      "blend": "Props/Decoration/White Board/WhiteBoard.blend",
+      "children": []
+    },
+    {
+      "label": "Wooden Bench",
+      "preview": "Props/Decoration/Wooden Bench/WoodenBench.png",
+      "blend": "Props/Decoration/Wooden Bench/WoodenBench.blend",
+      "children": []
+    }
+  ]
 }
