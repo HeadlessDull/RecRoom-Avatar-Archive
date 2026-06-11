@@ -2,6 +2,7 @@
 [![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/download/lts/4-5/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Tutorials-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLqIwMgSelNP18ySgdrIFfycjwcn67o0Vo)
+[![RecRoom World Archive](https://img.shields.io/badge/RECROOM-WORLD%20ARCHIVE-007ec6?logo=github&logoColor=white)](https://github.com/HeadlessDull/RecRoom-World-Archive)
 # RecRoom Avatar Archive
 
 A Blender addon made to help with creating and recreating Rec Room Avatars!
@@ -24,7 +25,7 @@ We've made an addon to easily recreate your Rec Room Avatar with just a few clic
 When opening the addon you will get a button to setup your scene for the rig:
 
 <div align="center">
-  <img width="242" height="93" alt="image" src="https://github.com/user-attachments/assets/15710c7a-22f7-4e61-aa94-1d35203b9a2c" />
+  <img width="243" height="95" alt="image" src="https://github.com/user-attachments/assets/16c5a66f-4e1e-41af-950e-b7c7598eb3db" />
 </div>
 
 With this rig you get support for both Full Body and Modern Bean Avatars, fully rigged and ready to animate, even with a Rig UI:
@@ -37,13 +38,13 @@ With this rig you get support for both Full Body and Modern Bean Avatars, fully 
 
 ## Item Search and Appending
 
-Under the rig setup you can load in avatar items from this GitHub repo without ever opening your browser
+Under the rig setup you can load in avatar items inside the Wardrobe Browser
 
 > You get to go through specific item slots you may need or search the item you are wanting
->> ⚠️ Projects with large amount of items can cause large storage sizes
+>> ⚠️ A project with large amount of items can cause large file sizes
 
 <div align="center">
-  <img width="229" height="530" alt="image" src="https://github.com/user-attachments/assets/473e68f5-9695-44a1-a50c-250d13b98305" />
+  <img width="679" height="790" alt="image" src="https://github.com/user-attachments/assets/f035982d-dbe1-4825-86b4-aec543e2f49c" />
 </div>
 
 These items come pre-rigged for your ease of use. Pose, animate, and render with them however you want. Once appended they are saved locally on your computer.
@@ -53,15 +54,30 @@ These items come pre-rigged for your ease of use. Pose, animate, and render with
   <p><em>Appended items ready to pose and animate</em></p>
 </div>
 
+## Extra Browsers
+
+Not Only do you get to have avatar clothing items in this you get acess to two other browsers for props and face sprites!
+<div align="center">
+  <img width="479" height="706" alt="image" src="https://github.com/user-attachments/assets/ddfc277d-e172-4a0a-b1a0-418a8fd591ef" />
+  <p><em>Props browser looking at the Toys tab</em></p>
+</div>
+<div align="center">
+  <img width="489" height="681" alt="image" src="https://github.com/user-attachments/assets/e0e37b9e-09ef-4c51-8f0d-3dfebb50e6fc" />
+  <p><em>Face browser looking at the Eyes tab</em></p>
+</div>
+
+
+
 ## Unity Export (BETA)
 
 With this feature you can export your avatar from Blender into an FBX ready for Unity and VRChat.
+> ℹ️ VRChat exports come with extra files to make sure it looks great in-game!
 
 <div align="center">
-  <img width="335" height="145" alt="image" src="https://github.com/user-attachments/assets/f4bd5b7c-1c38-428a-aca0-995473e69fb8" />
+  <img width="490" height="329" alt="image" src="https://github.com/user-attachments/assets/0efa7da0-764a-428a-95fd-50f6c4837624" />
 </div>
 
-This will also convert textures to be Unity-compatible without special shaders (includes Albedo and Normal Map):
+This will also convert textures to be Unity-compatible without special shaders (includes Albedo Normal, Emmission, and Roughness Maps!):
 
 <div align="center">
   <img width="800" alt="textures" src="https://github.com/user-attachments/assets/0a78f754-984f-4c1b-a67f-de34ea9a8d88" />
@@ -77,6 +93,10 @@ This will also convert textures to be Unity-compatible without special shaders (
 > ⚠️ You need to remake the face during export
 >
 > ⚠️ Both body types must be enabled at the same time during export
+>
+> ⚠️ When using a optmized export hairs and items with glass need to be excluded
+>
+> ⚠️ Props Do not get exported with
 >
 > ℹ️ Bean Body exports with the Full Body mesh to meet Unity's rig requirements, you can delete it afterward
 
