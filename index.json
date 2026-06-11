@@ -3538,6 +3538,73 @@
       ]
     },
     {
+      "label": "Rec Room Hoodie (Pride)",
+      "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Rainbow Pride).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Rec Room Hoodie - Pride (Ace Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Ace Pride)/Rec Room Hoodie - Pride (Ace Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Ace Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Aromantic Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Aromantic Pride)/Rec Room Hoodie - Pride (Aromantic Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Aromantic Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Bi Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Bi Pride)/Rec Room Hoodie - Pride (Bi Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Bi Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Genderfluid Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Genderfluid Pride)/Rec Room Hoodie - Pride (Genderfluid Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Genderfluid Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Intersex Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Intersex Pride)/Rec Room Hoodie - Pride (Intersex Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Intersex Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Lesbian Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Lesbian Pride)/Rec Room Hoodie - Pride (Lesbian Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Lesbian Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Nonbinary Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Nonbinary Pride)/Rec Room Hoodie - Pride (Nonbinary Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Nonbinary Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Pan Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Pan Pride)/Rec Room Hoodie - Pride (Pan Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Pan Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Rainbow Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Rainbow Pride)/Rec Room Hoodie - Pride (Rainbow Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Rainbow Pride)/recroomhoodie.blend",
+          "children": []
+        },
+        {
+          "label": "Rec Room Hoodie - Pride (Trans Pride)",
+          "preview": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Trans Pride)/Rec Room Hoodie - Pride (Trans Pride).png",
+          "blend": "Items/Shirt/Rec Room Hoodie (Pride)/Rec Room Hoodie - Pride (Trans Pride)/recroomhoodie.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Rec Room Shirt",
       "preview": "Items/Shirt/Rec Room Shirt/Rec Room Shirt (Crew Neck, White).png",
       "blend": "",
