@@ -19,6 +19,37 @@
       "children": []
     },
     {
+      "label": "Book",
+      "preview": "Props/Book/Book.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Book (Blue)",
+          "preview": "Props/Book/Book (Blue)/Book_Blue.png",
+          "blend": "Props/Book/Book (Blue)/Book_Blue.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Green)",
+          "preview": "Props/Book/Book (Green)/Book_Green.png",
+          "blend": "Props/Book/Book (Green)/Book_Green.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Orange)",
+          "preview": "Props/Book/Book (Orange)/Book_Orange.png",
+          "blend": "Props/Book/Book (Orange)/Book_Orange.blend",
+          "children": []
+        },
+        {
+          "label": "Book (Yellow)",
+          "preview": "Props/Book/Book (Yellow)/Book_Yellow.png",
+          "blend": "Props/Book/Book (Yellow)/Book_Yellow.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Boombox",
       "preview": "Props/Boombox/Boombox.png",
       "blend": "Props/Boombox/Boombox.blend",
@@ -109,6 +140,12 @@
       "children": []
     },
     {
+      "label": "Lockers",
+      "preview": "Props/Lockers/Lockers.png",
+      "blend": "Props/Lockers/Lockers.blend",
+      "children": []
+    },
+    {
       "label": "MakerPen",
       "preview": "Props/MakerPen/Makerpen.png",
       "blend": "Props/MakerPen/Makerpen.blend",
@@ -137,6 +174,12 @@
       "label": "Microphone",
       "preview": "Props/Microphone/Microphone.png",
       "blend": "Props/Microphone/Microphone.blend",
+      "children": []
+    },
+    {
+      "label": "Open Crate",
+      "preview": "Props/Open Crate/OpenCrate.png",
+      "blend": "Props/Open Crate/OpenCrate.blend",
       "children": []
     },
     {
@@ -207,6 +250,25 @@
       ]
     },
     {
+      "label": "Prop Box",
+      "preview": "Props/Prop Box/PropBox.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Prop Box (Rectangle)",
+          "preview": "Props/Prop Box/Prop Box (Rectangle)/PropBox_Rectangle.png",
+          "blend": "Props/Prop Box/Prop Box (Rectangle)/PropBox_Rectangle.blend",
+          "children": []
+        },
+        {
+          "label": "Prop Box (Square)",
+          "preview": "Props/Prop Box/Prop Box (Square)/PropBox_Square.png",
+          "blend": "Props/Prop Box/Prop Box (Square)/PropBox_Square.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Proxy Roxy",
       "preview": "Props/Proxy Roxy/ProxyRoxy.png",
       "blend": "Props/Proxy Roxy/ProxyRoxy.blend",
@@ -262,6 +324,12 @@
       "children": []
     },
     {
+      "label": "Shield",
+      "preview": "Props/Shield/Shield.png",
+      "blend": "Props/Shield/Shield.blend",
+      "children": []
+    },
+    {
       "label": "Solo Cup",
       "preview": "Props/Solo Cup/Cup.png",
       "blend": "Props/Solo Cup/Cup.blend",
@@ -283,6 +351,12 @@
       "label": "White Board",
       "preview": "Props/White Board/WhiteBoard.png",
       "blend": "Props/White Board/WhiteBoard.blend",
+      "children": []
+    },
+    {
+      "label": "Wooden Bench",
+      "preview": "Props/Wooden Bench/WoodenBench.png",
+      "blend": "Props/Wooden Bench/WoodenBench.blend",
       "children": []
     }
   ]
