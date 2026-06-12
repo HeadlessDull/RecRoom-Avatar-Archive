@@ -73,6 +73,12 @@
       "children": []
     },
     {
+      "label": "Quest Bow",
+      "preview": "Props/Weapons/Quest Bow/bow.png",
+      "blend": "Props/Weapons/Quest Bow/Bow.blend",
+      "children": []
+    },
+    {
       "label": "Quest Sword",
       "preview": "Props/Weapons/Quest Sword/Sword3.png",
       "blend": "",
