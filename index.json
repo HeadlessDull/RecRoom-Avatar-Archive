@@ -140,6 +140,25 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Steampunk Satchel",
+      "preview": "Items/Belt/Steampunk Satchel/Steampunk Satchel (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Satchel",
+          "preview": "Items/Belt/Steampunk Satchel/Steampunk Satchel/Steampunk Satchel.png",
+          "blend": "Items/Belt/Steampunk Satchel/Steampunk Satchel/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Satchel (Silver)",
+          "preview": "Items/Belt/Steampunk Satchel/Steampunk Satchel (Silver)/Steampunk Satchel (Silver).png",
+          "blend": "Items/Belt/Steampunk Satchel/Steampunk Satchel (Silver)/steampunk.blend",
+          "children": []
+        }
+      ]
     }
   ],
   "Ear": [
@@ -549,6 +568,25 @@
           "label": "Square Glasses (Red)",
           "preview": "Items/Eye/Square Glasses/Square Glasses (Red)/Square Glasses (Red).png",
           "blend": "Items/Eye/Square Glasses/Square Glasses (Red)/glasses.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Goggles",
+      "preview": "Items/Eye/Steampunk Goggles/Steampunk Goggles (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Goggles",
+          "preview": "Items/Eye/Steampunk Goggles/Steampunk Goggles/Steampunk Goggles.png",
+          "blend": "Items/Eye/Steampunk Goggles/Steampunk Goggles/goggles.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Goggles (Silver)",
+          "preview": "Items/Eye/Steampunk Goggles/Steampunk Goggles (Silver)/Steampunk Goggles (Silver).png",
+          "blend": "Items/Eye/Steampunk Goggles/Steampunk Goggles (Silver)/goggles.blend",
           "children": []
         }
       ]
@@ -1558,6 +1596,55 @@
       ]
     },
     {
+      "label": "Knight Helmet",
+      "preview": "Items/Hat/Knight Helmet/Knight Helmet (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Knight Helmet (Black)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Black)/Knight Helmet (Black).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Black)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (Blue)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Blue)/Knight Helmet (Blue).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Blue)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (Cherry)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Cherry)/Knight Helmet (Cherry).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Cherry)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (Green)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Green)/Knight Helmet (Green).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Green)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (Grey)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Grey)/Knight Helmet (Grey).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Grey)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (White)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (White)/Knight Helmet (White).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (White)/Helmet.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Helmet (Yellow)",
+          "preview": "Items/Hat/Knight Helmet/Knight Helmet (Yellow)/Knight Helmet (Yellow).png",
+          "blend": "Items/Hat/Knight Helmet/Knight Helmet (Yellow)/Helmet.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Laser Tag Visor",
       "preview": "Items/Hat/Laser Tag Visor/Laser Tag Visor (Blue).png",
       "blend": "",
@@ -1776,6 +1863,56 @@
           "label": "Spring Bloom Antlers (Sunset)",
           "preview": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers (Sunset)/Spring Bloom Antlers (Sunset).png",
           "blend": "Items/Hat/Spring Bloom Antlers/Spring Bloom Antlers (Sunset)/Spring Bloom Antlers (Sunset).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Hat",
+      "preview": "Items/Hat/Steampunk Hat/Steampunk Hat (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Hat",
+          "preview": "Items/Hat/Steampunk Hat/Steampunk Hat/Steampunk Hat.png",
+          "blend": "Items/Hat/Steampunk Hat/Steampunk Hat/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Hat (Silver)",
+          "preview": "Items/Hat/Steampunk Hat/Steampunk Hat (Silver)/Steampunk Hat (Silver).png",
+          "blend": "Items/Hat/Steampunk Hat/Steampunk Hat (Silver)/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Hat (Time Travel Contest)",
+          "preview": "Items/Hat/Steampunk Hat/Steampunk Hat (Time Travel Contest)/Steampunk Hat (Time Travel Contest).png",
+          "blend": "Items/Hat/Steampunk Hat/Steampunk Hat (Time Travel Contest)/steampunk.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Topper",
+      "preview": "Items/Hat/Steampunk Topper/Steampunk Topper (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Topper",
+          "preview": "Items/Hat/Steampunk Topper/Steampunk Topper/Steampunk Topper.png",
+          "blend": "Items/Hat/Steampunk Topper/Steampunk Topper/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Topper (Silver)",
+          "preview": "Items/Hat/Steampunk Topper/Steampunk Topper (Silver)/Steampunk Topper (Silver).png",
+          "blend": "Items/Hat/Steampunk Topper/Steampunk Topper (Silver)/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Topper (Time Travel Contest)",
+          "preview": "Items/Hat/Steampunk Topper/Steampunk Topper (Time Travel Contest)/Steampunk Topper (Time Travel Contest).png",
+          "blend": "Items/Hat/Steampunk Topper/Steampunk Topper (Time Travel Contest)/steampunk.blend",
           "children": []
         }
       ]
@@ -3065,6 +3202,55 @@
       ]
     },
     {
+      "label": "Knight Armor",
+      "preview": "Items/Shirt/Knight Armor/Knight Armor (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Knight Armor (Black)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Black)/Knight Armor (Black).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Black)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (Blue)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Blue)/Knight Armor (Blue).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Blue)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (Cherry)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Cherry)/Knight Armor (Cherry).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Cherry)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (Green)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Green)/Knight Armor (Green).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Green)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (Grey)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Grey)/Knight Armor (Grey).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Grey)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (White)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (White)/Knight Armor (White).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (White)/shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Armor (Yellow)",
+          "preview": "Items/Shirt/Knight Armor/Knight Armor (Yellow)/Knight Armor (Yellow).png",
+          "blend": "Items/Shirt/Knight Armor/Knight Armor (Yellow)/shirt.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Laser Tag Sensors",
       "preview": "Items/Shirt/Laser Tag Sensors/Laser Tag Sensors (Blue).png",
       "blend": "",
@@ -3729,6 +3915,56 @@
       ]
     },
     {
+      "label": "Steampunk Corset",
+      "preview": "Items/Shirt/Steampunk Corset/Steampunk Corset (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Corset",
+          "preview": "Items/Shirt/Steampunk Corset/Steampunk Corset/Steampunk Corset.png",
+          "blend": "Items/Shirt/Steampunk Corset/Steampunk Corset/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Corset (Silver)",
+          "preview": "Items/Shirt/Steampunk Corset/Steampunk Corset (Silver)/Steampunk Corset (Silver).png",
+          "blend": "Items/Shirt/Steampunk Corset/Steampunk Corset (Silver)/Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Corset (Time Travel Contest)",
+          "preview": "Items/Shirt/Steampunk Corset/Steampunk Corset (Time Travel Contest)/Steampunk Corset (Time Travel Contest).png",
+          "blend": "Items/Shirt/Steampunk Corset/Steampunk Corset (Time Travel Contest)/Shirt.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Vest",
+      "preview": "Items/Shirt/Steampunk Vest/Steampunk Vest (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Vest",
+          "preview": "Items/Shirt/Steampunk Vest/Steampunk Vest/Steampunk Vest.png",
+          "blend": "Items/Shirt/Steampunk Vest/Steampunk Vest/vest.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Vest (Silver)",
+          "preview": "Items/Shirt/Steampunk Vest/Steampunk Vest (Silver)/Steampunk Vest (Silver).png",
+          "blend": "Items/Shirt/Steampunk Vest/Steampunk Vest (Silver)/vest.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Vest (Time Travel Contest)",
+          "preview": "Items/Shirt/Steampunk Vest/Steampunk Vest (Time Travel Contest)/Steampunk Vest (Time Travel Contest).png",
+          "blend": "Items/Shirt/Steampunk Vest/Steampunk Vest (Time Travel Contest)/vest.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Stunt Singlet",
       "preview": "Items/Shirt/Stunt Singlet/Stunt Singlet.png",
       "blend": "",
@@ -4298,6 +4534,49 @@
       ]
     },
     {
+      "label": "Beam Sword",
+      "preview": "Items/Shoulder/Beam Sword/Beam Sword (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Beam Sword (Blue)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (Blue)/Beam Sword (Blue).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (Blue)/sword.blend",
+          "children": []
+        },
+        {
+          "label": "Beam Sword (Forbidden Purple)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (Forbidden Purple)/Beam Sword (Forbidden Purple).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (Forbidden Purple)/sword.blend",
+          "children": []
+        },
+        {
+          "label": "Beam Sword (Red)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (Red)/Beam Sword (Red).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (Red)/sword.blend",
+          "children": []
+        },
+        {
+          "label": "Beam Sword (Science Green)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (Science Green)/Beam Sword (Science Green).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (Science Green)/sword.blend",
+          "children": []
+        },
+        {
+          "label": "Beam Sword (White)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (White)/Beam Sword (White).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (White)/sword.blend",
+          "children": []
+        },
+        {
+          "label": "Beam Sword (Yellow)",
+          "preview": "Items/Shoulder/Beam Sword/Beam Sword (Yellow)/Beam Sword (Yellow).png",
+          "blend": "Items/Shoulder/Beam Sword/Beam Sword (Yellow)/sword.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Bee Wings",
       "preview": "Items/Shoulder/Bee Wings/Bee Wings.png",
       "blend": "Items/Shoulder/Bee Wings/Bee Wings.blend",
@@ -4396,6 +4675,55 @@
       "children": []
     },
     {
+      "label": "Knight Cape",
+      "preview": "Items/Shoulder/Knight Cape/Knight Cape (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Knight Cape (Black)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Black)/Knight Cape (Black).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Black)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (Blue)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Blue)/Knight Cape (Blue).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Blue)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (Cherry)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Cherry)/Knight Cape (Cherry).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Cherry)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (Green)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Green)/Knight Cape (Green).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Green)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (Red)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Red)/Knight Cape (Red).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Red)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (White)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (White)/Knight Cape (White).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (White)/cape.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Cape (Yellow)",
+          "preview": "Items/Shoulder/Knight Cape/Knight Cape (Yellow)/Knight Cape (Yellow).png",
+          "blend": "Items/Shoulder/Knight Cape/Knight Cape (Yellow)/cape.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Messenger Bag",
       "preview": "Items/Shoulder/Messenger Bag/Messenger Bag.png",
       "blend": "Items/Shoulder/Messenger Bag/Bag.blend",
@@ -4489,6 +4817,25 @@
           "label": "Skateboard on Back (Vaporwave)",
           "preview": "Items/Shoulder/Skateboard on Back/Skateboard on Back (Vaporwave)/Skateboard on Back (Vaporwave).png",
           "blend": "Items/Shoulder/Skateboard on Back/Skateboard on Back (Vaporwave)/Skateboard on Back (Vaporwave).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Pauldron",
+      "preview": "Items/Shoulder/Steampunk Pauldron/Steampunk Pauldron (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Pauldron",
+          "preview": "Items/Shoulder/Steampunk Pauldron/Steampunk Pauldron/Steampunk Pauldron.png",
+          "blend": "Items/Shoulder/Steampunk Pauldron/Steampunk Pauldron/steampunk.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Pauldron (Silver)",
+          "preview": "Items/Shoulder/Steampunk Pauldron/Steampunk Pauldron (Silver)/Steampunk Pauldron (Silver).png",
+          "blend": "Items/Shoulder/Steampunk Pauldron/Steampunk Pauldron (Silver)/steampunk.blend",
           "children": []
         }
       ]
@@ -4849,6 +5196,55 @@
       ]
     },
     {
+      "label": "Knight Gauntlet",
+      "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Grey).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Knight Gauntlet (Black)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Black)/Knight Gauntlet (Black).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Black)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlet (Blue)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Blue)/Knight Gauntlet (Blue).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Blue)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlet (Cherry)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Cherry)/Knight Gauntlet (Cherry).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Cherry)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlet (Green)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Green)/Knight Gauntlet (Green).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Green)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlet (Grey)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Grey)/Knight Gauntlet (Grey).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (Grey)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlet (White)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (White)/Knight Gauntlet (White).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlet (White)/wrist.blend",
+          "children": []
+        },
+        {
+          "label": "Knight Gauntlets (Yellow)",
+          "preview": "Items/Wrist/Knight Gauntlet/Knight Gauntlets (Yellow)/Knight Gauntlets (Yellow).png",
+          "blend": "Items/Wrist/Knight Gauntlet/Knight Gauntlets (Yellow)/wrist.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Laser Tag Gloves",
       "preview": "Items/Wrist/Laser Tag Gloves/Laser Tag Gloves (Blue).png",
       "blend": "",
@@ -5098,6 +5494,25 @@
           "label": "Scientist Gloves (Research Lab)",
           "preview": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).png",
           "blend": "Items/Wrist/Scientist Gloves/Scientist Gloves (Research Lab)/Scientist Gloves (Research Lab).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Steampunk Cuff",
+      "preview": "Items/Wrist/Steampunk Cuff/Steampunk Cuff (Silver).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Steampunk Cuff",
+          "preview": "Items/Wrist/Steampunk Cuff/Steampunk Cuff/Steampunk Cuff.png",
+          "blend": "Items/Wrist/Steampunk Cuff/Steampunk Cuff/Rec Room Item Creator.blend",
+          "children": []
+        },
+        {
+          "label": "Steampunk Cuff (Silver)",
+          "preview": "Items/Wrist/Steampunk Cuff/Steampunk Cuff (Silver)/Steampunk Cuff (Silver).png",
+          "blend": "Items/Wrist/Steampunk Cuff/Steampunk Cuff (Silver)/Rec Room Item Creator.blend",
           "children": []
         }
       ]
