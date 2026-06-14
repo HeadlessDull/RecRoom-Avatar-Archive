@@ -149,7 +149,7 @@ Each User has a link and/or discord profile for you to acess
     <td><img width="100" height="100" alt="6557a574f244205056dbe58774eb92e9" src="https://github.com/user-attachments/assets/69713c26-c749-4fd5-8c1e-7a90b6d64197" />
 </td>
     <td valign="middle">
-      <strong>Usagi</strong>: Unity Face Animation | Item Coloring Script System | Asset Exporting<br/>
+      <strong>Usagi</strong>: Unity Face Animation | Item Material Help | Asset Exporting<br/>
       <sub>Discord: gameofcharades</sub>
     </td>
   </tr>
@@ -173,7 +173,7 @@ Each User has a link and/or discord profile for you to acess
     <tr>
     <td><img width="100" height="100" alt="834be19542a2f6d6e52fc92788a7bc17" src="https://github.com/user-attachments/assets/874aa3d3-2c20-4904-850c-587ae55919b5" /></td>
     <td valign="middle">
-      <strong>Konman</strong>: Specailty Asset Exporting<br/>
+      <strong>Konman</strong>: Specialty Asset Exporting<br/>
       <sub>Discord: konmanvr</sub>
       <sub></sub>
     </td>
