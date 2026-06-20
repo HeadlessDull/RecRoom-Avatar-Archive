@@ -1207,6 +1207,12 @@
       "children": []
     },
     {
+      "label": "Basketball Headphones",
+      "preview": "Items/Hat/Basketball Headphones/Basketball Headphones.png",
+      "blend": "Items/Hat/Basketball Headphones/bbheadphones.blend",
+      "children": []
+    },
+    {
       "label": "Beanie",
       "preview": "Items/Hat/Beanie/Beanie (Black).png",
       "blend": "",
