@@ -1429,6 +1429,37 @@
       ]
     },
     {
+      "label": "Conductor Hat",
+      "preview": "Items/Hat/Conductor Hat/Conductor Hat (Blue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Conductor Hat (Black)",
+          "preview": "Items/Hat/Conductor Hat/Conductor Hat (Black)/Conductor Hat (Black).png",
+          "blend": "Items/Hat/Conductor Hat/Conductor Hat (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Hat (Blue)",
+          "preview": "Items/Hat/Conductor Hat/Conductor Hat (Blue)/Conductor Hat (Blue).png",
+          "blend": "Items/Hat/Conductor Hat/Conductor Hat (Blue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Hat (Green)",
+          "preview": "Items/Hat/Conductor Hat/Conductor Hat (Green)/Conductor Hat (Green).png",
+          "blend": "Items/Hat/Conductor Hat/Conductor Hat (Green)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Hat (Striped)",
+          "preview": "Items/Hat/Conductor Hat/Conductor Hat (Striped)/Conductor Hat (Striped).png",
+          "blend": "Items/Hat/Conductor Hat/Conductor Hat (Striped)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Cow Ears Headband",
       "preview": "Items/Hat/Cow Ears Headband/Cow Ears Headband.png",
       "blend": "Items/Hat/Cow Ears Headband/cow ears.blend",
@@ -1578,6 +1609,37 @@
           "label": "Graduation Cap (Video Creation Class)",
           "preview": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation Class).png",
           "blend": "Items/Hat/Graduation Cap/Graduation Cap (Video Creation Class)/Graduation Cap (Video Creation).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "International Thief Hat",
+      "preview": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Hat (Mastermind)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind)/International Thief Hat (Mastermind).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Outlaw)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Outlaw)/International Thief Hat (Outlaw).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Rogue)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Rogue)/International Thief Hat (Rogue).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Spy)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Spy)/International Thief Hat (Spy).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Spy)/Untitled.blend",
           "children": []
         }
       ]
@@ -2441,6 +2503,37 @@
       ]
     },
     {
+      "label": "Ice Skates on Neck",
+      "preview": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Slate).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Ice Skates on Neck (Black)",
+          "preview": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Black)/Ice Skates on Neck (Black).png",
+          "blend": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Ice Skates on Neck (Brown)",
+          "preview": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Brown)/Ice Skates on Neck (Brown).png",
+          "blend": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Brown)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Ice Skates on Neck (Slate)",
+          "preview": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Slate)/Ice Skates on Neck (Slate).png",
+          "blend": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (Slate)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Ice Skates on Neck (White)",
+          "preview": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (White)/Ice Skates on Neck (White).png",
+          "blend": "Items/Neck/Ice Skates on Neck/Ice Skates on Neck (White)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Layered Necklace",
       "preview": "Items/Neck/Layered Necklace/(LayeredNecklace_Neck).png",
       "blend": "Items/Neck/Layered Necklace/layerednecklace.blend",
@@ -3010,6 +3103,31 @@
       "children": []
     },
     {
+      "label": "Conductor Jacket",
+      "preview": "Items/Shirt/Conductor Jacket/Conductor Jacket (Black).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Conductor Jacket (Black)",
+          "preview": "Items/Shirt/Conductor Jacket/Conductor Jacket (Black)/Conductor Jacket (Black).png",
+          "blend": "Items/Shirt/Conductor Jacket/Conductor Jacket (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Jacket (Blue)",
+          "preview": "Items/Shirt/Conductor Jacket/Conductor Jacket (Blue)/Conductor Jacket (Blue).png",
+          "blend": "Items/Shirt/Conductor Jacket/Conductor Jacket (Blue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Jacket (Green)",
+          "preview": "Items/Shirt/Conductor Jacket/Conductor Jacket (Green)/Conductor Jacket (Green).png",
+          "blend": "Items/Shirt/Conductor Jacket/Conductor Jacket (Green)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Creator Rewards Shirt",
       "preview": "Items/Shirt/Creator Rewards Shirt/Creator Rewards Shirt.png",
       "blend": "Items/Shirt/Creator Rewards Shirt/Creator Rewards Shirt.blend",
@@ -3187,6 +3305,37 @@
       "preview": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.png",
       "blend": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.blend",
       "children": []
+    },
+    {
+      "label": "International Thief Coat",
+      "preview": "Items/Shirt/International Thief Coat/International Thief Coat (Mastermind).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Coat (Mastermind)",
+          "preview": "Items/Shirt/International Thief Coat/International Thief Coat (Mastermind)/International Thief Coat (Mastermind).png",
+          "blend": "Items/Shirt/International Thief Coat/International Thief Coat (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Outlaw)",
+          "preview": "Items/Shirt/International Thief Coat/International Thief Coat (Outlaw)/International Thief Coat (Outlaw).png",
+          "blend": "Items/Shirt/International Thief Coat/International Thief Coat (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Rogue)",
+          "preview": "Items/Shirt/International Thief Coat/International Thief Coat (Rogue)/International Thief Coat (Rogue).png",
+          "blend": "Items/Shirt/International Thief Coat/International Thief Coat (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Spy)",
+          "preview": "Items/Shirt/International Thief Coat/International Thief Coat (Spy)/International Thief Coat (Spy).png",
+          "blend": "Items/Shirt/International Thief Coat/International Thief Coat (Spy)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Jester Shirt",
@@ -3434,6 +3583,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Open Button Down Shirt",
+      "preview": "Items/Shirt/Open Button Down Shirt/Open Button Down Shirt.png",
+      "blend": "Items/Shirt/Open Button Down Shirt/Untitled.blend",
+      "children": []
     },
     {
       "label": "Overalls Skirt",
@@ -3820,6 +3975,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Rogue Shirt",
+      "preview": "Items/Shirt/Rogue Shirt/Rogue Shirt.png",
+      "blend": "Items/Shirt/Rogue Shirt/Untitled.blend",
+      "children": []
     },
     {
       "label": "Run The Block Cropped Shirt",
@@ -5183,6 +5344,62 @@
       "children": []
     },
     {
+      "label": "Conductor Cuffs",
+      "preview": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Green).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Conductor Cuffs (Black)",
+          "preview": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Black)/Conductor Cuffs (Black).png",
+          "blend": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Cuffs (Blue)",
+          "preview": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Blue)/Conductor Cuffs (Blue).png",
+          "blend": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Blue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Conductor Cuffs (Green)",
+          "preview": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Green)/Conductor Cuffs (Green).png",
+          "blend": "Items/Wrist/Conductor Cuffs/Conductor Cuffs (Green)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "International Thief Gloves",
+      "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Rogue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Gloves (Mastermind)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Mastermind)/International Thief Gloves (Mastermind).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Outlaw)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Outlaw)/International Thief Gloves (Outlaw).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Rogue)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Rogue)/International Thief Gloves (Rogue).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Spy)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Spy)/International Thief Gloves (Spy).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Spy)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Jester Gloves",
       "preview": "Items/Wrist/Jester Gloves/Jester Gloves (Mardi Gras).png",
       "blend": "",
@@ -5435,6 +5652,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Rogue Gloves",
+      "preview": "Items/Wrist/Rogue Gloves/Rogue Gloves.png",
+      "blend": "Items/Wrist/Rogue Gloves/Untitled.blend",
+      "children": []
     },
     {
       "label": "Runner Wrist Guard",
