@@ -3053,6 +3053,12 @@
       ]
     },
     {
+      "label": "Fall Basics Hoodie Jacket",
+      "preview": "Items/Shirt/Fall Basics Hoodie Jacket/FallBasics.png",
+      "blend": "Items/Shirt/Fall Basics Hoodie Jacket/Fall Basics Hoodie Jacket.blend",
+      "children": []
+    },
+    {
       "label": "Flannel",
       "preview": "Items/Shirt/Flannel/Flannel (Green).png",
       "blend": "",
@@ -3496,6 +3502,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Pioneer Dress First Snow",
+      "preview": "Items/Shirt/Pioneer Dress First Snow/Pioneer.png",
+      "blend": "Items/Shirt/Pioneer Dress First Snow/Pioneer First Snow.blend",
+      "children": []
     },
     {
       "label": "Puffy Bear Jacket",
@@ -4138,6 +4150,31 @@
           "label": "Turtleneck (Yellow)",
           "preview": "Items/Shirt/Turtleneck/Turtleneck (Yellow)/Turtleneck (Yellow).png",
           "blend": "Items/Shirt/Turtleneck/Turtleneck (Yellow)/Turtleneck (Yellow).blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Untucked Tee",
+      "preview": "Items/Shirt/Untucked Tee/Untitled.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Blue Celestial",
+          "preview": "Items/Shirt/Untucked Tee/Blue Celestial/Untitled.png",
+          "blend": "Items/Shirt/Untucked Tee/Blue Celestial/Blue Celestial.blend",
+          "children": []
+        },
+        {
+          "label": "Fun Celestial",
+          "preview": "Items/Shirt/Untucked Tee/Fun Celestial/Untitled.png",
+          "blend": "Items/Shirt/Untucked Tee/Fun Celestial/Fun Celestial.blend",
+          "children": []
+        },
+        {
+          "label": "Glitch Grenade",
+          "preview": "Items/Shirt/Untucked Tee/Glitch Grenade/Untitled.png",
+          "blend": "Items/Shirt/Untucked Tee/Glitch Grenade/Glitch Grenade.blend",
           "children": []
         }
       ]
