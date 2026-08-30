@@ -209,7 +209,7 @@
         {
           "label": "Acetate Glasses (Amber)",
           "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).png",
-          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Custom).blend",
+          "blend": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber)/Acetate Glasses (Amber).blend",
           "children": []
         },
         {
@@ -1207,6 +1207,12 @@
       "children": []
     },
     {
+      "label": "Baseball Cap",
+      "preview": "Items/Hat/Baseball Cap/Baseball Cap (White)).png",
+      "blend": "Items/Hat/Baseball Cap/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Basketball Headphones",
       "preview": "Items/Hat/Basketball Headphones/Basketball Headphones.png",
       "blend": "Items/Hat/Basketball Headphones/bbheadphones.blend",
@@ -1581,6 +1587,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Grey Cyborg Hat",
+      "preview": "Items/Hat/Grey Cyborg Hat/JayJ.png",
+      "blend": "Items/Hat/Grey Cyborg Hat/GreyCyborgHat.blend",
+      "children": []
     },
     {
       "label": "Jester Hat",
@@ -2244,6 +2256,18 @@
       "label": "Carnival Clown Pants",
       "preview": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.png",
       "blend": "Items/Legs/Carnival Clown Pants/Carnival Clown Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Dress Pants",
+      "preview": "Items/Legs/Dress Pants/JayJ.png",
+      "blend": "Items/Legs/Dress Pants/Dress Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Grey Cyborg Pants",
+      "preview": "Items/Legs/Grey Cyborg Pants/JayJ.png",
+      "blend": "Items/Legs/Grey Cyborg Pants/GreyCyborgPants.blend",
       "children": []
     },
     {
@@ -3189,6 +3213,12 @@
       ]
     },
     {
+      "label": "Grey Cyborg Shirt",
+      "preview": "Items/Shirt/Grey Cyborg Shirt/JayJ.png",
+      "blend": "Items/Shirt/Grey Cyborg Shirt/GreyCyborgShirt.blend",
+      "children": []
+    },
+    {
       "label": "Hoodie Jacket",
       "preview": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.png",
       "blend": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.blend",
@@ -3365,6 +3395,12 @@
       "label": "Midnight Gala Tuxedo Dress",
       "preview": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.png",
       "blend": "Items/Shirt/Midnight Gala Tuxedo Dress/Midnight Gala Tuxedo Dress.blend",
+      "children": []
+    },
+    {
+      "label": "Midnight Gala Vest",
+      "preview": "Items/Shirt/Midnight Gala Vest/JayJ.png",
+      "blend": "Items/Shirt/Midnight Gala Vest/Midnight Gala Vest.blend",
       "children": []
     },
     {
@@ -4155,6 +4191,18 @@
       ]
     },
     {
+      "label": "UGCPulloverHoodie",
+      "preview": "Items/Shirt/UGCPulloverHoodie/(UGCPulloverHoodie_Shirt).png",
+      "blend": "Items/Shirt/UGCPulloverHoodie/Untitled.blend",
+      "children": []
+    },
+    {
+      "label": "UGCTee_Shirt",
+      "preview": "Items/Shirt/UGCTee_Shirt/(UGCTee_Shirt).png",
+      "blend": "Items/Shirt/UGCTee_Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Untucked Tee",
       "preview": "Items/Shirt/Untucked Tee/Untitled.png",
       "blend": "",
@@ -4378,9 +4426,21 @@
       "children": []
     },
     {
+      "label": "Kitten Heel Shoes",
+      "preview": "Items/Shoes/Kitten Heel Shoes/JayJ.png",
+      "blend": "Items/Shoes/Kitten Heel Shoes/Kitten Heel Shoes.blend",
+      "children": []
+    },
+    {
       "label": "Lumberjack Boots",
       "preview": "Items/Shoes/Lumberjack Boots/Lumberjack Boots.png",
       "blend": "Items/Shoes/Lumberjack Boots/boots.blend",
+      "children": []
+    },
+    {
+      "label": "Midnight Gala Dress Shoes",
+      "preview": "Items/Shoes/Midnight Gala Dress Shoes/Midnight Gala Dress Shoes (JayJ).png",
+      "blend": "Items/Shoes/Midnight Gala Dress Shoes/Midnight Gala Dress Shoes.blend",
       "children": []
     },
     {
@@ -5217,6 +5277,12 @@
       "label": "Bog Monster Wrist",
       "preview": "Items/Wrist/Bog Monster Wrist/Bog Monster Wrist.png",
       "blend": "Items/Wrist/Bog Monster Wrist/Wrist.blend",
+      "children": []
+    },
+    {
+      "label": "Grey Cyborg Gloves",
+      "preview": "Items/Wrist/Grey Cyborg Gloves/JayJ.png",
+      "blend": "Items/Wrist/Grey Cyborg Gloves/GreyCyborgGloves.blend",
       "children": []
     },
     {
