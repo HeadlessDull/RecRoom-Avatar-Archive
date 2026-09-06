@@ -1774,6 +1774,31 @@
       ]
     },
     {
+      "label": "Pioneer Bonnet",
+      "preview": "Items/Hat/Pioneer Bonnet/3.png",
+      "blend": "Items/Hat/Pioneer Bonnet/Pioneer Bonnet.blend",
+      "children": []
+    },
+    {
+      "label": "Pumpkin Cap",
+      "preview": "Items/Hat/Pumpkin Cap/Pumpkin Cap.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Pumpkin Cap",
+          "preview": "Items/Hat/Pumpkin Cap/Pumpkin Cap/Pumpkin Cap.png",
+          "blend": "Items/Hat/Pumpkin Cap/Pumpkin Cap/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Pumpkin Cap (Ghost)",
+          "preview": "Items/Hat/Pumpkin Cap/Pumpkin Cap (Ghost)/Pumpkin Cap (Ghost).png",
+          "blend": "Items/Hat/Pumpkin Cap/Pumpkin Cap (Ghost)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Race Car Driver Hat",
       "preview": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.png",
       "blend": "Items/Hat/Race Car Driver Hat/Race Car Driver Hat.blend",
@@ -2004,6 +2029,12 @@
       ]
     },
     {
+      "label": "Video Partner Headset",
+      "preview": "Items/Hat/Video Partner Headset/2.png",
+      "blend": "Items/Hat/Video Partner Headset/Video Partner Headset.blend",
+      "children": []
+    },
+    {
       "label": "Viking Helmet",
       "preview": "Items/Hat/Viking Helmet/Viking Helmet.png",
       "blend": "Items/Hat/Viking Helmet/Viking Helemet.blend",
@@ -2013,6 +2044,12 @@
       "label": "Visor",
       "preview": "Items/Hat/Visor/Visor.png",
       "blend": "Items/Hat/Visor/Visor.blend",
+      "children": []
+    },
+    {
+      "label": "Werewolf Head",
+      "preview": "Items/Hat/Werewolf Head/1.png",
+      "blend": "Items/Hat/Werewolf Head/Werewolf Head.blend",
       "children": []
     },
     {
@@ -3540,6 +3577,12 @@
       ]
     },
     {
+      "label": "Pioneer Dress",
+      "preview": "Items/Shirt/Pioneer Dress/1harper.png",
+      "blend": "Items/Shirt/Pioneer Dress/Pioneer Dress.blend",
+      "children": []
+    },
+    {
       "label": "Pioneer Dress First Snow",
       "preview": "Items/Shirt/Pioneer Dress First Snow/Pioneer.png",
       "blend": "Items/Shirt/Pioneer Dress First Snow/Pioneer First Snow.blend",
@@ -3550,6 +3593,25 @@
       "preview": "Items/Shirt/Puffy Bear Jacket/Untitled2.png",
       "blend": "Items/Shirt/Puffy Bear Jacket/Bear Jacket.blend",
       "children": []
+    },
+    {
+      "label": "Pumpkin Costume",
+      "preview": "Items/Shirt/Pumpkin Costume/Pumpkin Costume.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Pumpkin Costume",
+          "preview": "Items/Shirt/Pumpkin Costume/Pumpkin Costume/Pumpkin Costume.png",
+          "blend": "Items/Shirt/Pumpkin Costume/Pumpkin Costume/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Pumpkin Costume (Ghost)",
+          "preview": "Items/Shirt/Pumpkin Costume/Pumpkin Costume (Ghost)/Pumpkin Costume (Ghost).png",
+          "blend": "Items/Shirt/Pumpkin Costume/Pumpkin Costume (Ghost)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Punk Jacket",
@@ -4234,6 +4296,18 @@
       "children": []
     },
     {
+      "label": "Video Partner Hoodie",
+      "preview": "Items/Shirt/Video Partner Hoodie/1.png",
+      "blend": "Items/Shirt/Video Partner Hoodie/Video Partner Hoodie.blend",
+      "children": []
+    },
+    {
+      "label": "Werewolf Shirt",
+      "preview": "Items/Shirt/Werewolf Shirt/2.png",
+      "blend": "Items/Shirt/Werewolf Shirt/Werewolf Shirt.blend",
+      "children": []
+    },
+    {
       "label": "Witch Hunter Torso",
       "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (Blue).png",
       "blend": "",
@@ -4278,6 +4352,25 @@
           "label": "Witch Hunter Torso (White)",
           "preview": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (White)/Witch Hunter Torso (White).png",
           "blend": "Items/Shirt/Witch Hunter Torso/Witch Hunter Torso (White)/shirt.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Zombie Girlscout Shirt",
+      "preview": "Items/Shirt/Zombie Girlscout Shirt/2.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Zombie Girlscout Shirt",
+          "preview": "Items/Shirt/Zombie Girlscout Shirt/Zombie Girlscout Shirt/2.png",
+          "blend": "Items/Shirt/Zombie Girlscout Shirt/Zombie Girlscout Shirt/Zombie Girlscout Shirt.blend",
+          "children": []
+        },
+        {
+          "label": "Zombie Girlscout Shirt (Mutant)",
+          "preview": "Items/Shirt/Zombie Girlscout Shirt/Zombie Girlscout Shirt (Mutant)/1.png",
+          "blend": "Items/Shirt/Zombie Girlscout Shirt/Zombie Girlscout Shirt (Mutant)/Zombie Girlscout Shirt (Mutant).blend",
           "children": []
         }
       ]
@@ -4424,6 +4517,73 @@
       "preview": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.png",
       "blend": "Items/Shoes/Carnival Clown Shoes/Carnival Clown Shoes.blend",
       "children": []
+    },
+    {
+      "label": "Flats",
+      "preview": "Items/Shoes/Flats/Yellow Flats [Full Body].png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Black Flats",
+          "preview": "Items/Shoes/Flats/Black Flats/Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Black Flats/Black Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Blue Flats",
+          "preview": "Items/Shoes/Flats/Blue Flats/Blue Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Blue Flats/Blue Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Brown Flats",
+          "preview": "Items/Shoes/Flats/Brown Flats/Brown Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Brown Flats/Brown Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Green Flats",
+          "preview": "Items/Shoes/Flats/Green Flats/Green Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Green Flats/Green Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Orange Flats",
+          "preview": "Items/Shoes/Flats/Orange Flats/Orange Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Orange Flats/Orange Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Pink Flats",
+          "preview": "Items/Shoes/Flats/Pink Flats/Pink Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Pink Flats/Pink Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Purple Flats",
+          "preview": "Items/Shoes/Flats/Purple Flats/Purple Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Purple Flats/Purple Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Red Flats",
+          "preview": "Items/Shoes/Flats/Red Flats/Red Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Red Flats/Red Flats.blend",
+          "children": []
+        },
+        {
+          "label": "White Flats",
+          "preview": "Items/Shoes/Flats/White Flats/White Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/White Flats/White Flats.blend",
+          "children": []
+        },
+        {
+          "label": "Yellow Flats",
+          "preview": "Items/Shoes/Flats/Yellow Flats/Yellow Flats [Full Body].png",
+          "blend": "Items/Shoes/Flats/Yellow Flats/Yellow Flats.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Kitten Heel Shoes",
@@ -4942,6 +5102,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Turkey Backpack",
+      "preview": "Items/Shoulder/Turkey Backpack/Untitled.png",
+      "blend": "Items/Shoulder/Turkey Backpack/Turkey Backpack.blend",
+      "children": []
     }
   ],
   "Wrist": [
@@ -5488,6 +5654,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Pioneer Cuffs",
+      "preview": "Items/Wrist/Pioneer Cuffs/2.png",
+      "blend": "Items/Wrist/Pioneer Cuffs/Pioneer Cuffs.blend",
+      "children": []
     },
     {
       "label": "Race Car Driver Gloves",
