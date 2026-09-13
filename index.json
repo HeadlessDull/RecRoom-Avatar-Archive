@@ -1435,6 +1435,37 @@
       ]
     },
     {
+      "label": "Chicken Hat",
+      "preview": "Items/Hat/Chicken Hat/Chicken Hat.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Chicken Hat",
+          "preview": "Items/Hat/Chicken Hat/Chicken Hat/Chicken Hat.png",
+          "blend": "Items/Hat/Chicken Hat/Chicken Hat/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Chicken Hat (Black)",
+          "preview": "Items/Hat/Chicken Hat/Chicken Hat (Black)/Chicken Hat (Black).png",
+          "blend": "Items/Hat/Chicken Hat/Chicken Hat (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Chicken Hat (Brown)",
+          "preview": "Items/Hat/Chicken Hat/Chicken Hat (Brown)/Chicken Hat (Brown).png",
+          "blend": "Items/Hat/Chicken Hat/Chicken Hat (Brown)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Chicken Hat (Yellow)",
+          "preview": "Items/Hat/Chicken Hat/Chicken Hat (Yellow)/Chicken Hat (Yellow).png",
+          "blend": "Items/Hat/Chicken Hat/Chicken Hat (Yellow)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Cow Ears Headband",
       "preview": "Items/Hat/Cow Ears Headband/Cow Ears Headband.png",
       "blend": "Items/Hat/Cow Ears Headband/cow ears.blend",
@@ -2339,6 +2370,37 @@
       ]
     },
     {
+      "label": "Strap Pants",
+      "preview": "Items/Legs/Strap Pants/strappantsgrey.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Strappantsurbanpop",
+          "preview": "Items/Legs/Strap Pants/Strappantsurbanpop/Strappantsurbanpop.png",
+          "blend": "Items/Legs/Strap Pants/Strappantsurbanpop/StrapPantsUrbanPop.blend",
+          "children": []
+        },
+        {
+          "label": "strappantsblack",
+          "preview": "Items/Legs/Strap Pants/strappantsblack/strappantsblack.png",
+          "blend": "Items/Legs/Strap Pants/strappantsblack/StrapPantsBlack.blend",
+          "children": []
+        },
+        {
+          "label": "strappantsgrey",
+          "preview": "Items/Legs/Strap Pants/strappantsgrey/strappantsgrey.png",
+          "blend": "Items/Legs/Strap Pants/strappantsgrey/StrapPantsGrey.blend",
+          "children": []
+        },
+        {
+          "label": "strappantsred",
+          "preview": "Items/Legs/Strap Pants/strappantsred/strappantsred.png",
+          "blend": "Items/Legs/Strap Pants/strappantsred/StrapPantsRed.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Tech Camper Cargo Shorts",
       "preview": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.png",
       "blend": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.blend",
@@ -3114,6 +3176,37 @@
       ]
     },
     {
+      "label": "Elf Shirt",
+      "preview": "Items/Shirt/Elf Shirt/Elf Shirt (Red).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Elf Shirt (Black)",
+          "preview": "Items/Shirt/Elf Shirt/Elf Shirt (Black)/Elf Shirt (Black).png",
+          "blend": "Items/Shirt/Elf Shirt/Elf Shirt (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Elf Shirt (Pink)",
+          "preview": "Items/Shirt/Elf Shirt/Elf Shirt (Pink)/Elf Shirt (Pink).png",
+          "blend": "Items/Shirt/Elf Shirt/Elf Shirt (Pink)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Elf Shirt (Red)",
+          "preview": "Items/Shirt/Elf Shirt/Elf Shirt (Red)/Elf Shirt (Red).png",
+          "blend": "Items/Shirt/Elf Shirt/Elf Shirt (Red)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Elf Shirt (White)",
+          "preview": "Items/Shirt/Elf Shirt/Elf Shirt (White)/Elf Shirt (White).png",
+          "blend": "Items/Shirt/Elf Shirt/Elf Shirt (White)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Fall Basics Hoodie Jacket",
       "preview": "Items/Shirt/Fall Basics Hoodie Jacket/FallBasics.png",
       "blend": "Items/Shirt/Fall Basics Hoodie Jacket/Fall Basics Hoodie Jacket.blend",
@@ -3254,6 +3347,31 @@
       "preview": "Items/Shirt/Grey Cyborg Shirt/JayJ.png",
       "blend": "Items/Shirt/Grey Cyborg Shirt/GreyCyborgShirt.blend",
       "children": []
+    },
+    {
+      "label": "Henley",
+      "preview": "Items/Shirt/Henley/Brown.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Black",
+          "preview": "Items/Shirt/Henley/Black/Black.png",
+          "blend": "Items/Shirt/Henley/Black/HenleyBlack.blend",
+          "children": []
+        },
+        {
+          "label": "Brown",
+          "preview": "Items/Shirt/Henley/Brown/Brown.png",
+          "blend": "Items/Shirt/Henley/Brown/HenleyBrown.blend",
+          "children": []
+        },
+        {
+          "label": "Teal",
+          "preview": "Items/Shirt/Henley/Teal/Teal.png",
+          "blend": "Items/Shirt/Henley/Teal/HenleyTeal.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Hoodie Jacket",
@@ -3482,6 +3600,31 @@
       "preview": "Items/Shirt/Mothman T-shirt/Mothmantee.png",
       "blend": "Items/Shirt/Mothman T-shirt/Mothmantee.blend",
       "children": []
+    },
+    {
+      "label": "My Love for PI",
+      "preview": "Items/Shirt/My Love for PI/MyloveforPiWhite.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "MyloveforPIBlack",
+          "preview": "Items/Shirt/My Love for PI/MyloveforPIBlack/MyloveforPIBlack.png",
+          "blend": "Items/Shirt/My Love for PI/MyloveforPIBlack/MyLOveForPiBlack.blend",
+          "children": []
+        },
+        {
+          "label": "MyloveforPiWhite",
+          "preview": "Items/Shirt/My Love for PI/MyloveforPiWhite/MyloveforPiWhite.png",
+          "blend": "Items/Shirt/My Love for PI/MyloveforPiWhite/MyLOveForPiWhite.blend",
+          "children": []
+        },
+        {
+          "label": "shirtoverlongsleeve",
+          "preview": "Items/Shirt/My Love for PI/shirtoverlongsleeve/shirtoverlongsleeve.png",
+          "blend": "Items/Shirt/My Love for PI/shirtoverlongsleeve/ShirtOverLongSleeve.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Nineties Outfit",
@@ -4584,6 +4727,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Frog Boots",
+      "preview": "Items/Shoes/Frog Boots/Untitled.png",
+      "blend": "Items/Shoes/Frog Boots/Frog Boots.blend",
+      "children": []
     },
     {
       "label": "Kitten Heel Shoes",
