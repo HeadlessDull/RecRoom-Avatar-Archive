@@ -1998,6 +1998,12 @@
       "children": []
     },
     {
+      "label": "Tiny Top Hat",
+      "preview": "Items/Hat/Tiny Top Hat/Tiny Top Hat.png",
+      "blend": "Items/Hat/Tiny Top Hat/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Top Hat",
       "preview": "Items/Hat/Top Hat/Top Hat (Black, Red).png",
       "blend": "",
@@ -4075,6 +4081,12 @@
       ]
     },
     {
+      "label": "Rouge Shirt",
+      "preview": "Items/Shirt/Rouge Shirt/Rogue Shirt.png",
+      "blend": "Items/Shirt/Rouge Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Run The Block Cropped Shirt",
       "preview": "Items/Shirt/Run The Block Cropped Shirt/block.png",
       "blend": "Items/Shirt/Run The Block Cropped Shirt/runtheblockcrop.blend",
@@ -4122,6 +4134,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "SFVRCC Promo Shirt",
+      "preview": "Items/Shirt/SFVRCC Promo Shirt/SFVRCC Promo Shirt.png",
+      "blend": "Items/Shirt/SFVRCC Promo Shirt/Untitled.blend",
+      "children": []
     },
     {
       "label": "SciFi Alien Shirt",
@@ -5859,6 +5877,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Rogue Gloves",
+      "preview": "Items/Wrist/Rogue Gloves/Rogue Gloves.png",
+      "blend": "Items/Wrist/Rogue Gloves/Untitled.blend",
+      "children": []
     },
     {
       "label": "Runner Wrist Guard",
