@@ -1589,6 +1589,12 @@
       ]
     },
     {
+      "label": "Frankenstein Head",
+      "preview": "Items/Hat/Frankenstein Head/Frankenstein Head.png",
+      "blend": "Items/Hat/Frankenstein Head/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Gladiator Helmet",
       "preview": "Items/Hat/Gladiator Helmet/Gladiator Helmet.png",
       "blend": "Items/Hat/Gladiator Helmet/Gladiator Helm.blend",
@@ -3287,6 +3293,12 @@
       ]
     },
     {
+      "label": "Frankenstein Shirt",
+      "preview": "Items/Shirt/Frankenstein Shirt/Frankenstein Shirt.png",
+      "blend": "Items/Shirt/Frankenstein Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Full Body Beta Sweater",
       "preview": "Items/Shirt/Full Body Beta Sweater/cap.png",
       "blend": "Items/Shirt/Full Body Beta Sweater/sweater.blend",
@@ -4308,6 +4320,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Team Shirt",
+      "preview": "Items/Shirt/Team Shirt/Untitled.png",
+      "blend": "Items/Shirt/Team Shirt/Untitled.blend",
+      "children": []
     },
     {
       "label": "Tech Camper Hiking Vest",
@@ -5613,6 +5631,12 @@
       "children": []
     },
     {
+      "label": "Frankenstein Wrists",
+      "preview": "Items/Wrist/Frankenstein Wrists/Frankenstein Wrists.png",
+      "blend": "Items/Wrist/Frankenstein Wrists/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Grey Cyborg Gloves",
       "preview": "Items/Wrist/Grey Cyborg Gloves/JayJ.png",
       "blend": "Items/Wrist/Grey Cyborg Gloves/GreyCyborgGloves.blend",
@@ -6059,6 +6083,31 @@
           "label": "Witch Hunter Gloves (White)",
           "preview": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (White)/Witch Hunter Gloves (White).png",
           "blend": "Items/Wrist/Witch Hunter Gloves/Witch Hunter Gloves (White)/Gloves.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Wrist Tape",
+      "preview": "Items/Wrist/Wrist Tape/Wrist Tape (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Wrist Tape (Black)",
+          "preview": "Items/Wrist/Wrist Tape/Wrist Tape (Black)/Wrist Tape (Black).png",
+          "blend": "Items/Wrist/Wrist Tape/Wrist Tape (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Wrist Tape (Cream)",
+          "preview": "Items/Wrist/Wrist Tape/Wrist Tape (Cream)/Wrist Tape (Cream).png",
+          "blend": "Items/Wrist/Wrist Tape/Wrist Tape (Cream)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Wrist Tape (White)",
+          "preview": "Items/Wrist/Wrist Tape/Wrist Tape (White)/Wrist Tape (White).png",
+          "blend": "Items/Wrist/Wrist Tape/Wrist Tape (White)/Untitled.blend",
           "children": []
         }
       ]
