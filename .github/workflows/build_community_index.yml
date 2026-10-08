@@ -1,12 +1,12 @@
-name: Build Index
+name: Build Community Index
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'Items/**'
-      - 'build_index.py'
+      - 'CommunityItems/**'
+      - 'build_community_index.py'
   workflow_dispatch:
 
 jobs:
@@ -22,13 +22,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run build_index.py
-        run: python build_index.py
+      - name: Run build_community_index.py
+        run: python build_community_index.py
 
-      - name: Commit index.json if changed
+      - name: Commit community_index.json if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.json
-          git diff --cached --quiet || git commit -m "chore: rebuild index.json [skip ci]"
+          git add community_index.json
+          git diff --cached --quiet || git commit -m "chore: rebuild community_index.json [skip ci]"
+          git pull --rebase origin main
           git push

@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 """Scan Props/{category}/ subfolders and write props_index.json.
 """
 import os, json
