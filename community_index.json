@@ -1,0 +1,28 @@
+{
+  "Belt": [],
+  "Ear": [],
+  "Eye": [],
+  "Face": [],
+  "Hair": [],
+  "Hat": [],
+  "Legs": [],
+  "Neck": [],
+  "Shirt": [
+    {
+      "label": "Classical Vest - HeadlessDull",
+      "preview": "CommunityItems/Shirt/Classical Vest - HeadlessDull/1035737024210145390.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Tex1",
+          "preview": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex1/1035737024210145390.png",
+          "blend": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex1/1035737024210145390.blend",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "Shoes": [],
+  "Shoulder": [],
+  "Wrist": []
+}
