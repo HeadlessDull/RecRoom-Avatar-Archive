@@ -18,6 +18,12 @@
           "preview": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex1/1035737024210145390.png",
           "blend": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex1/1035737024210145390.blend",
           "children": []
+        },
+        {
+          "label": "Tex2",
+          "preview": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex2/Untitled.png",
+          "blend": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex2/1035737024210145390.blend",
+          "children": []
         }
       ]
     }
