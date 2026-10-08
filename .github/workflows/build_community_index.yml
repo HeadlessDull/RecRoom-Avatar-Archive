@@ -14,8 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (CommunityItems only)
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: CommunityItems
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,6 +32,8 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add community_index.json
+          # Only commit if community_index.json actually changed
           git diff --cached --quiet || git commit -m "chore: rebuild community_index.json [skip ci]"
+          # The main index workflow may have pushed in the meantime
           git pull --rebase origin main
           git push
