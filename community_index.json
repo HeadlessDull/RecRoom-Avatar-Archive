@@ -2,9 +2,23 @@
   "Belt": [],
   "Ear": [],
   "Eye": [],
-  "Face": [],
+  "Face": [
+    {
+      "label": "Whiskers - HeadlessDull",
+      "preview": "CommunityItems/Face/Whiskers - HeadlessDull/1035737024210145390.png",
+      "blend": "CommunityItems/Face/Whiskers - HeadlessDull/Untitled.blend",
+      "children": []
+    }
+  ],
   "Hair": [],
-  "Hat": [],
+  "Hat": [
+    {
+      "label": "Antlers - HeadlessDull",
+      "preview": "CommunityItems/Hat/Antlers - HeadlessDull/1035737024210145390.png",
+      "blend": "CommunityItems/Hat/Antlers - HeadlessDull/Untitled.blend",
+      "children": []
+    }
+  ],
   "Legs": [],
   "Neck": [],
   "Shirt": [
@@ -23,6 +37,25 @@
           "label": "Tex2",
           "preview": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex2/Untitled.png",
           "blend": "CommunityItems/Shirt/Classical Vest - HeadlessDull/Tex2/1035737024210145390.blend",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Hooded CropTop - HeadlessDull",
+      "preview": "CommunityItems/Shirt/Hooded CropTop - HeadlessDull/1035737024210145390.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Normal",
+          "preview": "CommunityItems/Shirt/Hooded CropTop - HeadlessDull/Normal/1035737024210145390.png",
+          "blend": "CommunityItems/Shirt/Hooded CropTop - HeadlessDull/Normal/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Plaid",
+          "preview": "CommunityItems/Shirt/Hooded CropTop - HeadlessDull/Plaid/1035737024210145390.png",
+          "blend": "CommunityItems/Shirt/Hooded CropTop - HeadlessDull/Plaid/Untitled.blend",
           "children": []
         }
       ]
