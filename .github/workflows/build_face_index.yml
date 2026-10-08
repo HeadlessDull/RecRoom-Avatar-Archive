@@ -14,8 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (FaceSheets only)
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: FaceSheets
 
       - name: Set up Python
         uses: actions/setup-python@v5
