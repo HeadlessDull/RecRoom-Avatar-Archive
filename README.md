@@ -1,5 +1,5 @@
 [![status](https://img.shields.io/badge/status-WIP-orange)](https://github.com/HeadlessDull/RecRoom-Avatar-Archive)
-[![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/download/lts/4-5/)
+[![blender](https://img.shields.io/badge/Blender-4.5+-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/releases/5-2/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/UauGKxtuWJ)
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Tutorials-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLqIwMgSelNP18ySgdrIFfycjwcn67o0Vo)
 [![RecRoom World Archive](https://img.shields.io/badge/RECROOM-WORLD%20ARCHIVE-007ec6?logo=github&logoColor=white)](https://github.com/HeadlessDull/RecRoom-World-Archive)
@@ -108,7 +108,7 @@ A large collection of images, textures, and FBX files covering most avatar items
 
 > ⚠️ Does not include UGC community items or known collab items
 >
-> ℹ️ Community-submitted UGC assets may be accepted in the future
+> ℹ️ Community-submitted UGC assets are accepted, and added into its own tab
 >
 > ⚠️ Not all items are Blender-ready yet, we are actively working on expanding compatibility
 
