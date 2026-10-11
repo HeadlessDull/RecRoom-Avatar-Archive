@@ -1472,6 +1472,61 @@
       "children": []
     },
     {
+      "label": "Cowboy Hat",
+      "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cowboy Hat (Black, Gold)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Black, Gold)/Cowboy Hat (Black, Gold).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Black, Gold)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Black, Silver)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Black, Silver)/Cowboy Hat (Black, Silver).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Black, Silver)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Brown)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Brown)/Cowboy Hat (Brown).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Brown)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Cherry)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Cherry)/Cowboy Hat (Cherry).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Cherry)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Green)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Green)/Cowboy Hat (Green).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Green)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Pink)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Pink)/Cowboy Hat (Pink).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Pink)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (White)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (White)/Cowboy Hat (White).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (White)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Hat (Yellow)",
+          "preview": "Items/Hat/Cowboy Hat/Cowboy Hat (Yellow)/Cowboy Hat (Yellow).png",
+          "blend": "Items/Hat/Cowboy Hat/Cowboy Hat (Yellow)/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Fae Horns",
       "preview": "Items/Hat/Fae Horns/Fae Horns (Fall).png",
       "blend": "",
@@ -3143,6 +3198,61 @@
       "preview": "Items/Shirt/Class of 2024/Class of 2024.png",
       "blend": "Items/Shirt/Class of 2024/Class of 2024.blend",
       "children": []
+    },
+    {
+      "label": "Cowboy Vest",
+      "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Cherry).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cowboy Vest (Black, Gold)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Black, Gold)/Cowboy Vest (Black, Gold).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Black, Gold)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Black, Silver)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Black, Silver)/Cowboy Vest (Black, Silver).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Black, Silver)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Brown)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Brown)/Cowboy Vest (Brown).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Brown)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Cherry)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Cherry)/Cowboy Vest (Cherry).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Cherry)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Green)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Green)/Cowboy Vest (Green).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Green)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Pink)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Pink)/Cowboy Vest (Pink).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Pink)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (White)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (White)/Cowboy Vest (White).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (White)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Vest (Yellow)",
+          "preview": "Items/Shirt/Cowboy Vest/Cowboy Vest (Yellow)/Cowboy Vest (Yellow).png",
+          "blend": "Items/Shirt/Cowboy Vest/Cowboy Vest (Yellow)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Creator Rewards Shirt",
@@ -5629,6 +5739,61 @@
       "preview": "Items/Wrist/Bog Monster Wrist/Bog Monster Wrist.png",
       "blend": "Items/Wrist/Bog Monster Wrist/Wrist.blend",
       "children": []
+    },
+    {
+      "label": "Cowboy Gloves",
+      "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Yellow).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Cowboy Gloves (Black, Gold)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Black, Gold)/Cowboy Gloves (Black, Gold).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Black, Gold)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Black, Silver)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Black, Silver)/Cowboy Gloves (Black, Silver).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Black, Silver)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Brown)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Brown)/Cowboy Gloves (Brown).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Brown)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Cherry)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Cherry)/Cowboy Gloves (Cherry).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Cherry)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Green)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Green)/Cowboy Gloves (Green).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Green)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Pink)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Pink)/Cowboy Gloves (Pink).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Pink)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (White)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (White)/Cowboy Gloves (White).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (White)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Cowboy Gloves (Yellow)",
+          "preview": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Yellow)/Cowboy Gloves (Yellow).png",
+          "blend": "Items/Wrist/Cowboy Gloves/Cowboy Gloves (Yellow)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Frankenstein Wrists",
