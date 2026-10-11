@@ -1,6 +1,12 @@
 {
   "Weapons": [
     {
+      "label": "Broom",
+      "preview": "Props/Weapons/Broom/Untitled.png",
+      "blend": "Props/Weapons/Broom/broom.blend",
+      "children": []
+    },
+    {
       "label": "Laser Beam Cannon",
       "preview": "Props/Weapons/Laser Beam Cannon/Lasercannon.png",
       "blend": "Props/Weapons/Laser Beam Cannon/BeamCannon.blend",
@@ -73,6 +79,12 @@
       "children": []
     },
     {
+      "label": "Plush Fish",
+      "preview": "Props/Weapons/Plush Fish/Untitled.png",
+      "blend": "Props/Weapons/Plush Fish/fish.blend",
+      "children": []
+    },
+    {
       "label": "Quest Bow",
       "preview": "Props/Weapons/Quest Bow/bow.png",
       "blend": "Props/Weapons/Quest Bow/Bow.blend",
@@ -113,6 +125,12 @@
       "label": "Shield",
       "preview": "Props/Weapons/Shield/Shield.png",
       "blend": "Props/Weapons/Shield/Shield.blend",
+      "children": []
+    },
+    {
+      "label": "Splat Hammer",
+      "preview": "Props/Weapons/Splat Hammer/Untitled.png",
+      "blend": "Props/Weapons/Splat Hammer/hammer.blend",
       "children": []
     }
   ],
@@ -300,6 +318,12 @@
       "label": "Cardboard Box",
       "preview": "Props/Decoration/Cardboard Box/Box.png",
       "blend": "Props/Decoration/Cardboard Box/Box.blend",
+      "children": []
+    },
+    {
+      "label": "JackoLantern (Pumpkin)",
+      "preview": "Props/Decoration/JackoLantern (Pumpkin)/Untitled.png",
+      "blend": "Props/Decoration/JackoLantern (Pumpkin)/pumpkin.blend",
       "children": []
     },
     {
