@@ -202,6 +202,12 @@
       "children": []
     },
     {
+      "label": "2026 New Years Glasses Eye",
+      "preview": "Items/Eye/2026 New Years Glasses Eye/7xc2t8b24bence5y5bb73vl26.png",
+      "blend": "Items/Eye/2026 New Years Glasses Eye/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Acetate Glasses",
       "preview": "Items/Eye/Acetate Glasses/Acetate Glasses (Amber).png",
       "blend": "",
@@ -311,6 +317,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Heartbreaker Face Mask",
+      "preview": "Items/Eye/Heartbreaker Face Mask/cke6d1yz1s6az52s0zbjby3g8.png",
+      "blend": "Items/Eye/Heartbreaker Face Mask/Untitled.blend",
+      "children": []
     },
     {
       "label": "Mirrored Glasses",
@@ -1435,6 +1447,31 @@
       ]
     },
     {
+      "label": "Chef Hat",
+      "preview": "Items/Hat/Chef Hat/Chef Hat (White).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "Chef Hat (Black)",
+          "preview": "Items/Hat/Chef Hat/Chef Hat (Black)/Chef Hat (Black).png",
+          "blend": "Items/Hat/Chef Hat/Chef Hat (Black)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Chef Hat (White)",
+          "preview": "Items/Hat/Chef Hat/Chef Hat (White)/Chef Hat (White).png",
+          "blend": "Items/Hat/Chef Hat/Chef Hat (White)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "Chef Hat Gingerbread",
+          "preview": "Items/Hat/Chef Hat/Chef Hat Gingerbread/bsjbaa2dqrsr4w1l7b4hroldu.png",
+          "blend": "Items/Hat/Chef Hat/Chef Hat Gingerbread/Untitled.blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Chicken Hat",
       "preview": "Items/Hat/Chicken Hat/Chicken Hat.png",
       "blend": "",
@@ -1656,6 +1693,12 @@
       "children": []
     },
     {
+      "label": "GothicLord TopHat",
+      "preview": "Items/Hat/GothicLord TopHat/Untitled.png",
+      "blend": "Items/Hat/GothicLord TopHat/GothicLord TopHat.blend",
+      "children": []
+    },
+    {
       "label": "Graduation Cap",
       "preview": "Items/Hat/Graduation Cap/Graduation Cap.png",
       "blend": "",
@@ -1681,10 +1724,47 @@
       ]
     },
     {
+      "label": "Grave Digger Hat",
+      "preview": "Items/Hat/Grave Digger Hat/5dexhan2ec1c5syajw0f5zr12.png",
+      "blend": "Items/Hat/Grave Digger Hat/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Grey Cyborg Hat",
       "preview": "Items/Hat/Grey Cyborg Hat/JayJ.png",
       "blend": "Items/Hat/Grey Cyborg Hat/GreyCyborgHat.blend",
       "children": []
+    },
+    {
+      "label": "International Thief Hat",
+      "preview": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Hat (Mastermind)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind)/International Thief Hat (Mastermind).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Outlaw)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Outlaw)/International Thief Hat (Outlaw).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Rogue)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Rogue)/International Thief Hat (Rogue).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Hat (Spy)",
+          "preview": "Items/Hat/International Thief Hat/International Thief Hat (Spy)/International Thief Hat (Spy).png",
+          "blend": "Items/Hat/International Thief Hat/International Thief Hat (Spy)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Jester Hat",
@@ -1916,6 +1996,12 @@
       ]
     },
     {
+      "label": "Rainbow Painter Hat",
+      "preview": "Items/Hat/Rainbow Painter Hat/dxk4kvg5xodricyrq1138wlvm.png",
+      "blend": "Items/Hat/Rainbow Painter Hat/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Runner Helmet",
       "preview": "Items/Hat/Runner Helmet/Runner Helmet (Green).png",
       "blend": "",
@@ -1982,6 +2068,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Snowman Hat",
+      "preview": "Items/Hat/Snowman Hat/e5bvy9za15rnp6kifiwjcz2a3.png",
+      "blend": "Items/Hat/Snowman Hat/Untitled.blend",
+      "children": []
     },
     {
       "label": "Spring Bloom Antlers",
@@ -2151,6 +2243,25 @@
       "children": []
     },
     {
+      "label": "Winged Hat Pride",
+      "preview": "",
+      "blend": "",
+      "children": [
+        {
+          "label": "Winged Hat (Pride)",
+          "preview": "Items/Hat/Winged Hat Pride/Winged Hat (Pride)/Untitled.png",
+          "blend": "Items/Hat/Winged Hat Pride/Winged Hat (Pride)/Winged Hat (Rainbow Pride).blend",
+          "children": []
+        },
+        {
+          "label": "Winged Hat (Trans)",
+          "preview": "Items/Hat/Winged Hat Pride/Winged Hat (Trans)/Untitled.png",
+          "blend": "Items/Hat/Winged Hat Pride/Winged Hat (Trans)/Winged Hat (Trans).blend",
+          "children": []
+        }
+      ]
+    },
+    {
       "label": "Witch Hunter Hat",
       "preview": "Items/Hat/Witch Hunter Hat/Witch Hunter Hat (Blue).png",
       "blend": "",
@@ -2198,6 +2309,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Yeti Guardian Hat",
+      "preview": "Items/Hat/Yeti Guardian Hat/4hvvvzukcod9rt5763y6vctop.png",
+      "blend": "Items/Hat/Yeti Guardian Hat/Untitled.blend",
+      "children": []
     },
     {
       "label": "Zombie Head",
@@ -2400,6 +2517,18 @@
       "children": []
     },
     {
+      "label": "GothicLord Pants",
+      "preview": "Items/Legs/GothicLord Pants/Untitled.png",
+      "blend": "Items/Legs/GothicLord Pants/GothicLord Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Grave Digger Pinstripe Pants",
+      "preview": "Items/Legs/Grave Digger Pinstripe Pants/4s4dmhc399zg0dsymt5jgqmho.png",
+      "blend": "Items/Legs/Grave Digger Pinstripe Pants/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Grey Cyborg Pants",
       "preview": "Items/Legs/Grey Cyborg Pants/JayJ.png",
       "blend": "Items/Legs/Grey Cyborg Pants/GreyCyborgPants.blend",
@@ -2409,6 +2538,12 @@
       "label": "Letterman 87 Pants",
       "preview": "Items/Legs/Letterman 87 Pants/cap.png",
       "blend": "Items/Legs/Letterman 87 Pants/Pants.blend",
+      "children": []
+    },
+    {
+      "label": "Rainbow Painter Pants",
+      "preview": "Items/Legs/Rainbow Painter Pants/67xexa0p2n4vzpgxprcpetmp2.png",
+      "blend": "Items/Legs/Rainbow Painter Pants/Untitled.blend",
       "children": []
     },
     {
@@ -2435,6 +2570,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Snowman Leggings",
+      "preview": "Items/Legs/Snowman Leggings/8qb0fuer8t402tsqlh2fc8ubj.png",
+      "blend": "Items/Legs/Snowman Leggings/Untitled.blend",
+      "children": []
     },
     {
       "label": "Strap Pants",
@@ -2471,6 +2612,12 @@
       "label": "Tech Camper Cargo Shorts",
       "preview": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.png",
       "blend": "Items/Legs/Tech Camper Cargo Shorts/Tech Camper Cargo Shorts.blend",
+      "children": []
+    },
+    {
+      "label": "Yeti Guardian Pants",
+      "preview": "Items/Legs/Yeti Guardian Pants/czqljlx0a03lywhhh4u8rn1tg.png",
+      "blend": "Items/Legs/Yeti Guardian Pants/Untitled.blend",
       "children": []
     }
   ],
@@ -2629,6 +2776,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Heartbreaker Necklace",
+      "preview": "Items/Neck/Heartbreaker Necklace/cn3b6q1v04pt0p7wxfn74bajl.png",
+      "blend": "Items/Neck/Heartbreaker Necklace/Untitled.blend",
+      "children": []
     },
     {
       "label": "Layered Necklace",
@@ -3146,6 +3299,12 @@
       "children": []
     },
     {
+      "label": "Class Reunion Shirt",
+      "preview": "Items/Shirt/Class Reunion Shirt/di6fx9w9q9hu9zvfm4bk56g43.png",
+      "blend": "Items/Shirt/Class Reunion Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Class of 2016",
       "preview": "Items/Shirt/Class of 2016/Class of 2016 Shirt.png",
       "blend": "Items/Shirt/Class of 2016/Class of 2016.blend",
@@ -3446,6 +3605,18 @@
       ]
     },
     {
+      "label": "Gothic Lady Dress",
+      "preview": "Items/Shirt/Gothic Lady Dress/Untitled.png",
+      "blend": "Items/Shirt/Gothic Lady Dress/Gothic Lady Dress.blend",
+      "children": []
+    },
+    {
+      "label": "GothicLord Shirt",
+      "preview": "Items/Shirt/GothicLord Shirt/Untitled.png",
+      "blend": "Items/Shirt/GothicLord Shirt/GothicLord Shirt.blend",
+      "children": []
+    },
+    {
       "label": "Graduation Gown",
       "preview": "Items/Shirt/Graduation Gown/Graduation Gown.png",
       "blend": "",
@@ -3471,9 +3642,21 @@
       ]
     },
     {
+      "label": "Grave Digger Uniform",
+      "preview": "Items/Shirt/Grave Digger Uniform/9a6dm46qstfxtsl07uu9k5gax.png",
+      "blend": "Items/Shirt/Grave Digger Uniform/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Grey Cyborg Shirt",
       "preview": "Items/Shirt/Grey Cyborg Shirt/JayJ.png",
       "blend": "Items/Shirt/Grey Cyborg Shirt/GreyCyborgShirt.blend",
+      "children": []
+    },
+    {
+      "label": "Heartbreaker Jacket Shirt",
+      "preview": "Items/Shirt/Heartbreaker Jacket Shirt/7crkcrt6dtadc8k0ls6nim1ni.png",
+      "blend": "Items/Shirt/Heartbreaker Jacket Shirt/Untitled.blend",
       "children": []
     },
     {
@@ -3506,6 +3689,37 @@
       "preview": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.png",
       "blend": "Items/Shirt/Hoodie Jacket/Hoodie Jacket.blend",
       "children": []
+    },
+    {
+      "label": "International Theif Coat",
+      "preview": "Items/Shirt/International Theif Coat/International Thief Coat (Rogue).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Coat (Mastermind)",
+          "preview": "Items/Shirt/International Theif Coat/International Thief Coat (Mastermind)/International Thief Coat (Mastermind).png",
+          "blend": "Items/Shirt/International Theif Coat/International Thief Coat (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Outlaw)",
+          "preview": "Items/Shirt/International Theif Coat/International Thief Coat (Outlaw)/International Thief Coat (Outlaw).png",
+          "blend": "Items/Shirt/International Theif Coat/International Thief Coat (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Rogue)",
+          "preview": "Items/Shirt/International Theif Coat/International Thief Coat (Rogue)/International Thief Coat (Rogue).png",
+          "blend": "Items/Shirt/International Theif Coat/International Thief Coat (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Coat (Spy)",
+          "preview": "Items/Shirt/International Theif Coat/International Thief Coat (Spy)/International Thief Coat (Spy).png",
+          "blend": "Items/Shirt/International Theif Coat/International Thief Coat (Spy)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Jester Shirt",
@@ -3983,6 +4197,12 @@
       ]
     },
     {
+      "label": "Rainbow Painter Shirt",
+      "preview": "Items/Shirt/Rainbow Painter Shirt/8mim6hemg692bbbxslcdklyjs.png",
+      "blend": "Items/Shirt/Rainbow Painter Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Rec Con Hoodie",
       "preview": "Items/Shirt/Rec Con Hoodie/Rec Con Hoodie (Black).png",
       "blend": "",
@@ -4312,6 +4532,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Snowman Shirt",
+      "preview": "Items/Shirt/Snowman Shirt/drr8i96y0u11b7nkvyw6w0doj.png",
+      "blend": "Items/Shirt/Snowman Shirt/Untitled.blend",
+      "children": []
     },
     {
       "label": "Steampunk Corset",
@@ -4646,6 +4872,12 @@
       ]
     },
     {
+      "label": "Yeti Guardian Shirt",
+      "preview": "Items/Shirt/Yeti Guardian Shirt/cger7odk1871o2l3oxb3bz6kt.png",
+      "blend": "Items/Shirt/Yeti Guardian Shirt/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Zombie Girlscout Shirt",
       "preview": "Items/Shirt/Zombie Girlscout Shirt/2.png",
       "blend": "",
@@ -4881,6 +5113,24 @@
       "children": []
     },
     {
+      "label": "Gothic Lady Shoe",
+      "preview": "Items/Shoes/Gothic Lady Shoe/Untitled.png",
+      "blend": "Items/Shoes/Gothic Lady Shoe/Gothic Lady Shoe.blend",
+      "children": []
+    },
+    {
+      "label": "GothicLord Shoe",
+      "preview": "Items/Shoes/GothicLord Shoe/Untitled.png",
+      "blend": "Items/Shoes/GothicLord Shoe/GothicLord Shoe.blend",
+      "children": []
+    },
+    {
+      "label": "Grave Digger Boots",
+      "preview": "Items/Shoes/Grave Digger Boots/djezngq6k89jbyj53p7dz8ydj.png",
+      "blend": "Items/Shoes/Grave Digger Boots/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Kitten Heel Shoes",
       "preview": "Items/Shoes/Kitten Heel Shoes/JayJ.png",
       "blend": "Items/Shoes/Kitten Heel Shoes/Kitten Heel Shoes.blend",
@@ -4896,6 +5146,12 @@
       "label": "Midnight Gala Dress Shoes",
       "preview": "Items/Shoes/Midnight Gala Dress Shoes/Midnight Gala Dress Shoes (JayJ).png",
       "blend": "Items/Shoes/Midnight Gala Dress Shoes/Midnight Gala Dress Shoes.blend",
+      "children": []
+    },
+    {
+      "label": "Rainbow Painter Shoes",
+      "preview": "Items/Shoes/Rainbow Painter Shoes/1d4878d2uwvntmfcpbkf3kexu.png",
+      "blend": "Items/Shoes/Rainbow Painter Shoes/Untitled.blend",
       "children": []
     },
     {
@@ -4922,6 +5178,18 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Snowman Shoes",
+      "preview": "Items/Shoes/Snowman Shoes/as2rbw1m38qoptt9i9o55ujvg.png",
+      "blend": "Items/Shoes/Snowman Shoes/Untitled.blend",
+      "children": []
+    },
+    {
+      "label": "Yeti Guardian Shoe",
+      "preview": "Items/Shoes/Yeti Guardian Shoe/c96wsbwjlluux83jl91zk4348.png",
+      "blend": "Items/Shoes/Yeti Guardian Shoe/Untitled.blend",
+      "children": []
     }
   ],
   "Shoulder": [
@@ -5196,6 +5464,12 @@
       ]
     },
     {
+      "label": "Candy Corn Cardigan",
+      "preview": "Items/Shoulder/Candy Corn Cardigan/Untitled.png",
+      "blend": "Items/Shoulder/Candy Corn Cardigan/Candy Corn Cardigan.blend",
+      "children": []
+    },
+    {
       "label": "Fancy Cape",
       "preview": "Items/Shoulder/Fancy Cape/Fancy Cape (Gilded).png",
       "blend": "",
@@ -5230,6 +5504,12 @@
       "label": "Gladiator Cape",
       "preview": "Items/Shoulder/Gladiator Cape/Gladiator Cape.png",
       "blend": "Items/Shoulder/Gladiator Cape/Gladiator Cape.blend",
+      "children": []
+    },
+    {
+      "label": "Grave Digger's Shovel",
+      "preview": "Items/Shoulder/Grave Digger's Shovel/a13ld0mpnjgnfww3ibyxpimrr.png",
+      "blend": "Items/Shoulder/Grave Digger's Shovel/Untitled.blend",
       "children": []
     },
     {
@@ -5285,6 +5565,12 @@
       "label": "Messenger Bag",
       "preview": "Items/Shoulder/Messenger Bag/Messenger Bag.png",
       "blend": "Items/Shoulder/Messenger Bag/Bag.blend",
+      "children": []
+    },
+    {
+      "label": "Rainbow Painter Apron",
+      "preview": "Items/Shoulder/Rainbow Painter Apron/4i4uy3ww1tx1uxwfbozp1yfxl.png",
+      "blend": "Items/Shoulder/Rainbow Painter Apron/Untitled.blend",
       "children": []
     },
     {
@@ -5802,10 +6088,47 @@
       "children": []
     },
     {
+      "label": "Gothic Lady Wrist",
+      "preview": "Items/Wrist/Gothic Lady Wrist/Untitled.png",
+      "blend": "Items/Wrist/Gothic Lady Wrist/Gothic Lady wrist.blend",
+      "children": []
+    },
+    {
       "label": "Grey Cyborg Gloves",
       "preview": "Items/Wrist/Grey Cyborg Gloves/JayJ.png",
       "blend": "Items/Wrist/Grey Cyborg Gloves/GreyCyborgGloves.blend",
       "children": []
+    },
+    {
+      "label": "International Thief Gloves",
+      "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Outlaw).png",
+      "blend": "",
+      "children": [
+        {
+          "label": "International Thief Gloves (Mastermind)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Mastermind)/International Thief Gloves (Mastermind).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Mastermind)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Outlaw)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Outlaw)/International Thief Gloves (Outlaw).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Outlaw)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Rogue)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Rogue)/International Thief Gloves (Rogue).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Rogue)/Untitled.blend",
+          "children": []
+        },
+        {
+          "label": "International Thief Gloves (Spy)",
+          "preview": "Items/Wrist/International Thief Gloves/International Thief Gloves (Spy)/International Thief Gloves (Spy).png",
+          "blend": "Items/Wrist/International Thief Gloves/International Thief Gloves (Spy)/Untitled.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "Jester Gloves",
@@ -6142,6 +6465,12 @@
       ]
     },
     {
+      "label": "Snowman Glove",
+      "preview": "Items/Wrist/Snowman Glove/02xkrn3mq31czhruc7ozmo7cf.png",
+      "blend": "Items/Wrist/Snowman Glove/Untitled.blend",
+      "children": []
+    },
+    {
       "label": "Steampunk Cuff",
       "preview": "Items/Wrist/Steampunk Cuff/Steampunk Cuff (Silver).png",
       "blend": "",
@@ -6421,6 +6750,12 @@
           "children": []
         }
       ]
+    },
+    {
+      "label": "Yeti Guardian Glove",
+      "preview": "Items/Wrist/Yeti Guardian Glove/9lirot16kadwdne90k2nq2efj.png",
+      "blend": "Items/Wrist/Yeti Guardian Glove/Untitled.blend",
+      "children": []
     },
     {
       "label": "Zombie Hands",
