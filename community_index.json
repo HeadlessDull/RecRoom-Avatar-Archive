@@ -76,5 +76,12 @@
     }
   ],
   "Shoulder": [],
-  "Wrist": []
+  "Wrist": [
+    {
+      "label": "Wireframehand - thefinalcore",
+      "preview": "CommunityItems/Wrist/Wireframehand - thefinalcore/799480782439448579.png",
+      "blend": "CommunityItems/Wrist/Wireframehand - thefinalcore/wireframehand - Soup Tastic.blend",
+      "children": []
+    }
+  ]
 }
