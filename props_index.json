@@ -166,6 +166,12 @@
       "children": []
     },
     {
+      "label": "Cone",
+      "preview": "Props/Toys/Cone/Untitled.png",
+      "blend": "Props/Toys/Cone/Prop.blend",
+      "children": []
+    },
+    {
       "label": "Dart",
       "preview": "Props/Toys/Dart/Dart.png",
       "blend": "Props/Toys/Dart/Dart.blend",
@@ -184,10 +190,35 @@
       "children": []
     },
     {
+      "label": "Frisbee",
+      "preview": "Props/Toys/Frisbee/Untitled.png",
+      "blend": "Props/Toys/Frisbee/Prop.blend",
+      "children": []
+    },
+    {
       "label": "Ham",
       "preview": "Props/Toys/Ham/Ham.png",
       "blend": "Props/Toys/Ham/Ham.blend",
       "children": []
+    },
+    {
+      "label": "Magazines",
+      "preview": "Props/Toys/Magazines/Untitled.png",
+      "blend": "",
+      "children": [
+        {
+          "label": "LaserFan",
+          "preview": "Props/Toys/Magazines/LaserFan/Untitled.png",
+          "blend": "Props/Toys/Magazines/LaserFan/Prop.blend",
+          "children": []
+        },
+        {
+          "label": "LaserFan2000",
+          "preview": "Props/Toys/Magazines/LaserFan2000/Untitled.png",
+          "blend": "Props/Toys/Magazines/LaserFan2000/Prop.blend",
+          "children": []
+        }
+      ]
     },
     {
       "label": "MakerPen",
@@ -268,6 +299,12 @@
       "preview": "Props/Toys/Water Bottle/WaterBottle.png",
       "blend": "Props/Toys/Water Bottle/WaterBottle.blend",
       "children": []
+    },
+    {
+      "label": "Water Jug",
+      "preview": "Props/Toys/Water Jug/Untitled.png",
+      "blend": "Props/Toys/Water Jug/Prop.blend",
+      "children": []
     }
   ],
   "Decoration": [
@@ -275,6 +312,12 @@
       "label": "Andy Standee",
       "preview": "Props/Decoration/Andy Standee/AndyStandee.png",
       "blend": "Props/Decoration/Andy Standee/AndyStandee.blend",
+      "children": []
+    },
+    {
+      "label": "Bell",
+      "preview": "Props/Decoration/Bell/Untitled.png",
+      "blend": "Props/Decoration/Bell/Prop.blend",
       "children": []
     },
     {
@@ -324,6 +367,12 @@
       "label": "JackoLantern (Pumpkin)",
       "preview": "Props/Decoration/JackoLantern (Pumpkin)/Untitled.png",
       "blend": "Props/Decoration/JackoLantern (Pumpkin)/pumpkin.blend",
+      "children": []
+    },
+    {
+      "label": "Laundry Hamper",
+      "preview": "Props/Decoration/Laundry Hamper/Untitled.png",
+      "blend": "Props/Decoration/Laundry Hamper/Prop.blend",
       "children": []
     },
     {
